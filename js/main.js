@@ -188,7 +188,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             of revolutionary France.
             </P>
 
-            <P>And today we all humans use electrical machines every second and it was a Britisher
+            <P>About technology, today we all humans use electrical machines every second and it was a Britisher
             by name Michael Faraday living in the 1800s who enabled our modern use of electrical machines
             by devising the mechanisms and understandings of electro-magnetism and electro-chemistry.
             Going about 2000 years back, the Greeks used an entirely mechanical machine to determine
@@ -197,7 +197,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             the waters off the Greek island of Antikythera in 1901. This mechanical machine
             used the lunar calendar from Ancient Egypt possibly dating back a thousand years
             previous to the devising of this machine, which means more than 3000 years previous
-            to our present modern age.
+            to our present modern age. In India, between the 1850s and 1930s lived the "polymath"
+            Jagadish Chandra Bose... a man interested in many sciences including humane social conduct.
+            He was the first to investigate microwave radiofrequency and made great discoveries
+            in botany and among his researches living now is our modern telecom including the everywhere-present
+            cell phone. He also treated other humans in an equal manner, whether they be
+            of "lower caste" or of other religions, and he was against the patent system
+            so in today's terms he can be called part of the earlier Open Source Knowledge movement
+            that benefits all of Earth.
             </P>
 
             <p>So it will be irrational, immoral and ungrateful for a group from Earth to claim national or 
@@ -526,8 +533,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             questions which have benefited humanity throughout its history in its bettered social systems 
             and better technology and the presence of Human in Space. </p>
             
-            <p> Knowledge is bettered when it is shared without being taxed and without demands that the 
-            receiver must only be of certain artificial social classes including having five college degrees 
+            <p> Knowledge is bettered when it is shared freely with all, without being taxed and without demands that the 
+            receiver must only be of certain artificial social classes including having two college degrees 
             compulsorily. There are some societies which have more college degree graduates presently 
             than the entire human populations of some other societies. However, the former societies 
             generally are not considered among the contributors of science and technology nor of better 
@@ -861,7 +868,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <ul style='margin-bottom:1em;'>
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Tourism i.e. 
-              just the simple natural act of experiencing the cosmos.</li>
+              just the simple natural act of experiencing the kosmos.</li>
 
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Mining moons, 
               asteroids and other space bodies.</li>
@@ -875,7 +882,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             will never be able to go to space because the space industry imposes technological restrictions 
             and anti-democratic social restrictions which we list below.</p>
             
-            <h2>Technological restrictions of the current space industry:</h2>
+            <h2>Technological restrictions of the current space industry</h2>
             
             <p>The current means of going to space is the Tall Rocket 
             which is an inefficient, expensive, complicated and unsafe system in the following ways :</p>
@@ -904,7 +911,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               </li>
 
               <li style="margin-left:1em; margin-bottom:10px;"> 
-              <span>(b).</span>Inefficient also because even before the rocket leaves the launch pad, it is associated
+              <span>(b).</span> Inefficient also because even before the rocket leaves the launch pad, it is associated
               with massive infrastructure, even just to hold the massive rocket steady till it is ready to
               launch. And that requires the efforts of a very large number of people who may have been
               doing other works if the spacecraft system was an efficient system… even by themselves
@@ -946,8 +953,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               </li>
             </ul>
             
-            <p>Thus the Tall Rocket is an obsolete method of travel to space.
-            </p>
+            <p>Thus the Tall Rocket is an obsolete method of travel to space.</p>
 
             <p>
             There is another type of launch system which is the Space-plane and this is under design by 
@@ -1041,7 +1047,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             space living as common as hotel stay, and these should flow into evolving human 
             society on Earth too. Potentially every human should be able to access space, 
             live in space and attain their potential in space, whenever he or she desires, 
-            with a minimal usage fee or no fee at all, in the now and in the far far future.</p>
+            with a minimal usage fee or no fee at all, in the now and in the far far future. 
+            This is the simple law of Nature.
+            </p>
             
             <p style='margin-bottom:1em;'>Towards this, we of Kosmos Society will build all 
             the systems, whether the spaceships or the computers or the electricity generators 
@@ -1352,7 +1360,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         }
             
           </style>
-          <h2>Join us :</h2>
+          <h2>Join us</h2>
           <div style="color:#FFFFc5;font-size:1.1em;">
 
             <p style="margin-bottom:10px;"> Join us in the journey to explore the universe and evolve humanity. We will be a 
@@ -1366,7 +1374,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p style="margin-bottom:10px;"> <span> >> </span> Combination of the above. </p>
 
-            <h2> B2G and B2B collaborations:</h2> 
+            <h2> B2G and B2B collaborations</h2> 
             
             <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaboration via government and private investors investing money and 
             other resources in us so that we will be able to produce our prototypes and license them out 
@@ -1391,10 +1399,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             program so that every citizen of theirs can go to space and live in space either by being 
             charged a minimal fee or ideally no fees. </p>
 
-            <h2>You as our co-worker :</h2> 
+            <h2>You as our co-worker</h2> 
 
             <p style="margin-bottom:10px;"> This collaboration will be on the basis of natural social equality and natural intelligence. We 
-            look for people ideally with the following attributes: </p> 
+            look for people ideally with the following attributes : </p> 
 
             <p style="margin-bottom:10px;"> <span> >> </span> You can be a school 10th class fail but if you have ideas, knowledge, willingness to work 
             and maybe experience in tinkering and other areas then most welcome. </p>
@@ -1412,10 +1420,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             borderless unification of humanity on Earth and in Space. </p>
 
            <p style="margin-bottom:10px;"> <span> >> </span> You consider the cat as the 
-           most perfect animal in the universe, heh heh. </p>
+           most perfect animal in the universe, ha ha. </p>
 
            <p style="margin-bottom:10px;"> <span> >> </span> You consider tea as one of the
-            main human gifts giveable to alien cultures, heh heh. </p>
+            main human gifts giveable to alien cultures, ha ha. </p>
 
            <p style="margin-bottom:10px;"> We are not a typical profiteering and feudalist corporate organization which works on 
             fashionable and senseless technologies and uses senseless corporate lingo in every 
@@ -1424,7 +1432,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             through the far far future and that includes our co-workers ( “co-workers” and not “workers” ) 
             being allowed to attain their fullest potential and that in a democratic way. “Liberty, Equality, 
             Fraternity” is after all one of our credos. So our company-internal organization of people 
-            employs the Workers Cooperative concept which is described in the “Same Water…” 
+            employs the Workers Cooperative concept which is described in the “Same Water constitution for Space” 
             chapter on this website. Please read that chapter and return to this point. Additionally in our 
             company : </p>
 
@@ -1457,7 +1465,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             salary and we all get salaries so please be patient and look at the big picture and the long 
             term. </p>
 
-            <h2>Our founding team :</h2>
+            <h2>Our founding team</h2>
            
              <div>
              <img src="assets/Sameer .jpeg" 
@@ -1622,27 +1630,27 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           </style>
           <h2>Credits</h2>
           <div>
-            <p><span>&gt;&gt;</span> Vikram for the logo, the website design and the spark for Sameer to have this Credits page.</p>
+            <p><span>&gt;&gt;</span> Vikram for the logo, the website design and for the spark for Sameer to have this Credits page.</p>
             
-            <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page ( forgot the page name ) in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the owner of that Insta page and the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
+            <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page ( sadly forgot the page name ) in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the owner of that Insta page and the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
 
                         
             <p><span>&gt;&gt;</span> Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>
             
             <p><span>&gt;&gt;</span> The YouTube channel “The Action Lab” for the idea about using heat to run a piston engine. This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ]. This we use in our design of the Faradn generator.</p>
 
-            <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which we use to name our constitution for space. The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] and there are other songs there too.</p>
-
-            <p><span>&gt;&gt;</span> Background picture for the website is from the DeviantArt website’s DreamUp AI picture generation facility.</p>
-
             <p><span>&gt;&gt;</span> Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology (
               EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing.</p>
              
             <p><span>&gt;&gt;</span> Planetary Science Division of NASA for the idea of creating an artificial magnetosphere
              for Red One.</p>
+
+            <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which we use to name our constitution for space. The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] and there are other nice songs there.</p>
              
             <p><span>&gt;&gt;</span> Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be
              read here [ <a href="https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf" target="_blank" style="color:#0000FF;">https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf</a> ].</p>
+
+            <p><span>&gt;&gt;</span> Background picture for the website is from the DeviantArt website’s DreamUp AI picture generation facility.</p>
             
             <p><span>&gt;&gt;</span> In general all the good thinkers of the past and present whose thoughts and works we use in our projects.</p>
           </div>
@@ -1746,34 +1754,35 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             generator fails But this battery will have to be eco-friendly and socially harmonious 
             in terms of its electricity storage materials, electrodes and packaging.</p>
             
-            <h2>The Alef-A airship-spaceship :</h2>
+            <h2>The Alef-A airship-spaceship</h2>
             
             <p>
             The Alef-A airship-spaceship will be shaped like an upside-down teacup without the handle,
             and its lift gases will be helium gas and hot air, and its horizontal travel or lift into higher
             atmosphere and then into space will be assisted by electric rotors, coal combustion and
             water steam jets. Of course the gas lift and electric rotors are usable only if that world has air
-            / atmosphere. The coal propulsion and steam jets can be used on any world and these fuels
+            / atmosphere. The coal propulsion and steam jets can be used on any world and when in atmosphere these fuels
             are non-recoverable i.e. once they combust or are expelled they cannot be recovered to their
             original form and be reused. And then once this craft is in space it will be propelled largely by
             water steam jets where through an arrangement most of the steam is recovered to water and
             reused to be jetted again to enable longer-distance continuous-thrust travel, thus the water
-            steam here is a largely recoverable fuel. The Alef-A will allow for ascent / descent on a world
-            and short-distance space travel like from Earth to Moon’s surface.
+            steam here is a largely recoverable fuel. Coal combustion will also be used for 
+            effects like braking and positioning near destinations and then for descent on some world.
+            The Alef-A will allow for ascent / descent on a world and short-distance space travel like from Earth to Moon’s surface.
             </p>
 
-            <h2>The Alef-F space ferry :</h2>
+            <h2>The Alef-F space ferry</h2>
             
             <p>
             The Alef-F will be a space-bound ferry large enough to carry five Alef-A crafts and a hundred
             humans and a hundred tons of other cargo and will be primarily propelled by water steam
             jets but will include coal propulsion for momentary high-thrust-requiring situations. It will have
             sufficient growing facilities for food crop, fuel crop ( for the coal via biocoal ), other crops, a
-            clinic, mini mills for textile, metalwork, bio-engineering, electricals and computers, then
+            clinic, mini mills for textile, woodwork, metalwork, bio-engineering, electricals and computers, then
             tailoring, research facility, mineral processing, water storage, a small swimming pool that is
             time-segregated for men and women… all this for largely self-sustained long-term living and
             far travel. And telescopes. This ferry will be able to travel from the Inner Solar System to the
-            Outer Solar System and station around various worlds and objects to enable from-orbit
+            Outer Solar System and station around various worlds and space objects to enable from-orbit
             observations and allow descent-ascent using the Alef-A crafts. The cargo can be anything
             including mining equipment and habitation-building material. Thus this ferry craft is much
             better than the current and proposed space stations around Earth and the Moon. It can also
@@ -1786,7 +1795,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             orbit by the Alef-A crafts.
             </p>
 
-            <h2>About both Alef-A and Alef-F spaceships :</h2>
+            <h2>About both Alef-A and Alef-F spaceships</h2>
             
             <p>The name “Alef” is a joined word with the below meaning :</p>
            
@@ -1828,7 +1837,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
              worlds like the Moon or Red One.
              </p>
             
-              <h2> Ra-H hovercraft-wheelcraft-aircraft : </h2>
+              <h2> Ra-H hovercraft-wheelcraft-aircraft </h2>
             
             <p> 
             The name of this vehicle comes from the name Ra who was the supreme ancient Egyptian
@@ -1900,7 +1909,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             emergency in a certain location.
             </p>
             
-            <h2>A spacesuit called Stillsuit :</h2>
+            <h2>A spacesuit called Stillsuit</h2>
             
             <p>
             The design of this spacesuit is still in consideration but it will be a hardsuit to allow easy
@@ -1917,7 +1926,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>
             The helmet will include a simple, mechanical system to scratch the face, the eyelids and dab
-            the face of sweat.
+            the face of sweat and tears.
             </p>
             
             <p>
@@ -1949,7 +1958,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Dune stories when they go out into the desert.
             </p>
             
-            <h2>Dune Buk wearable computer :</h2>
+            <h2>Dune Buk wearable computer</h2>
             
             <p>
             Dune Buk will be a general-purpose space-operable wearable computer which will be about
@@ -2025,7 +2034,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             A further development will be enabling disabled people to use the wearable.
             </p>
 
-            <h2>Also, the Dune Buk wearable is related to two other machines :</h2>
+            <h2>Also, the Dune Buk wearable is related to two other machines</h2>
                         
             <p>
             <span>(a).</span> Ra-D, a heater-equipped drone small enough to fit on top of the Dune Buk wearable
@@ -2045,7 +2054,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             animal in the Dune stories but here for ice.
             </p>   
                      
-            <h2>Exoskeleton :</h2>
+            <h2>Exoskeleton</h2>
 
             <p>
             Exoskeletons may be assisted by electricity though largely will depend on human movement.
@@ -2078,7 +2087,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             normal usages.
             </p>
             
-            <h2>Biology researches :</h2>
+            <h2>Biology researches</h2>
             
             <p> Like :</p>
             
@@ -2146,7 +2155,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             </p>
 
             <h2> One derivation of these researches is eradicating hunger on Earth. Hunger is a two part
-              problem :
+              problem
               </h2>
             
               <p>
@@ -2185,7 +2194,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             attendant pollution and human physical labor.
             </p>
              
-            <h2>Habitat construction on other worlds :</h2>
+            <h2>Habitat construction on other worlds</h2>
 
             <p>
             <span>(a).</span> Building most of the habitation underground for protection against space radiation, low
@@ -2233,7 +2242,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             are in space. Form and function, both are important.
             </p>
 
-            <h2> Machines for water :</h2>
+            <h2> Machines for water</h2>
 
             <p>
             These include :
@@ -2251,7 +2260,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <span> >> </span> Electrolysis machines.
             </p>
             
-            <h2>Serf autonomous satellite for Earth orbit debris cleaning :</h2>  
+            <h2>Serf autonomous satellite for Earth orbit debris cleaning</h2>  
             
             <p>
             There are an estimated 100 million human-made pieces of various sizes in Earth orbit, made
@@ -2332,7 +2341,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             The serf toils to survive in an artificially created wrong situation.
             </p>
             
-            <h2>Terraforming :</h2>
+            <h2>Terraforming</h2>
 
             <p>
             Explore how to terraform other worlds like Red One. For example, because Red One doesn’t
@@ -2344,7 +2353,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             coverage.
             </p>
 
-            <h2>To the stars :</h2>
+            <h2>To the stars</h2>
 
             <p>
             Journeys beyond our solar system means research on two things particularly :

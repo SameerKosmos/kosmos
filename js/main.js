@@ -91,7 +91,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
                 from as recent as the French Revolution of the late 1700s which led to France becoming a
                 Republic which was meant to become citizen-governed with natural human freedoms as
                 against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
-                We must look at this a bit further.
+                We must look at this a bit further to understand the non-Universe basis of human nations.
                 </P>
 
               <p>
@@ -273,7 +273,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             in Space.</p> 
 
             <h2>Social organization in 
-            Space travel and Space living : </h2>
+            Space travel and Space living</h2>
 
             <p>The primary reasons for the exploration in Space will include : </p>
             <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Tourism. </p>
@@ -292,7 +292,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p>So the organization of work groups in Space should be democratic and that is easily done by 
             organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
-            with the older ideas of liberty, equality and fraternity. <br> A Workers Cooperative has seven 
+            with the older ideas of liberty, equality and fraternity. <br> A Workers Cooperative has eight 
             general outcomes :</p>
 
             <p style="margin-left:1em; margin-bottom:10px";> 
@@ -385,7 +385,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Thus harmony in Space and also harmony contributed on Earth when these people return to 
             Earth carrying their gentle experiences in the Space Workers Cooperatives. </P>
 
-            <h2 >Tea and Space : </h2>
+            <h2 >Tea and Space</h2>
 
             <p> Intoxicating substances like alcohol should not be used in the inherently risks-filled 
             environment of Space, including the social mistakes people will make by such consumption 
@@ -412,19 +412,19 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p> And maybe tea grown in Space may become a new variety or multiple varieties in 
             accordance with conditions in different Space locations. </p>
           
-            <h2>Appearance and personality of the Space travellers : </h2>
+            <h2>Appearance and personality of the Space travellers</h2>
             
             <p> [ To be done ] </p>
 
-            <h2> Effects of greatly increased human life : </h2>
+            <h2> Effects of greatly increased human life</h2>
             
             <p> [ To be done ] </p>
             
-            <h2> Family system in Space : </h2>
+            <h2> Family system in Space</h2>
             
             <p> [ To be done ] </p>
 
-            <h2>Sports and recreation in Space : </h2>
+            <h2>Sports and recreation in Space</h2>
 
             <p> These should be rational, gentle, health-building, natural, humanist and contribute to 
             harmony and collaborativeness in the risks-filled environment of Space. A system better and 
@@ -442,14 +442,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>[ To be done ] </p>
             
-            <h2>Human language in Space : </h2>
+            <h2>Human language in Space</h2>
 
             <p> English is the most appropriate language and will be the base language in our Frema 
             internet system but provision must be there for use of other languages but with the 
             understanding that such communications must be open and translatable and pronounceable 
             by other language speakers. </p>
 
-            <h2>Education in Space :</h2> 
+            <h2>Education in Space</h2> 
 
             <p>The purposes of education are these : </p> 
 
@@ -534,22 +534,22 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             human systems despite these societies considering a college degree as being the mark of 
             knowledge. Indeed, these societies are mere users of machines and knowledges that other 
             societies and individual people of natural thinking created over thousands of years without 
-            consideration of college degrees or other kinds of artificial social separations. Michael 
-            Faraday is the person whose experiments in electro-magnetics and electro-chemistry have 
+            consideration of college degrees or other kinds of artificial social separations. Our friend Michael 
+            Faraday is the person whose experiments in electro-magnetism and electro-chemistry have 
             led to our modern world using electrical machinery whether the washing machine or the cell 
             phone. And he studied only till middle school in terms of the modern assembly-line 
             degree-based education system. He was not at all a college graduate, let alone one with 
             three post-graduate diplomas and subsequent 50 years of professional experience. This 
             means that those societies which place great multi-generational emphasis on college 
-            degrees must stop using electrical machinery because this field was forwarded by the 
+            degrees and disrespect anyone not achieving those,
+            must stop using electrical machinery because this field was forwarded by the 
             “unschooled” Michael Faraday. Stopping thus will be a principled stand. But will they ? 
             </p>
             
             <p> So it follows that education in Space must be natural and democratic… democratic not only 
-            in the source people but also the receiver people. In the modern world there have been four 
-            big examples of untaxed and for-all education and collaboration systems : one the internet 
-            itself, second the Open Source Computing movement, third the Wikipedia and fourth the 
-            Khan Academy. These examples should be continued in the exploration and settlement of 
+            in the source people but also the receiver people. In the modern world, other than paper literature,
+            there have been three big examples of untaxed and for-all education and collaboration systems : one the Open Source Computing movement,
+            second the Wikipedia and third the Khan Academy. These examples should be continued in the exploration and settlement of 
             Space. Since we speak for Workers Cooperatives as the organizational method for humans 
             in Space, each of the people involved in the cooperatives should be participants in 
             live-narrating their experiences in Space as also later recording their experiences and 
@@ -565,11 +565,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Solar System. </p>
             
             <p> Then comes the continued education of younger humans in Space who have arrived from 
-            Earth or those younger humans born in Space. The medium of education must be English 
-            but also considered with regards to the birth language of that younger human. But a lot of 
+            Earth or those younger humans born in Space, and humans in general because education is life-long learning.
+            The medium of education must be English but also considered with regards to the birth language of that younger human. But a lot of 
             this aspect has to be developed not now but once Space settlement starts in full flow. </p>
             
-            <h2>Basis of satellite design : </h2>
+            <h2>Basis of satellite design</h2>
             
             <p> There should be no design of needless nano-satellites and larger satellites that are currently 
             built by every second engineering college and launched into Earth orbit by misguided launch 
@@ -584,7 +584,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Please read the section about Serf satellite in the “More on some of our techno projects” 
             chapter on this website. </p>
             
-            <h2>Mining in Space : </h2>
+            <h2>Mining in Space</h2>
             
             <p> Space belongs to no single human nation state. Space belongs to all humankind in a 
             collective sense and no nation state can endanger other humans by placing weapons of 
@@ -603,7 +603,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             collectively prosperous. It then also follows the necessity that national governments on Earth 
             will participate in such a democratic pan-humanist effort.</p>                
 
-            <h2>Project Mirkeen-1 : </h2>
+            <h2>Project Mirkeen-1</h2>
 
             <p> Project Mirkeen-1 will be our effort in building a humanity-uniting progressive research base 
             on the Moon ( Earth's moon ), having the name “Mirkeen-1” and to be built beginning in 
@@ -688,7 +688,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               Svalbard Global Seed Vault.
               </p>
 
-            <h2> City design and city reconfiguration on Earth : </h2>
+            <h2> City design and city reconfiguration on Earth</h2>
             
             <p>The Space experiences including the Mirkeen-1 base and our Space machines will provide 
             derivations for city design for Earth and its transportation. This effort will consist of designing 
@@ -760,7 +760,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>[ To be done ] </p> 
            
-            <h2> Meetings or sightings of aliens : </h2>
+            <h2> Meetings or sightings of aliens</h2>
             
             <p>It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
             or beyond the Solar System, whether in the form of bacteria or as plants or as more 
@@ -851,10 +851,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
 
           </style>
-          <h2>Bases Of Our Yuri Plan</h2>
+          <h2>The two reasons for our Yuri Plan</h2>
           <div style="color:##FFFFc5;font-size:1.1em;font-family:Roboto,sans-serif;">
            
-            <h2>The disappointed 100,000 people desiring space travel :</h2>
+            <h2>The disappointed 100,000 people desiring space travel</h2>
             
             <p>Now in 2025 there must be at least 100,000 people in the world desiring to go to space 
             right now for the below reasons :</p>
@@ -946,14 +946,17 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               </li>
             </ul>
             
-            <p>Thus the Tall Rocket is an obsolete method of travel to space. 
+            <p>Thus the Tall Rocket is an obsolete method of travel to space.
+            </p>
+
+            <p>
             There is another type of launch system which is the Space-plane and this is under design by 
             some organizations. This system has the spaceship formed like a regular aeroplane and takes off 
             from the ground from a runway like a regular aeroplane usually using jet engines but when it 
             reaches higher atmosphere it fires another set of engines which are a multiple of small rocket 
             engines which push the space-plane to orbit and then farther into not-distant space. A variation 
             has a single type of engines which operate both as the takeoff engines and then the space-taking 
-            engines. However, the space-plane has the following disadvantages: </p>
+            engines. However, the space-plane has the following disadvantages : </p>
             
             <ul>
               <li style="margin-left:1em; margin-bottom:10px;">
@@ -979,7 +982,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
               <p>So the space-plane is also not the solution.</p>
                       
-              <h2>Social restrictions of the current space industry :</h2>
+              <h2>Social restrictions of the current space industry</h2>
             
               <p>Aspiring space travellers either have to be very rich 
               to pay for a single ticket ( at least 20 millions dollars ) to launch on the rockets 
@@ -1018,7 +1021,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
                workers, students, daily-wagers and women.</li>
             </ul>
             
-            <h2>The techno-social restrictions coming together: </h2>
+            <h2>The techno-social restrictions coming together</h2>
             
             <p style='margin-bottom:1em;'>So all this hurry-burry and artificial glamor of 
             the current space industry is pointless in the end for the at least 100,000 other 
@@ -1028,7 +1031,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             and humanity in general are encouraged to glorify this industry and its feudal owners. 
             These are fake heroes.</p>
             
-            <h2> Our solution : The Yuri Plan : </h2>
+            <h2> Our solution : The Yuri Plan</h2>
             
             <p style='margin-bottom:1em;'>This plan is named after Yuri Gagarin, 
             the Soviet cosmonaut who was the first human in space. There is an entire 
@@ -1211,20 +1214,20 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p style="margin-bottom:10px;"> Employ the concept of Circular Economy which also relates 
             to:</p>
            
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(a)</span> Much simplified technology.</p>
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> Much simplified technology.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(b)</span> Decentralization and ease of production and 
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> Decentralization and ease of production and 
             usage which includes electricity generation.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(c)</span> Using locally available methods 
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> Using locally available methods 
             and materials when possible for production and repair.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(d)</span> Technology that is well-crafted
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Technology that is well-crafted
              yet affordable by the masses.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(e)</span> Local empowerment.</p>
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Local empowerment.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(f)</span> Technologies selected which help
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Technologies selected which help
              humanity anywhere return easier to advancement or be resilient when situation becomes bad 
              because of natural or other events like unusually big solar storm, comet or asteroid strike, 
              a pointless global war etc.</p>

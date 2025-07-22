@@ -2189,9 +2189,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p>
             Engineered bacteria can perhaps be used to construct useful matter from other existent
             matter. For example to get the helium gas which our Alef-A airships require as their main lift
-            gas, or to obtain nutrients for plants, or to construct water. The raw material matter can be
-            asteroid rock etc. This will remove the need for a lot of mineral processing factories and their
-            attendant pollution and human physical labor.
+            gas, or to obtain nutrients for plants, or to extract water or even construct water.
+            The raw material matter can be asteroid rock etc. This will remove the need for a lot of mineral processing factories
+            and their attendant pollution and human physical labor.
             </p>
              
             <h2>Habitat construction on other worlds</h2>

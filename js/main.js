@@ -167,9 +167,13 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             years ago thought up the semi-democratic idea of Demokratia where many non-slave male 
             citizens directly participated in the governance of their cities rather than kings and lower 
             feudals doing it. And these Greeks themselves took some of their science ideas and social philosophies 
-            from Egypt and West Asia. Also, humans have mixed throughout history and this point becomes apparent
-            when we speak of these Demokratia Greeks sharing their era with another great liberator, Buddha, in South 
-            Asia / India, and Buddha's ideas being preached later. The South Asian / Indian great emperor Ashoka
+            from Egypt and West Asia.
+            </p>
+            
+            <p>
+            Also, humans have mixed throughout history and this point becomes apparent
+            when we speak of those Demokratia Greeks sharing their era with another great liberator, Buddha, in South 
+            Asia / India, and when we speak of Buddha's ideas being preached later. The South Asian / Indian great emperor Ashoka
             lived more than two centuries after Buddha. He was great not because he was an emperor
             but because he used his position to advance the teachings of Buddha throughout South Asia / India and beyond.
             Ashoka’s ancestry may have had cross-cultural connections because his grandfather the king Chandragupta Maurya
@@ -191,14 +195,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <P>About technology, today we all humans use electrical machines every second and it was a Britisher
             by name Michael Faraday living in the 1800s who enabled our modern use of electrical machines
             by devising the mechanisms and understandings of electro-magnetism and electro-chemistry.
-            Going about 2000 years back, the Greeks used an entirely mechanical machine to determine
+            Going about 2000 years earlier than Faraday, the Greeks used an entirely mechanical machine to determine
             astronomical positions and events like eclipses years in advance. This machine
             is now called Antikythera Mechanism because one sample of this machine was found under
-            the waters off the Greek island of Antikythera in 1901. This mechanical machine
-            used the lunar calendar from Ancient Egypt possibly dating back a thousand years
+            the waters off the Greek island of Antikythera in 1901. This mechanical machine is considered
+            the earliest analog computer and used the lunar calendar from Ancient Egypt possibly dating back a thousand years
             previous to the devising of this machine, which means more than 3000 years previous
-            to our present modern age. In India, between the 1850s and 1930s lived the "polymath"
-            Jagadish Chandra Bose... a man interested in many sciences including humane social conduct.
+            to our present modern age. Jumping back to the modern age, in India between the 1850s and 1930s 
+            lived the "polymath" Jagadish Chandra Bose... a man interested in many sciences including humane social conduct.
             He was the first to investigate microwave radiofrequency and made great discoveries
             in botany and among his researches living now is our modern telecom including the everywhere-present
             cell phone. He also treated other humans in an equal manner, whether they be
@@ -369,7 +373,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Cooperative members and also the interface of that Workers Cooperative to the outside and 
             that person will be the Coordinator. The Coordinator is a time-bound position decided by 
             democratic discussion and consensus within that cooperative and in accordance with 
-            Natural laws. All the workers including the Coordinator can be of any reasonably responsible 
+            Natural laws. All the workers including the Coordinator can be of any reasoned responsible 
             age - 13 or 30 or 90… anyone as long as they make sense and are willing and able to put 
             physical or intellectual effort including being a good leader. And this responsibility of 
             “Coordinator” can rotate between the cooperative’s members as per requirement or 
@@ -488,7 +492,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Universe despite never having stepped into the Universe even once. The Big Bang Theory 
             confidently declares the birth of the Universe / Space to be 13.8 billion years ago but this is a 
             theory by academia, proposed solely on the basis of mathematical equations on paper. This 
-            way these maths-as-a-religion academics are no different than astrologers. These 
+            way these maths-as-a-religion academics are no different from astrologers. These 
             academics went about lectures and conferences chanting “Big Bang Theory” until recently 
             when someone proposed a second Big Bang which created Dark Matter. Dark Matter is 
             again another nonsensical maths-basis idea which has been around for many decades but 
@@ -543,21 +547,26 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             societies and individual people of natural thinking created over thousands of years without 
             consideration of college degrees or other kinds of artificial social separations. Our friend Michael 
             Faraday is the person whose experiments in electro-magnetism and electro-chemistry have 
-            led to our modern world using electrical machinery whether the washing machine or the cell 
-            phone. And he studied only till middle school in terms of the modern assembly-line 
-            degree-based education system. He was not at all a college graduate, let alone one with 
-            three post-graduate diplomas and subsequent 50 years of professional experience. This 
-            means that those societies which place great multi-generational emphasis on college 
-            degrees and disrespect anyone not achieving those,
-            must stop using electrical machinery because this field was forwarded by the 
-            “unschooled” Michael Faraday. Stopping thus will be a principled stand. But will they ? 
+            led to our modern world using electrical machinery whether the lamp, the motor car, 
+            the washing machine or the cell phone. And he studied only till middle school 
+            in terms of the modern assembly-line degree-based education system. 
+            He was not at all a college graduate, let alone one with three post-graduate diplomas 
+            and subsequent 50 years of professional experience. This means that those societies 
+            which place great multi-generational emphasis on college degrees and 
+            disrespect anyone not achieving those, must stop using electrical machinery 
+            because this field was forwarded by the “unschooled” Michael Faraday. 
+            Stopping thus will be a principled stand. But will they ?
             </p>
             
-            <p> So it follows that education in Space must be natural and democratic… democratic not only 
-            in the source people but also the receiver people. In the modern world, other than paper literature,
-            there have been three big examples of untaxed and for-all education and collaboration systems : one the Open Source Computing movement,
+            <p> So it follows that education not only on Earth but in Space must be natural and democratic… democratic not only 
+            in the source people but also the receiver people. In the modern world, other than paper literature, 
+            there have been three big examples of untaxed and for-all education and collaboration systems : one the Open Source Computing movement, 
             second the Wikipedia and third the Khan Academy. These examples should be continued in the exploration and settlement of 
-            Space. Since we speak for Workers Cooperatives as the organizational method for humans 
+            Space.
+            </p>
+            
+            <p>
+            Since we speak for Workers Cooperatives as the organizational method for humans 
             in Space, each of the people involved in the cooperatives should be participants in 
             live-narrating their experiences in Space as also later recording their experiences and 
             adding these experiences to the Frema internet blog that is produced by each Worker 
@@ -1486,7 +1495,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
              Sameer is originally from computing background but he considers himself a 
             general researcher with interests ranging from generation of electricity to organization of 
             society, like those "polymaths" of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
-            Jagadish Chandra Bose. 
+            Jagadish Chandra Bose. And perhaps "Polymath" is not a proper word and must have a good replacement.
             </p>
             
              <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank" rel="noopener noreferrer" class="minimal-tag">

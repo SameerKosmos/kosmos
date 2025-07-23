@@ -98,45 +98,46 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               The famous slogan "Liberty, Equality, Fraternity" which our organization uses
               was produced in the struggle of the French masses in the late 1700s
               against the feudal dominance of the kings and their queens where the kings considered themselves
-              appointed to kinghood by God, by the God of Jesus Christ,
-              and this is contradiction as Jesus was one of the great rebels, liberators and social reformers
+              appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, 
+              and this is contradiction as Jesus was one of the greatest rebels, liberators and social reformers
               of history whose God was not the oppressor which these kings of France were
               and these kings were supported by priests, and priests were a class
-              opposed by Jesus, and the kings were also supported by usury-taking merchants
-              who also had been rebelled against by Jesus. And these three types of 
-              mutually-back-scratching self-appointed socially superior people in royal France
+              opposed by Jesus, and the kings were also supported by merchants who took usury 
+              and profited off the misery of fellow citizens. Such merchants also had been rebelled against by Jesus. 
+              And these three types of mutually-back-scratching self-appointed socially superior people in royal France
               lived grandly by walking on the backs of the ordinary French people.
-               </P>
+              </P>
 
               <p>        
-              The ordinary citizen lived in multi-generational slum life in the cities
+              The ordinary French citizen lived in multi-generational slum life in the cities
               and in multi-generational serfdom in the villages and these poor citizens were taxed
               all their life, for their succeeding generations, despite their so visible poverty
               while the ruling royalty used those taxes to daily wine, dine and wear velvet and jewelry
               whose single necklace cost more money than the money owned by a serf in ten generations.
-              The royalty and their associated lower feudals, merchants and priests
-              lived in defended mansions surrounded by vast, clean gardens
+              The royalty and their associated lower feudals, profiteering merchants and the greedy priests
+              lived in well-defended mansions surrounded by vast, clean gardens
               while the ordinary citizens lived in dirty urban slums and damp rural hovels
               with ever present danger of raids by bandits and by fellow citizens driven by poverty
               to loot.
-                </P>
+              </P>
 
              <P>
              Thus the intellectuals and the other passionate of France began discussing and rejecting
              the anti-Nature and anti-human situation in their society and one of the final
-             sparks is said to be in the late 1700s when the frivolous and grand-living queen,
+             sparks is said to be in the late 1700s when the frivolous and luxury-living queen, 
              Marie Antoinette, was told by her courtiers that the ordinary citizens were facing famine
-             and that they didn't have the money and the simple access to the basic bread
-             and the queen declared carelessly "Then let them eat brioches".
+             and that they didn't have the money and the simple access to basic bread
+             and the queen declared carelessly "Then let them eat brioches". 
              Brioche is a French bread which is more expensive than the ordinary bread
-             because it has butter and eggs, which items were out of reach of the French masses.
-             The queen's uncaring remark was a rallying cry for the revolutionaries
-             to finally remove the millennia-old royalty of France... the monarchy...
+             because it has butter and eggs, which items were out of reach of the French masses who didn't not 
+             have even the simple bread and were suffering famine created by the French feudalism and its needless wars. 
+             The queen's uncaring remark of "Then let them eat brioches" was a rallying cry for the revolutionaries 
+             to finally remove the millennia-old royalty of France... the monarchy... 
              and replace it with the people's republic where feudalism had been ended
-             as had been all the associated elements including the dominance of the merchants
-            and these revolutionaries gave humanity the clear humanist slogan "Liberty, Equality, Fraternity". 
+             as had been all the associated elements including the dominance of the profiteering merchants 
+            and these French revolutionaries gave humanity the clear humanist slogan "Liberty, Equality, Fraternity". 
             Monarchy was replaced with Anarchy i.e. A-narchy i.e. the Nature-given freewill
-            of humans to not be ruled by a monarch, a feudal, an oppressor.
+            of humans to not be ruled by monarchy, feudals, oppressors.
             </P>
               
             <P>But the humanist concept of Republic from revolutionary France became distorted
@@ -489,16 +490,20 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             understandings of Space like they seeing flashes in their eyes even when they close their 
             eyes. Other experiences like smelling burnt smell when they are in the airlock. These 
             experiences were not proposed by academics who usually pretend to be experts of the 
-            Universe despite never having stepped into the Universe even once. The Big Bang Theory 
-            confidently declares the birth of the Universe / Space to be 13.8 billion years ago but this is a 
-            theory by academia, proposed solely on the basis of mathematical equations on paper. This 
-            way these maths-as-a-religion academics are no different from astrologers. These 
-            academics went about lectures and conferences chanting “Big Bang Theory” until recently 
-            when someone proposed a second Big Bang which created Dark Matter. Dark Matter is 
+            Universe despite never having stepped into the Universe even once.
+            </p>
+            
+            <p>
+            The Big Bang Theory confidently declares the birth of the Universe / Space to be 13.8 billion years ago but this is a 
+            theory mainly forwarded by academia, proposed solely on the basis of mathematical equations on paper and origining 98 years ago. 
+            This way these maths-as-a-religion academics are no different from astrologers. These 
+            academics went about lectures and conferences chanting “Big Bang Theory” for almost a hundred years 
+            when until recently someone proposed a second Big Bang which "created Dark Matter". Dark Matter is 
             again another nonsensical maths-basis idea which has been around for many decades but 
             has never been observed in Nature, let alone measured. These academics don’t know how big the 
             universe is, they have never stepped into the universe, yet they confidently declare its 
-            birthday to the microsecond, LOL. </p>
+            birthday to the microsecond, LOL.
+            </p>
             
             <p> So to understand Space / Universe we must reject the current dominance of mathematics in 
             astronomy and be humble, gentle, sensitive, receptive and natural to the knowledge of 
@@ -716,7 +721,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             gentleness in these cities will also come from creating a safe and comfy environment for cats 
             to prosper. </p>
            
-            <p> We will make a derivation of the Ra-H vehicle for Earthen public transportation in the form of 
+            <p> We will make a derivation of our Ra-H vehicle for Earthen public transportation in the form of 
             a 15-passenger bus called Ra-E which can be used for full capacity mass public transport or 
             as taxis for people going for special occasions. The Earthen Ra-E will normally use 
             hovercraft mode on the current roads and other paths and switch to wheelcraft mode and 
@@ -733,13 +738,35 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             vehicles with odd numbered number plates one day and even numbered the next day ) and 
             building more flyovers and metro lines. But these governments have not considered the very 
             simple fact that road traffic problems exist because of what causes the traffic - vehicles… in 
-            particular personal vehicles. Building flyovers has only made the unthinking public to 
-            purchase even more personal vehicles to the extent that many families have at least two 
-            vehicles for no other reason than to display their middle class new-not-actually-rich wealth. 
+            particular personal vehicles.
+            </p>
+            
+            <p>
+            About Climate Change, there are regular COP summits of world leaders to supposedly discuss 
+            Climate Change but these are mainly wine and dine events with vague promises of reduction of Climate Change 
+            instead of discussion about immediate beginning of reversal of Climate Change. 
+            The activist Greta Thunberg noted about that COP26 conference in 2021 that it was a "Greenwash". 
+            The biggest culprit which Climate Change is the personal motor vehicles industry 
+            but the COP conferences don't address this.
+            </p>
+
+            <p>
+            Building flyovers has only made the unthinking public to purchase even more personal vehicles 
+            to the extent that many families have at least two vehicles for no other reason than to display their middle class new-not-actually-rich wealth 
+            with the result being that in some cities there are now at least five million personal motor vehicles. 
             Putting metro lines has also not caused the public to sell their vehicles and put the sale 
-            money into starting a business or touring other countries. Installing expensive “artificial 
-            intelligence” systems to control traffic lights will also never solve the problem because the AI 
-            traffic lights will not make the millions of personal vehicles vanish. 
+            money into starting a business or touring other countries and before all that taking personal responsibility 
+            to contribute to serenity, cleanliness, much reduced pollution and removing social inequality.
+            </p>
+
+            <p>
+            City corporations installing expensive “artificial intelligence” systems to control traffic lights will also never solve the problem 
+            because the AI traffic lights will not make the millions of personal vehicles vanish. These AI traffic control systems 
+            will only help the profiteering corporations who have convinced the city corporations 
+            to purchase their needless systems.
+            </p>
+
+            <p>               
             Further problems are the disharmony and unsightliness caused by personal vehicles parked 
             on roads in residential areas and public areas. Residents have to engage in quarrels with 
             personal vehicle owners who park their vehicles in front of someone’s house gate or these 
@@ -748,23 +775,45 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             having to walk on the road and getting hit by vehicles coming from front or back. Personal 
             vehicles also clog public areas whether by being parked haphazardly in front of shops or 
             other public establishments or in squares or just clogging the roads whether they are parked 
-            or running. In many societies the citizens using personal vehicles use the horn needlessly as if the vehicles 
-            in front will take off like aeroplanes on hearing the horn from behind. 
-            All these chaotic experiences create an actual headache for the others using the road, 
-            create quarrels on the road, lead to antisocial behavior, other crimes and health problems 
-            and thus the society is rendered full of chaos, crime, mishealth, disharmony, competition and 
-            unproductiveness... in other words, dystopia.</p>
+            or running.
+            </p>
+            
+            <p>
+            In many societies the citizens using personal vehicles use the horn needlessly as if the vehicles 
+            in front will take off like aeroplanes on hearing the horn from behind.
+            </p>
+
+            <p>
+            All these chaotic experiences create an actual headache for the others using the road 
+            and living in neighborhoods, create quarrels, lead to antisocial behavior, other crimes and health problems.  
+            The society is rendered full of chaos, crime, mishealth, disharmony, competition, pollution, 
+            dirtiness, unsightliness and unproductiveness... in other words, dystopia.
+            </p>
            
-            <p> And these are artificial problems so they can be solved. The problems collectively largely 
+            <p> But these are artificial and avoidable problems so they can be solved. The problems collectively largely 
             exist because of the existence of personal vehicles and will be solved only with the simple 
             act of abolishing personal vehicles with the exception of the simple pedal bicycle. And these 
             personal vehicles must be replaced with public mass transport vehicles which are not only 
             cheaper to build, not only provide a universal solution, not only are aesthetic but also are 
-            electric in an eco-friendly way to enable a sustainable public transportation mechanism all 
-            over Earth. The solution is our Ra-E bus which is a hybrid vehicle of 
-            hovercraft-wheelcraft-aircraft type, deriving from our Ra-H vehicle, and a few hundred thousand of our Ra-E buses combined 
-            all over Earth will resolve all those listed transportation-related direct problems and indirect 
-            problems.</p> 
+            electric in an eco-friendly way to enable a sustainable and social-equality-bringing public transportation mechanism 
+            all over Earth.
+            </p>
+            
+            <p>
+            Our solution is our Ra-E bus which is a hybrid vehicle of 
+            hovercraft-wheelcraft-aircraft type, deriving from our Ra-H vehicle, and each will carry 15 passengers 
+            and a few hundred thousand of our Ra-E buses combined all over Earth 
+            will resolve all those listed transportation-related direct problems and indirect 
+            problems.
+            </p>
+
+            <p>
+            In regular intra-city travel the Ra-E buses will use hovercraft mode to travel 
+            on the current roads but switching to wheelcraft mode on hilly roads. For inter-city travel 
+            the Ra-E buses will turn on aircraft mode and follow the current highways or 
+            travel across open land. All this travel of the Ra-E buses will be guided by 
+            control centers and vehicle-2-vehicle communications between the Ra-Es.
+            </p>
            
             <p> Another advantage of Ra-E buses will be preventing the need to build a large number of 
             bridges across rivers in cities because with just the presence of a small ramp on the 
@@ -772,7 +821,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             to river and the reverse, not needing most bridges which mainly carry wheeled vehicles. A 
             further advantage in using hovercraft mode is enabling smooth public transport in 
             badly-designed cities which face yearly flooding. And when needed these Ra-E vehicles can 
-            turn aircraft mode on and travel short distances by air. 
+            turn aircraft mode on and travel short distances by air.
+            </p>
+
+            <p>
             The Ra-E bus platform can also be made into other kinds of vehicles like ambulance, public 
             security vehicle, garbage collection vehicle etc. </p>
             
@@ -793,7 +845,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             sensible manifestos like our “Same Water” constitution for Space. </p>
             
             <p>There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
-            “The Interplanetary Civilian: A Novella of Mars and Memory”. This story speaks of the 
+            “The Interplanetary Civilian : A Novella of Mars and Memory”. This story speaks of the 
             building of the first human settlements in Space in terms of technologies and social systems 
             including pan-human development, decentralized governance, the first human baby born in 
             Space, an artificial intelligence included with empathy, and a very different kind of alien 

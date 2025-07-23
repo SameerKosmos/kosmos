@@ -104,7 +104,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               and these kings were supported by priests, and priests were a class
               opposed by Jesus, and the kings were also supported by usury-taking merchants
               who also had been rebelled against by Jesus. And these three types of 
-              mutually-back-scractching self-appointed socially superior people in royal France
+              mutually-back-scratching self-appointed socially superior people in royal France
               lived grandly by walking on the backs of the ordinary French people.
                </P>
 
@@ -496,9 +496,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             academics went about lectures and conferences chanting “Big Bang Theory” until recently 
             when someone proposed a second Big Bang which created Dark Matter. Dark Matter is 
             again another nonsensical maths-basis idea which has been around for many decades but 
-            has never been observed, let alone measured. These academics don’t know how big the 
+            has never been observed in Nature, let alone measured. These academics don’t know how big the 
             universe is, they have never stepped into the universe, yet they confidently declare its 
-            birthday to the microsecond. </p>
+            birthday to the microsecond, LOL. </p>
             
             <p> So to understand Space / Universe we must reject the current dominance of mathematics in 
             astronomy and be humble, gentle, sensitive, receptive and natural to the knowledge of 
@@ -507,9 +507,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p> We must also accept the very simple idea that Space / Universe is timeless and infinite and 
             we don’t know what all kinds of objects are in Space and what kinds of life types are in 
-            Space. </p>
+            Space and that these life types may not evolve from the same ecosystem conditions as on Earth. </p>
 
-            <p> We must look at the natural responses of the first two human travellers to Space - Yuri 
+            <p> We must look at the natural, observant and non-arrogant responses of the first two human travellers to Space - Yuri 
             Gagarin and Gherman Titov.</p> 
 
             <p> Among the statements of Cosmonaut Yuri are : </p>
@@ -597,8 +597,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             should be managed by a collective human committee. We of Kosmos Society will keep this 
             as a necessary element when designing our Frema space-capable internet system. We will 
             also design systems that contribute to clearing up the current space debris around Earth. 
-            Please read the section about Serf satellite in the “More on some of our techno projects” 
-            chapter on this website. </p>
+            Please read the section about Serf satellite in the “Techno projects” chapter on this website.
+            </p>
             
             <h2>Mining in Space</h2>
             
@@ -711,18 +711,18 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             large and small cities which are aesthetic, scientifically-built, citizen-managed, humanist, 
             largely food-wise self-sufficient, largely employment-wise self-sufficient and gentle, built to 
             take the pressure off current chaotic cities and also bring reasonable city culture to rural 
-            people. The public transportation system will be built around our Ra-B buses, bicycle lanes 
+            people. The public transportation system will be built around our Ra-E buses, bicycle lanes 
             and footpaths. The only personal vehicles allowed will be pedal-only bicycles. The 
             gentleness in these cities will also come from creating a safe and comfy environment for cats 
             to prosper. </p>
            
             <p> We will make a derivation of the Ra-H vehicle for Earthen public transportation in the form of 
-            a 15-passenger bus called Ra-B which can be used for full capacity mass public transport or 
-            as taxis for people going for special occasions. The Earthen Ra-B will normally use 
+            a 15-passenger bus called Ra-E which can be used for full capacity mass public transport or 
+            as taxis for people going for special occasions. The Earthen Ra-E will normally use 
             hovercraft mode on the current roads and other paths and switch to wheelcraft mode and 
             aircraft mode when needed… for example, travel on mountain roads is dangerous in 
             hovercraft mode so wheels are needed. Traveling between cities can be done by using the 
-            aircraft mode. These Ra-B vehicles will be capable of being the sole means of mass public 
+            aircraft mode. These Ra-E vehicles will be capable of being the sole means of mass public 
             transport in cities and other habitations on Earth, replacing most current personal vehicles 
             except for the pedal bicycle. </p>
 
@@ -738,20 +738,22 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             vehicles for no other reason than to display their middle class new-not-actually-rich wealth. 
             Putting metro lines has also not caused the public to sell their vehicles and put the sale 
             money into starting a business or touring other countries. Installing expensive “artificial 
-            intelligence” systems to control traffic lights will also never solve the problem. 
+            intelligence” systems to control traffic lights will also never solve the problem because the AI 
+            traffic lights will not make the millions of personal vehicles vanish. 
             Further problems are the disharmony and unsightliness caused by personal vehicles parked 
             on roads in residential areas and public areas. Residents have to engage in quarrels with 
             personal vehicle owners who park their vehicles in front of someone’s house gate or these 
             vehicles creating obstruction on the roads and the vehicles parked on footpaths thus 
-            blocking citizens from using the footpaths, leading to potential mishaps by the citizens 
+            blocking citizens from using the footpaths, leading to potential mishaps for the citizens 
             having to walk on the road and getting hit by vehicles coming from front or back. Personal 
             vehicles also clog public areas whether by being parked haphazardly in front of shops or 
             other public establishments or in squares or just clogging the roads whether they are parked 
-            or running. In many societies the citizens using personal vehicles use the horn needlessly. 
+            or running. In many societies the citizens using personal vehicles use the horn needlessly as if the vehicles 
+            in front will take off like aeroplanes on hearing the horn from behind. 
             All these chaotic experiences create an actual headache for the others using the road, 
             create quarrels on the road, lead to antisocial behavior, other crimes and health problems 
             and thus the society is rendered full of chaos, crime, mishealth, disharmony, competition and 
-            unproductiveness. </p>
+            unproductiveness... in other words, dystopia.</p>
            
             <p> And these are artificial problems so they can be solved. The problems collectively largely 
             exist because of the existence of personal vehicles and will be solved only with the simple 
@@ -759,19 +761,19 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             personal vehicles must be replaced with public mass transport vehicles which are not only 
             cheaper to build, not only provide a universal solution, not only are aesthetic but also are 
             electric in an eco-friendly way to enable a sustainable public transportation mechanism all 
-            over Earth. The solution is our Ra-B bus which is a hybrid vehicle of 
-            hovercraft-wheelcraft-aircraft type and a few hundred thousand of our Ra-B buses combined 
+            over Earth. The solution is our Ra-E bus which is a hybrid vehicle of 
+            hovercraft-wheelcraft-aircraft type, deriving from our Ra-H vehicle, and a few hundred thousand of our Ra-E buses combined 
             all over Earth will resolve all those listed transportation-related direct problems and indirect 
             problems.</p> 
            
-            <p> Another advantage of Ra-B buses will be preventing the need to build a large number of 
+            <p> Another advantage of Ra-E buses will be preventing the need to build a large number of 
             bridges across rivers in cities because with just the presence of a small ramp on the 
-            riverside these public-carrying Ra-B craft in hovercraft mode can smoothly transit from land 
+            riverside these public-carrying Ra-E craft in hovercraft mode can smoothly transit from land 
             to river and the reverse, not needing most bridges which mainly carry wheeled vehicles. A 
             further advantage in using hovercraft mode is enabling smooth public transport in 
-            badly-designed cities which face yearly flooding. And when needed these Ra-B vehicles can 
+            badly-designed cities which face yearly flooding. And when needed these Ra-E vehicles can 
             turn aircraft mode on and travel short distances by air. 
-            The Ra-B bus platform can also be made into other kinds of vehicles like ambulance, public 
+            The Ra-E bus platform can also be made into other kinds of vehicles like ambulance, public 
             security vehicle, garbage collection vehicle etc. </p>
             
             <p>[ To be done ] </p> 
@@ -1256,7 +1258,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p><span>&gt;&gt;</span> Our technologies will align around our 
             draft for a democratic, pan-human and Nature-respecting constitution for space, presented in 
-            the “Same Water…” chapter on this website.</p>
+            the “Same Water constitution for Space” chapter on this website.</p>
           </div>
         </div>
       `;
@@ -1373,13 +1375,28 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <div style="color:#FFFFc5;font-size:1.1em;">
 
             <p style="margin-bottom:10px;"> Join us in the journey to explore the universe and evolve humanity. 
-            Our story began in 2007 when some of us - Sameer, Afzal and a few others - were discussing 
+            Our story began in 2007 when some of us - Sameer, Afzal and a few others - were on a terrace discussing 
             the Google Lunar X Prize which had just started and we thought we too should go to space, 
             not us sending machines to space but our human group going to space and that idea developed 
             for the next 16 years as we decided the simplest and straightforward mechanisms to 
             take us and other humans to space, and then others joined us and then in early 2023 
             we formed Kosmos Society as a group and then we decided upon our path as a transnational 
-            non-profit design organization and that internally we organize as a Workers Cooperative. 
+            non-profit design organization and that internally we organize as a Workers Cooperative.
+            </p>
+
+            <p>
+            We call ourselves as Kosmos Society because we want to be the vanguard techno-social organization 
+            taking human society into the kosmos... the universe... so that they become a gentle, observant and aware 
+            travelers and settlers of the universe, melding into it naturally and respecting and adopting Nature's 
+            laws in the kosmos, those reasonable laws and understandings which were part of human society for millennia 
+            including preached by the older philosophers and social reformers and those from true modern philosophers and those from us. 
+            Our logo has the cat because cats are gentle, observant, careful, empathetic, social, sensitive, extremely beautiful, extremely intelligent, 
+            extremely loyal, sweet natured, graceful, robust, independent, proud, consider themselves equal to humans and create good vibes 
+            wherever they go. These qualities we desire in all of the human society going into the kosmos 
+            and also on Earth.
+            </p>
+
+            <p>
             We will engage with potential co-workers, investors, other private organizations and national governments in these ways :
             </p>
 
@@ -1429,10 +1446,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
            <p style="margin-bottom:10px;"> <span> >> </span> You are simple, gentle 
            and not given to spouting corporate buzzwords. </p>
 
-           <p style="margin-bottom:10px;"> <span> >> </span> You have no love for money, 
-           feudalism and classist thinking. </p>
+           <p style="margin-bottom:10px;"> <span> >> </span> You have no love for money and  
+           feudalism. </p>
 
-           <p style="margin-bottom:10px;"> <span> >> </span> You desire a largely secular
+           <p style="margin-bottom:10px;"> <span> >> </span> You desire a largely secular 
             borderless unification of humanity on Earth and in Space. </p>
 
            <p style="margin-bottom:10px;"> <span> >> </span> You consider the cat as the 
@@ -1443,9 +1460,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
            <p style="margin-bottom:10px;"> We are not a typical profiteering and feudalist corporate organization which works on 
             fashionable and senseless technologies and uses senseless corporate lingo in every 
-            sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence” 
-            etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
-            through the far far future and that includes our co-workers ( “co-workers” and not “workers” ) 
+            sentence ( like “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence” ). We are a techno-social organization set up to evolve humanity in multiple senses 
+            through the far far future and that includes our co-workers ( “co-workers” and not “workers” or "employees" ) 
             being allowed to attain their fullest potential and that in a democratic way. “Liberty, Equality, 
             Fraternity” is after all one of our credos. So our company-internal organization of people 
             employs the Workers Cooperative concept which is described in the “Same Water constitution for Space” 
@@ -2199,7 +2215,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             growing human organs and cat organs and entire living humans and this is important not
             only for solving diseases like blindness and kidney failure but also for populating space with
             humans and also protecting the desirable Earthen lifeforms in case of global devastations.
-            Please read more on this in the “Same Water…” chapter of this website.
+            Please read more on this in the “Same Water constitution for Space” chapter of this website.
             </p>
 
             <p>

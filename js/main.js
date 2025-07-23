@@ -68,8 +68,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             individuals or groups in space who are humans from anywhere on Earth and beyond; 
             and these individuals and groups as a whole in space do their sightseeing or research or mining or living 
             and are able to contribute to the collective learnings and evolved experience of humanity in space 
-            such that in 12 years from now ( by 2037 ) humans have at least started living in the Asteroid Belt 
-            which sits in the space between Red One and Jupiter.</P>  
+            such that in 12 years from now ( by 2037 ) humans have at least started living on the Moon and 
+            in the Asteroid Belt which sits in the space between Red One and Jupiter.</P>  
 
             <p> One of our inspirations is the wonderful Bengali and Hindi languages
             song called “Shob Lokey Koy” which appeared in the music series Coke Studio Bangla
@@ -206,7 +206,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             inspired by the French Revolution and corresponded with the leader of revolutionary France, Napoleon Bonaparte.
             Tipu is said to have established a Jacobin Club in his stronghold city of Srirangapatna,
             for the benefit of Indians to discuss social change and replicate the ideas
-            of revolutionary France.
+            of revolutionary France including in fighting against the British colonial rule.
             </P>
 
             <P>About technology, today we all humans use electrical machines every second and it was a Britisher
@@ -1414,34 +1414,29 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           </style>
           <h2>Our progressive product design principles</h2>
           <div>
-            <p>
-            01. Liberty, Equality, Fraternity, 
-            Humanism, Simplicity, Human safety as much as possible, Respect for Nature including 
-            reversing Climate Change on Earth.
+            <p><span>&gt;&gt;</span> Liberty, Equality, Fraternity, Humanism, Simplicity, Human safety as much as possible, 
+            Respect for Nature including reversing Climate Change on Earth.
             </p>
             
-            <p>
-            02. Readiness to explore sensible methods that are from old times or are unusual.
+            <p><span>&gt;&gt;</span> Readiness to explore sensible methods that are from old times or are unusual.
             </p>
 
-            <p>
-            03. We won’t do a technology just because there are a hundred other companies doing it or it has been done for a 
-            hundred years or just because it has been proposed by some celebrated scientist but 
+            <p><span>&gt;&gt;</span> We won’t do a technology just because there are a hundred other companies doing it 
+            or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
             the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
             </p>
 
-            <p>
-            04. A naturality, beauty, gentleness, simplification and intelligence in technologies and science as against trendy but dystopian 
+            <p><span>&gt;&gt;</span> A naturality, beauty, gentleness, simplification and intelligence in technologies and science as against trendy but dystopian 
             and needlessly complicated things. Be Dune’sy rather than metaverse’y. This includes naming 
             or renaming of space objects like “Red One” instead of “Mars” as the latter is the Roman 
             god of war while the former is a gentle name. Another example is not following the 
             silliness of nuclear fusion as the means to generate electricity.
             </p>
 
-            <p style="margin-bottom:10px;"05. Employ the concept of Circular Economy which also relates 
+            <p><span>&gt;&gt;</span> Employ the concept of Circular Economy which also relates 
             to :
             </p>
-           
+                                   
             <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> Much simplified technology.</p>
 
             <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> Decentralization and ease of production and 
@@ -1453,21 +1448,20 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Technology that is well-crafted
              yet affordable by the masses.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Local empowerment.</p>
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Low-tech when applicable.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Technologies selected which help
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Local empowerment.</p>
+
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Technologies selected which help
              humanity anywhere return easier to advancement or be resilient when situation becomes bad 
              because of natural or other events like unusually big solar storm, comet or asteroid strike, 
-             a pointless global war etc.</p>
-            
-            <p><span>&gt;&gt;</span> Low-tech when applicable.</p>
+             a pointless global war etc.</p>                     
 
-            <p><span>&gt;&gt;</span> Bio-mimicry and Engineered Biology 
-            wherever applicable.</p>
+            <p><span>&gt;&gt;</span> Bio-mimicry and Engineered Biology wherever applicable.</p>
 
-            <p>
-            06. Our technologies will align around our draft for a democratic, pan-human and Nature-respecting manifesto for space, 
-            presented in the “Manifesto for the Kosmos” chapter on this website.
+            <p><span>&gt;&gt;</span> Our technologies will align around our draft for a democratic, pan-human 
+            and Nature-respecting manifesto for space, presented in the “Manifesto for the kosmos” chapter 
+            on this website.
             </p>
             
           </div>

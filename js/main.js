@@ -150,7 +150,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             throughout Earth a society of equals, collective welfare and true productivity, and human race 
             becomes one harmonious people on whom the Sun of freedom will at last shine. This song 
             "The Internationale" later was adopted by various progressive pan-humanists across the world 
-            and in the context of this company based in India, this song was first translated into 
+            and in the context of our company based in India, this song was first translated into 
             the Indian context by the poet Kazi Nazrul Islam in his native Bengali language, 
             particularly in context of rebelling against the then British colonial rule.
             </p>
@@ -261,8 +261,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             system and this does not come true for almost all. </p>
 
             <p>Other people simply don’t have a chance and this is unfair as it is only human social 
-            constructs which are doing this preventing and not the universe through some celestila messaging 
-            describing allowance only for the moneyed and the other unfairly privileged and this 
+            constructs which are doing this preventing and not the universe through some celestial messaging 
+            where the universe allows into it only for the moneyed and the other unfairly privileged and this 
             celestial messaging being witnessed by the first two humans in space, 
             Yuri Gagarin and Gherman Titov and then every human traveler afterwards. The kosmos knows 
             neither money nor rank.
@@ -394,11 +394,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             There will be one or more members for each task as per requirement and total group size. 
             There has to be one person who has to be the interface between the internal Workers 
             Cooperative members and also the interface of that Workers Cooperative to the outside and 
-            that person will be the Coordinator. The Coordinator is a time-bound position decided by 
-            democratic discussion and consensus within that cooperative and in accordance with 
-            Natural laws. All the workers including the Coordinator can be of any naturally reasonable responsible 
-            age - 13 or 30 or 90… anyone as long as they make sense and are willing and able to put 
-            physical or intellectual effort including being a good leader. And this responsibility of 
+            that person will be the Coordinator.
+            </p>
+            
+            <p>
+            The Coordinator is a time-bound position decided by democratic discussion and consensus 
+            within that cooperative and in accordance with Natural laws. All the workers including the Coordinator 
+            can be of any naturally reasonable responsible age, whether 13 or 30 or 90... anyone as long as they make sense 
+            and are willing and able to put physical or intellectual effort including being a good leader. And this responsibility of 
             “Coordinator” can rotate between the cooperative’s members as per requirement or 
             consensus. So a Workers Cooperative is democratic, enables harmony and enables more 
             focus on the group’s purpose. 
@@ -793,6 +796,19 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             </p>           
            
             <p> And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.</p>
+
+            <h2>"Space law"</h2>
+
+            <p>
+            There are some currently space-faring nations who have entire institutes dedicated 
+            to take their needlessly complicated feudalism-based legal systems into space and they misguidedly 
+            desire to use these laws to take the kosmos / space exclusively for their own political blocs including for their 
+            feudalist commercial corporations who see space as another resource to exploit and profit. The UNOOSA 
+            also unfortunately supports such activity. However, there is no need of these complicated "space laws" 
+            when every nation can agree on the pan-humanist and collectively beneficial constitution for the kosmos 
+            which non-profit organizations like us present.
+            </p>
+                        
             <h2> City design and city reconfiguration on Earth</h2>
             
             <p>The space experiences including the Mirkeen-1 base and our Space machines will provide 
@@ -1304,7 +1320,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               Earth orbit very dangerous because of risk of these debris crashing into their spaceships.</li>
              
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Our progressive pan-human 
-              constitution for space called “Same Water”.</li>
+              constitution for the kosmos called “Same Water”.</li>
         <!-- close button logic moved out of template string -->
             </ul>
             <p style='margin-bottom:1em;'>By 2031 two people will go to Low Earth Orbit in 
@@ -1819,7 +1835,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           </style>
           <h2>Credits</h2>
           <div>
-            <p><span>&gt;&gt;</span> Vikram for the logo, the website design and for the spark for Sameer to have this Credits page.</p>
+            <p><span>&gt;&gt;</span> Vikram for the logo, the website design and for provoking the thought in Sameer to have this Credits page.</p>
             
             <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page ( sadly we forgot the page name ) in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the owner of that Insta page and the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
 

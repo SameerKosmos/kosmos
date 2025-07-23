@@ -83,15 +83,15 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <h2>The Universe and human nations on Earth</h2>
 
             <p>
-                The Universe / Space has existed forever, much before some human scientists foolishly
+                The Universe / Space has existed forever, much before some human scientists and academics foolishly
                 affixed an age to it on the basis of misguided mathematics i.e. the Big Bang Theory and now
                 there are two Big Bang theories. Space has existed before human nations existed on Earth,
                 in fact before Earth itself existed. The concept of Earthen Nations / Nation States
-                does not exist in Nature / Universe / Space and comes on Earth
+                does not exist in Nature / Universe / Kosmos / Space and comes on Earth
                 from as recent as the French Revolution of the late 1700s which led to France becoming a
                 Republic which was meant to become citizen-governed with natural human freedoms as
                 against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
-                We must look at this a bit further to understand the non-Universe basis of human nations.
+                We must look at this further to understand the non-Kosmos basis of human nations.
                 </P>
 
               <p>
@@ -99,7 +99,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               was produced in the struggle of the French masses in the late 1700s
               against the feudal dominance of the kings and their queens where the kings considered themselves
               appointed to eternal kinghood by God, by the God of Jesus Christ they claimed, 
-              and this is contradiction as Jesus was one of the greatest rebels, liberators and social reformers
+              but this is contradiction as Jesus was one of the greatest rebels, liberators and social reformers
               of history whose God was not the oppressor which these kings of France were
               and these kings were supported by priests, and priests were a class
               opposed by Jesus, and the kings were also supported by merchants who took usury 
@@ -139,16 +139,31 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Monarchy was replaced with Anarchy i.e. A-narchy i.e. the Nature-given freewill
             of humans to not be ruled by monarchy, feudals, oppressors.
             </P>
-              
+
+            <p>
+            This revolutionary French stream continued to the next century and in 1871 the French progressive pan-humanist 
+            Eugene Pottier wrote the song "The Internationale" which called for all wretched and hungry humans of Earth to arise 
+            and rebuild Earth with a clean slate where the oppression by the profiteers and the hollow promises 
+            of the priests promising divine salvation of the peasants and the heavy rule of the monarchs, 
+            all these have been cast aside by the peasants emancipating themselves and establishing 
+            throughout Earth a society of equals, collective welfare and true productivity, and human race 
+            becomes one harmonious people on whom the Sun of freedom will at last shine. This song 
+            "The Internationale" later was adopted by various progressive pan-humanists across the world 
+            and in the context of this company based in India, this song was first translated into 
+            the Indian context by the poet Kazi Nazrul Islam in his native Bengali language, 
+            particularly in context of rebelling against the then British colonial rule.
+            </p>
+            
             <P>But the humanist concept of Republic from revolutionary France became distorted
-            in succeeding centuries and now in 2025 the Republican idea of "Natural equality and fraternity among all humans"
-            has largely and sadly been replaced with "Unnatural and hatred-ful divisions among humans divided into
-            nations and the hatred reinforced by needless, forever wars".
+            in the succeeding century and the pan-humanist evocative song "The Internationale" sadly was 
+            made forgotten so now in 2025 the ideas of "Natural liberty, equality and fraternity among all humans"
+            has largely and sadly been replaced with "Unnatural and hatred-full divisions among humans who are divided into
+            kingdom-like nations and the hatreds reinforced by needless, forever wars".
             </P>
             
             <P>
-            However, as per natural laws no human from one nation is automatically superior in the 
-            grandness of Universe / Space than a human from another nation. A socially-advantaged 
+            However, as per natural laws no human from one modern nation is automatically superior in the 
+            grandness of Universe / Kosmos / Space than a human from another modern nation. A socially-advantaged 
             human from one modern “superpower wealthy nation” will be burned up in the Sun as easily as a 
             money-poor human from another modern “superpower wealthy nation”... to believe otherwise is 
             pointless arrogance. Some thoughtful Space travellers who have gone to Earth orbit have 

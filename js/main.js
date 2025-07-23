@@ -1452,16 +1452,16 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Technology that is well-crafted
              yet affordable by the masses.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Low-tech when applicable.</p>
+             <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Bio-mimicry and Engineered Biology wherever applicable.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Local empowerment.</p>
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Low-tech when applicable.</p>
+
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Local empowerment.</p>
 
             <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Technologies selected which help
              humanity anywhere return easier to advancement or be resilient when situation becomes bad 
              because of natural or other events like unusually big solar storm, comet or asteroid strike, 
-             a pointless global war etc.</p>                     
-
-            <p><span>&gt;&gt;</span> Bio-mimicry and Engineered Biology wherever applicable.</p>
+             a pointless global war etc.</p>
 
             <p><span>&gt;&gt;</span> Our technologies will align around our draft for a democratic, pan-human 
             and Nature-respecting manifesto for space, presented in the “Manifesto for the kosmos” chapter 

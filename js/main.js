@@ -5,11 +5,11 @@ const closeModal = document.getElementById('closeModal');
    
 
 
-// 04. A constitution for the Kosmos
+// 04. Manifesto for the Kosmos
 document.querySelectorAll('.chapter-card').forEach(card => {
   card.addEventListener('click', function() {
     const chapter = card.getAttribute('data-chapter');
-    if (chapter === 'constitution') {
+    if (chapter === 'manifesto') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;font-family:Roboto,sans-serif;">
           <!-- Only left-side close button remains; right-side removed -->
@@ -54,11 +54,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
               
           </style>
-          <h2> A constitution for the Kosmos</h2>
+          <h2> Manifesto for the Kosmos</h2>
           <div>
             <p> 
             We present “Same Water”, a draft of a progressive pan-human 
-            constitution for the Kosmos i.e. for all humans going and living in the Universe / Space. 
+            manifesto for the Kosmos i.e. for all humans going and living in the Universe / Space. 
             This draft is not a full preparation but still substantial
             and we will further it by discussions in progressive forums
             and join it with others’ drafts for this purpose.</P>
@@ -76,7 +76,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Season One. The song is a celebration of two past South Asian humanitarian mystics, Lalon
             Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
             same well except for some differences in the vessels which then contain the waters, and this
-            is what we Kosmos Society want through our constitution draft - a harmonious unity of
+            is what we Kosmos Society want through our manifesto draft - a harmonious unity of
             humankind in Space, removed of all the artificial unpleasantnesses and tragedies that
             humans do or endure presently on Earth. Below are some points from the Same Water draft.
             Some of these are “To be done”. </p>
@@ -704,7 +704,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             vehicles.</p>
 
             <p style="margin-left:1em; margin-bottom:10px";> <span>(f).</span> The social organization system of the Mirkeen-1 base will be the points from the rest of 
-            our proposed “Same Water” constitution for the kosmos. </p>
+            our proposed “Same Water” manifesto for the kosmos. </p>
 
             <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> The Mirkeen-1 base will be the first very advanced society which won’t have money, tax 
             and feudalism. The true wealth of a society is not in the money, mansions and luxury 
@@ -717,7 +717,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> For the time being the Mirkeen-1 base can engage in commercial activities to sustain 
             itself other than getting support from Kosmos Society and its partners on Earth. This 
-            commerce will be in accordance with our Same Water constitution for the kosmos. The commerce 
+            commerce will be in accordance with our "Same Water" manifesto for the kosmos. The commerce 
             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others’ 
             space stations around Earth; the commerce can be about those produced materials and 
             services which benefit from the low-gravity and vacuum conditions on the Moon; the 
@@ -762,7 +762,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             And if we seek them we must of course ideally have collective human prosperity, collective 
             harmony, gentleness, sensitiveness, empathy and intelligent consensus as that will present 
             our best unified side to any other intelligent lifeforms and that will come by agreeing on 
-            sensible manifestos like our “Same Water” constitution for the kosmos.
+            sensible manifestos like our “Same Water” manifesto for the kosmos.
             </p>
             
             <p>There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
@@ -801,11 +801,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p>
             There are some currently space-faring nations who have entire institutes dedicated 
-            to take their needlessly complicated feudalism-based legal systems into space and they misguidedly 
+            to take their needlessly complicated feudalism-based national legal systems into space and they misguidedly 
             desire to use these laws to take the kosmos / space exclusively for their own political blocs including for their 
-            feudalist commercial corporations who see space as another resource to exploit and profit. The UNOOSA 
-            also unfortunately supports such activity. However, there is no need of these complicated "space laws" 
-            when every nation can agree on the pan-humanist and collectively beneficial constitution for the kosmos 
+            feudalist commercial corporations who see space as another resource to profit from and exploit their workers. 
+            The UNOOSA also unfortunately supports such activity. However, there is no need for these complicated "space laws" 
+            when every nation can agree on the pan-humanist and collectively beneficial manifesto for the kosmos 
             which non-profit organizations like us present.
             </p>
                         
@@ -820,6 +820,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             and footpaths. The only personal vehicles allowed will be pedal-only bicycles. The 
             gentleness in these cities will also come from creating a safe and comfy environment for cats 
             to prosper. </p>
+
+            <p>
+            First here we will speak of transportation problems within cities.
+            </p>
            
             <p> We will make a derivation of our Ra-H vehicle for Earthen public transportation in the form of 
             a 15-passenger bus called Ra-E which can be used for full capacity mass public transport or 
@@ -940,16 +944,33 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             some times delivering to rude or arrogant customers, some times falling prey to armed robbery, 
             some times having to break their legs because of jumping a building storey to escape a customer's attacking dog, 
             some times begging the customers for five-star ratings because these e-shops provide the meagre incentive based on those ratings.
-            While this whole system has to be changed, it is worth noting that these billion-dollar "unicorn" e-shop 
-            startup companies do not even consider providing a safer company four-wheeler to their own delivery people and 
-            the poor delivery people have to resort to using the dangerous two-wheelers. This is social injustice 
+            While this whole system has to be changed, it must be noted that the billion-dollar "unicorn" e-shop 
+            startup companies do not even consider providing a safer and covered company four-wheelers to their own delivery people 
+            and the poor delivery people have to resort to using the dangerous two-wheelers. This is social injustice 
             delivered by forced use of two-wheelers.
             </p>
-                     
+
+            <p>
+            Also must be noted that in the cities especially in the recent 20 years the thousands of students and the millions of workers 
+            get transported to their schools, colleges and offices by personal vehicles, whether self-driven or 
+            driven by parents or colleagues. This adds to millions of personal vehicles on the roads at least 
+            twice a day and the times these vehicles clog the roads are known as "peak traffic hours". This situation happens 
+            because the public transporation system is very inadequate in numbers and and frequency. There is no rational reason 
+            the students and workers should not take public transport, yet they take personal vehicles but not only because of 
+            inadequate public transport system but also because of the misguided idea that a person owning at least one 
+            personal vehicle is someone respectworthy who is superior to the poor person having to pedal a 
+            bicycle or even walk long distances. Such misguided thinking is especially within the middle class who not only largely 
+            refuses to agitate for the rights of their money-poor co-citizens but also work all their life 
+            to hold up the feudals in power. But the middle class does not realize that they holding the poor people in contempt 
+            does not prevent the rich class from holding the middle class in contempt. Personal vehicles play a big role 
+            in maintaing this needless dynamic.
+            </p>
+
             <p>
             All these chaotic and unjust experiences caused by personal vehicles directly and indirectly, 
-            rendering the society full of chaos, crime, mishaps, injustice, mishealth, disharmony, competition, 
-            pollution, dirtiness, unsightliness and unproductiveness... in other words, dystopia.
+            rendering the society full of chaos, crime, mishaps, injustice, inequality, mishealth, disharmony, competition, 
+            pollution, dirtiness, unsightliness and the society's unproductiveness and non-progress for decades... 
+            in other words, dystopia.
             </p>
            
             <p> But these are artificial and avoidable problems so they can be solved, at least starting with 
@@ -1320,7 +1341,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               Earth orbit very dangerous because of risk of these debris crashing into their spaceships.</li>
              
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Our progressive pan-human 
-              constitution for the kosmos called “Same Water”.</li>
+              manifesto for the kosmos called “Same Water”.</li>
         <!-- close button logic moved out of template string -->
             </ul>
             <p style='margin-bottom:1em;'>By 2031 two people will go to Low Earth Orbit in 
@@ -1430,8 +1451,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             wherever applicable.</p>
 
             <p><span>&gt;&gt;</span> Our technologies will align around our 
-            draft for a democratic, pan-human and Nature-respecting constitution for space, presented in 
-            the “Same Water constitution for Space” chapter on this website.</p>
+            draft for a democratic, pan-human and Nature-respecting manifesto for space, presented in 
+            the “Same Water manifesto for the kosmos” chapter on this website.</p>
           </div>
         </div>
       `;
@@ -1637,7 +1658,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             through the far far future and that includes our co-workers ( “co-workers” and not “workers” or "employees" ) 
             being allowed to attain their fullest potential and that in a democratic way. “Liberty, Equality, 
             Fraternity” is after all one of our credos. So our company-internal organization of people 
-            employs the Workers Cooperative concept which is described in the “Same Water constitution for Space” 
+            employs the Workers Cooperative concept which is described in the “Same Water manifesto for the kosmos"
             chapter on this website. Please read that chapter and return to this point. Additionally in our 
             company : </p>
 
@@ -1850,7 +1871,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p><span>&gt;&gt;</span> Planetary Science Division of NASA for the idea of creating an artificial magnetosphere
              for Red One.</p>
 
-            <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which we use to name our constitution for space. The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] and there are other nice songs there.</p>
+            <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which we use to name our manifesto for the kosmos. The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] and there are other nice songs there.</p>
              
             <p><span>&gt;&gt;</span> Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be
              read here [ <a href="https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf" target="_blank" style="color:#0000FF;">https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf</a> ].</p>
@@ -2404,7 +2425,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             growing human organs and cat organs and entire living humans and this is important not
             only for solving diseases like blindness and kidney failure but also for populating space with
             humans and also protecting the desirable Earthen lifeforms in case of global devastations.
-            Please read more on this in the “Same Water constitution for Space” chapter of this website.
+            Please read more on this in the “Same Water manifesto for the kosmos” chapter of this website.
             </p>
 
             <p>

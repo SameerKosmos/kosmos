@@ -756,10 +756,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             recorded on camera, perhaps never, until 2013 when photographer Kedar Hippalgaonkar along with his wife 
             Parul, recorded a jaguar locally named Mick Jaguar hunting a croc in a river in Brazil's 
             Pantanal wetlands. Kedar's photos went viral on the internet. And only recently has it been researched 
-            how octopuses collaborate with certain types of fishes to hunt other fishes. This is a nice article 
-            [ <a href="https://theconversation.com/octopuses-work-together-with-fish-to-hunt-and-the-way-they-share-decisions-is-surprisingly-complex-239723 </a> ]. 
-            So, as we seek lifes beyond Earth we must not have preconceived notions and set academic dictations 
-            on where we will find these lifes and how they will be.
+            how octopuses collaborate with certain types of fishes to hunt other fishes. So, as we seek lifes beyond Earth 
+            we must not have preconceived notions and set academic dictations on where we will find these lifes and how they will be.
             </p>
             
             <p>

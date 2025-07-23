@@ -5,7 +5,7 @@ const closeModal = document.getElementById('closeModal');
    
 
 
-// 04. Manifesto for the Kosmos
+// 04. Manifesto for the kosmos
 document.querySelectorAll('.chapter-card').forEach(card => {
   card.addEventListener('click', function() {
     const chapter = card.getAttribute('data-chapter');
@@ -54,34 +54,34 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
               
           </style>
-          <h2> Manifesto for the Kosmos</h2>
+          <h2> Manifesto for the kosmos</h2>
           <div>
             <p> 
-            We present “Same Water”, a draft of a progressive pan-human 
-            manifesto for the Kosmos i.e. for all humans going and living in the Universe / Space. 
-            This draft is not a full preparation but still substantial
-            and we will further it by discussions in progressive forums
-            and join it with others’ drafts for this purpose.</P>
+            We present a draft of a progressive pan-humanist manifesto for the kosmos 
+            i.e. for all humans going and living in the universe / space and hopefully this manifesto 
+            finding adoption on Earth. This draft is not a full preparation but still substantial 
+            and we will further it by discussions in progressive forums and join it with others’ drafts for this purpose.
+            </P>
 
-            <p> This social system is for simple, harmonious and Nature-ordained organization of humans in 
+            <p> This manifesto describes a social system for simple, harmonious and Nature-ordained organization of humans in 
             space so that groups in space operate harmoniously within themselves and with other 
-            individuals or groups in space; and individuals and groups as a whole in space do their 
-            sightseeing or research or mining or living and are able to contribute to the collective 
-            learnings and evolved experience of humanity in space such that in 12 years from now ( 
-            by 2037 ) humans have at least started living in the Asteroid Belt which sits in the space 
-            between Red One and Jupiter.</P>  
+            individuals or groups in space who are humans from anywhere on Earth and beyond; 
+            and these individuals and groups as a whole in space do their sightseeing or research or mining or living 
+            and are able to contribute to the collective learnings and evolved experience of humanity in space 
+            such that in 12 years from now ( by 2037 ) humans have at least started living in the Asteroid Belt 
+            which sits in the space between Red One and Jupiter.</P>  
 
-            <p> The name “Same Water” is derived from a line in the wonderful Bengali and Hindi languages
+            <p> One of our inspirations is the wonderful Bengali and Hindi languages
             song called “Shob Lokey Koy” which appeared in the music series Coke Studio Bangla
             Season One. The song is a celebration of two past South Asian humanitarian mystics, Lalon
             Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
             same well except for some differences in the vessels which then contain the waters, and this
             is what we Kosmos Society want through our manifesto draft - a harmonious unity of
-            humankind in Space, removed of all the artificial unpleasantnesses and tragedies that
-            humans do or endure presently on Earth. Below are some points from the Same Water draft.
+            humankind in space, removed of all the artificial unpleasantnesses and tragedies that
+            humans do or endure presently on Earth. Below are some points from our manifesto draft. 
             Some of these are “To be done”. </p>
 
-            <h2>The Universe and human nations on Earth</h2>
+            <h2>The universe and human nations on Earth</h2>
 
             <p>
                 The universe has existed forever, much before some human scientists and academics foolishly
@@ -704,7 +704,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             vehicles.</p>
 
             <p style="margin-left:1em; margin-bottom:10px";> <span>(f).</span> The social organization system of the Mirkeen-1 base will be the points from the rest of 
-            our proposed “Same Water” manifesto for the kosmos. </p>
+            our proposed “Manifesto for the Kosmos". </p>
 
             <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> The Mirkeen-1 base will be the first very advanced society which won’t have money, tax 
             and feudalism. The true wealth of a society is not in the money, mansions and luxury 
@@ -717,7 +717,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> For the time being the Mirkeen-1 base can engage in commercial activities to sustain 
             itself other than getting support from Kosmos Society and its partners on Earth. This 
-            commerce will be in accordance with our "Same Water" manifesto for the kosmos. The commerce 
+            commerce will be in accordance with our manifesto for the kosmos. The commerce 
             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others’ 
             space stations around Earth; the commerce can be about those produced materials and 
             services which benefit from the low-gravity and vacuum conditions on the Moon; the 
@@ -762,7 +762,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             And if we seek them we must of course ideally have collective human prosperity, collective 
             harmony, gentleness, sensitiveness, empathy and intelligent consensus as that will present 
             our best unified side to any other intelligent lifeforms and that will come by agreeing on 
-            sensible manifestos like our “Same Water” manifesto for the kosmos.
+            sensible manifestos like our manifesto for the kosmos.
             </p>
             
             <p>There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
@@ -805,7 +805,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             desire to use these laws to take the kosmos / space exclusively for their own political blocs including for their 
             feudalist commercial corporations who see space as another resource to profit from and exploit their workers. 
             The UNOOSA also unfortunately supports such activity. However, there is no need for these complicated "space laws" 
-            when every nation can agree on the pan-humanist and collectively beneficial manifesto for the kosmos 
+            when every nation can agree on a pan-humanist and collectively beneficial manifesto for the kosmos 
             which non-profit organizations like us present.
             </p>
                         
@@ -813,21 +813,21 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>The space experiences including the Mirkeen-1 base and our Space machines will provide 
             derivations for city design for Earth and its transportation. This effort will consist of designing 
-            large and small cities which are aesthetic, scientifically-built, citizen-managed, humanist, 
-            largely food-wise self-sufficient, largely employment-wise self-sufficient and gentle, built to 
-            take the pressure off current chaotic cities and also bring reasonable city culture to rural 
+            large and small cities which are aesthetic, scientifically-built, citizen-managed through participatory democracy, 
+            humanist, largely food-wise self-sufficient, largely employment-wise self-sufficient and gentle, 
+            built to take the pressure off current chaotic cities and also bring reasonable city culture to rural 
             people. The public transportation system will be built around our Ra-E buses, bicycle lanes 
             and footpaths. The only personal vehicles allowed will be pedal-only bicycles. The 
             gentleness in these cities will also come from creating a safe and comfy environment for cats 
             to prosper. </p>
 
             <p>
-            First here we will speak of transportation problems within cities.
+            First here we will speak of intra-city and inter-city public transportation in detail.
             </p>
            
             <p> We will make a derivation of our Ra-H vehicle for Earthen public transportation in the form of 
             a 15-passenger bus called Ra-E which can be used for full capacity mass public transport or 
-            as taxis for people going for special occasions. The Earthen Ra-E will normally use 
+            as a taxi for people going for special occasions. The Earthen Ra-E will normally use 
             hovercraft mode on the current roads and other paths and switch to wheelcraft mode and 
             aircraft mode when needed… for example, travel on mountain roads is dangerous in 
             hovercraft mode so wheels are needed. Traveling between cities can be done by using the 
@@ -856,7 +856,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p>
             Building flyovers has only made the unthinking public to purchase even more personal vehicles 
-            to the extent that many families have at least two vehicles for no other reason than to display their middle class new-not-actually-rich wealth 
+            to the extent that many families have at least two vehicles for no other reason than to display their middle class new-pseudo-rich wealth 
             with the result being that in some cities there are now at least five million personal motor vehicles. 
             Putting metro lines has also not caused the public to sell their vehicles and put the sale 
             money into starting a business or touring other countries and before all that taking personal responsibility 
@@ -865,7 +865,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p>
             City corporations installing expensive “artificial intelligence” systems to control traffic lights will also never solve the problem 
-            because the AI traffic lights will not make the millions of personal vehicles vanish. These AI traffic control systems 
+            because the AI traffic lights will not make the millions of traffic-causing personal vehicles vanish. These AI traffic control systems 
             will only help the profiteering corporations who have convinced the city corporations 
             to purchase their needless systems.
             </p>
@@ -997,7 +997,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             travel across open land. All this travel of the Ra-E buses will be guided by 
             control centers and vehicle-2-vehicle communications between the Ra-Es.
             </p>
-           
+                      
             <p> Another advantage of Ra-E buses will be preventing the need to build a large number of 
             bridges across rivers in cities because with just the presence of a small ramp on the 
             riverside these public-carrying Ra-E craft in hovercraft mode can smoothly transit from land 
@@ -1010,6 +1010,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p>
             The Ra-E bus platform can also be made into other kinds of vehicles like ambulance, public 
             security vehicle, garbage collection vehicle, packages delivery vehicle, etc.
+            </p>          
+            
+            <p>
+            There is also the thing that self-sufficient cities filled with people of scientific temper 
+            will prevent tens of thousands of out-of-city daily travellers, or even a few million. It will then be very few 
+            people travelling beyond their cities on a daily basis and these people will be easily able to travel 
+            in our Ra-E buses which will put on their aircraft mode. This lesser daily out-of-city travel 
+            will also contribute to serene Earthen societies.
             </p>
             
             <p>[ To be done ] </p> 
@@ -1341,7 +1349,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               Earth orbit very dangerous because of risk of these debris crashing into their spaceships.</li>
              
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Our progressive pan-human 
-              manifesto for the kosmos called “Same Water”.</li>
+              manifesto for the kosmos.</li>
         <!-- close button logic moved out of template string -->
             </ul>
             <p style='margin-bottom:1em;'>By 2031 two people will go to Low Earth Orbit in 
@@ -1406,26 +1414,33 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           </style>
           <h2>Our progressive product design principles</h2>
           <div>
-            <p><span>&gt;&gt;</span> Liberty, Equality, Fraternity, 
+            <p>
+            01. Liberty, Equality, Fraternity, 
             Humanism, Simplicity, Human safety as much as possible, Respect for Nature including 
-            reversing Climate Change on Earth.</p>
-            <p><span>&gt;&gt;</span> Readiness to explore 
-            sensible methods that are from old times or are unusual.</p>
+            reversing Climate Change on Earth.
+            </p>
+            
+            <p>
+            02. Readiness to explore sensible methods that are from old times or are unusual.
+            </p>
 
-            <p><span>&gt;&gt;</span> We won’t do a technology just 
-            because there are a hundred other companies doing it or it has been done for a 
-            hundred years or just because it has been proposed by some celebrated scientist but
-             the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.</p>
+            <p>
+            03. We won’t do a technology just because there are a hundred other companies doing it or it has been done for a 
+            hundred years or just because it has been proposed by some celebrated scientist but 
+            the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
+            </p>
 
-            <p><span>&gt;&gt;</span> A naturality, beauty, gentleness, 
-            simplification and intelligence in technologies and science as against trendy but dystopian 
+            <p>
+            04. A naturality, beauty, gentleness, simplification and intelligence in technologies and science as against trendy but dystopian 
             and needlessly complicated things. Be Dune’sy rather than metaverse’y. This includes naming 
             or renaming of space objects like “Red One” instead of “Mars” as the latter is the Roman 
             god of war while the former is a gentle name. Another example is not following the 
-            silliness of nuclear fusion as the means to generate electricity.</p>
+            silliness of nuclear fusion as the means to generate electricity.
+            </p>
 
-            <p style="margin-bottom:10px;"> Employ the concept of Circular Economy which also relates 
-            to:</p>
+            <p style="margin-bottom:10px;"05. Employ the concept of Circular Economy which also relates 
+            to :
+            </p>
            
             <p style='margin-left:2em;margin-bottom:10px;'><span>(a).</span> Much simplified technology.</p>
 
@@ -1450,9 +1465,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p><span>&gt;&gt;</span> Bio-mimicry and Engineered Biology 
             wherever applicable.</p>
 
-            <p><span>&gt;&gt;</span> Our technologies will align around our 
-            draft for a democratic, pan-human and Nature-respecting manifesto for space, presented in 
-            the “Same Water manifesto for the kosmos” chapter on this website.</p>
+            <p>
+            06. Our technologies will align around our draft for a democratic, pan-human and Nature-respecting manifesto for space, 
+            presented in the “Manifesto for the Kosmos” chapter on this website.
+            </p>
+            
           </div>
         </div>
       `;
@@ -1573,8 +1590,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             the Google Lunar X Prize which had just started and we thought we too should go to space, 
             not us sending machines to space but our human group going to space and that idea developed 
             for the next 16 years as we decided the simplest and straightforward mechanisms to 
-            take us and other humans to space, and then others joined us and then in early 2023 
-            we formed Kosmos Society as a group and then we decided upon our path as a transnational 
+            take us and other humans to space. It takes time for the simple realizations. And then others joined us 
+            and then in early 2023 we formed Kosmos Society as a group and then we decided upon our path as a transnational 
             non-profit design organization and that internally we organize as a Workers Cooperative.
             </p>
 
@@ -1658,7 +1675,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             through the far far future and that includes our co-workers ( “co-workers” and not “workers” or "employees" ) 
             being allowed to attain their fullest potential and that in a democratic way. “Liberty, Equality, 
             Fraternity” is after all one of our credos. So our company-internal organization of people 
-            employs the Workers Cooperative concept which is described in the “Same Water manifesto for the kosmos"
+            employs the Workers Cooperative concept which is described in the “Manifesto for the Kosmos"
             chapter on this website. Please read that chapter and return to this point. Additionally in our 
             company : </p>
 
@@ -1858,7 +1875,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <div>
             <p><span>&gt;&gt;</span> Vikram for the logo, the website design and for provoking the thought in Sameer to have this Credits page.</p>
             
-            <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page ( sadly we forgot the page name ) in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the owner of that Insta page and the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
+            <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
 
                         
             <p><span>&gt;&gt;</span> Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>
@@ -1871,7 +1888,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p><span>&gt;&gt;</span> Planetary Science Division of NASA for the idea of creating an artificial magnetosphere
              for Red One.</p>
 
-            <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which we use to name our manifesto for the kosmos. The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] and there are other nice songs there.</p>
+            <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which also inspired us for our manifesto for the kosmos. The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] and there are other nice songs there.</p>
              
             <p><span>&gt;&gt;</span> Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be
              read here [ <a href="https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf" target="_blank" style="color:#0000FF;">https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf</a> ].</p>
@@ -2425,7 +2442,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             growing human organs and cat organs and entire living humans and this is important not
             only for solving diseases like blindness and kidney failure but also for populating space with
             humans and also protecting the desirable Earthen lifeforms in case of global devastations.
-            Please read more on this in the “Same Water manifesto for the kosmos” chapter of this website.
+            Please read more on this in the “Manifesto for the Kosmos” chapter of this website.
             </p>
 
             <p>
@@ -2446,7 +2463,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             </p>
 
             <p>
-            <span>(b).</span> Some of the wall of the airlock can be unbreakable transparent glass which transmits
+            <span>(b).</span> Some of the wall of the airlock can be strengthened transparent wood window which transmits
             outside natural light to a mirror on the far inner side which then transmits that light to the
             inner section of the habitation.
             </p>
@@ -2458,7 +2475,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             </p>
 
             <p>
-            <span>(d).</span> The internal walls will be made of strengthened wood. Wood is lighter than metal like
+            <span>(d).</span> The internal walls will be made of strengthened wood. Wood is lighter than a metal like
             steel and also growable in the form of its trees.
             </p>
 

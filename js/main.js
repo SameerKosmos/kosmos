@@ -69,7 +69,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             and these individuals and groups as a whole in space do their sightseeing or research or mining or living 
             and are able to contribute to the collective learnings and evolved experience of humanity in space 
             such that in 12 years from now ( by 2037 ) humans have at least started living on the Moon and 
-            in the Asteroid Belt which sits in the space between Red One and Jupiter.</P>  
+            then in few more years, living in the Asteroid Belt which sits in the space between Red One and Jupiter.</P>  
 
             <p> One of our inspirations is the wonderful Bengali and Hindi languages
             song called “Shob Lokey Koy” which appeared in the music series Coke Studio Bangla
@@ -649,11 +649,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             collectively prosperous. It then also follows the necessity that national governments on Earth 
             will participate in such a democratic pan-humanist effort.</p>                
 
-            <h2>Project Mirkeen-1</h2>
+            <h2>Project Mirkeen-01</h2>
 
-            <p> Project Mirkeen-1 will be our effort in building a humanity-uniting progressive research base 
-            on the Moon ( Earth's moon ), having the name “Mirkeen-1” and to be built beginning in 
-            2036, or earlier if possible. </p>
+            <p> Project Mirkeen-01 will be our effort in building a humanity-uniting progressive research base 
+            on the Moon ( Earth's moon ), having the name “Mirkeen-01” and to be built beginning in 2036. </p>
 
             <p> Presently, Artemis Accords and ILRS ( International Lunar Research Station ) are two 
             projects for the near-future construction of bases and other infrastructure on the Moon and 
@@ -664,74 +663,79 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Earthen bloc politics when instead they should have proposed a pan-human, collective Moon 
             Base effort. So we of Kosmos Society propose a third way… sometimes there is a third way 
             as nicely put in the slogan of the World Social Forum - "Another world is possible". We call 
-            this third way as “Project Mirkeen-1".</p>
+            this third way as “Project Mirkeen-01".</p>
 
             <p> “Mirkeen” is a combination of “Mir” and “Keen”. “Mir” means Peace in the Russian language 
             and also World. “Keen” is the main city in the Dune story. Our project involves building a 
-            separate base on the Moon called Mirkeen-1, separate to Artemis Accords and ILRS, in the 
+            separate base on the Moon called Mirkeen-01, separate to Artemis Accords and ILRS, in the 
             following way : </p>
 
-            <p style="margin-left:1em; margin-bottom:10px";><span>(a). </span>Bring together private citizens from Earth who believe in natural human beliefs including 
-            pan-human fraternity and want to settle on the Moon whether semi-permanently or with 
-            regular visits to Earth. The participating citizens of Earth can be from The Global South, from 
-            pan-humanist private organizations from anywhere and any other pan-humanist individual 
-            citizens of humanity.</p>
+            <p style="margin-left:1em; margin-bottom:10px";><span>(a). </span>Bring together private citizens 
+            from Earth who believe in natural human beliefs including pan-human fraternity and 
+            want to settle on the Moon whether semi-permanently or with regular visits to Earth. 
+            The participating citizens of Earth can be from The Global South, from pan-humanist private organizations 
+            from anywhere and any other pan-humanist individual citizens of humanity.</p>
 
-            <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> With all this brought-together “snapshot of humanity” we begin to build the Mirkeen-1 
-            base on the Moon starting 2036 or earlier, using our to-Moon transport means ( 
-            our-designed Alef-A airship-spaceships manufactured by partner governments ) and our 
+            <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> With all this brought-together “snapshot of humanity” 
+            we begin to build the Mirkeen-01 base on the Moon starting 2036, using our to-Moon transport means
+            ( our-designed Alef-A airship-spaceships manufactured by partner governments ) and our 
             other technologies and the technologies of other partner pan-humanist organizations with 
             common protocols. The construction workers will base themselves in the Alef-As until the 
             base is built. </p>
 
-            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> We will site the Mirkeen-1 base underground in a place which will be in line-of-sight with 
-            Earth but not far from the Moon's Far Side. These criteria are for safety from space rocks 
-            and radiation, to be in constant communication with Earth and to sally out to the Far Side at 
-            will to learn deep-space operations as well as to obtain water from the possible water ice 
+            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> We will site the Mirkeen-01 base underground 
+            in a place which will be in line-of-sight with Earth but not far from the Moon's Far Side. 
+            These criteria are for safety from space rocks and radiation, to be in constant communication with Earth 
+            and to sally out to the Far Side at will to learn deep-space operations as well as to obtain water from the possible water ice 
             there and possibly from Moon soil. There will be at least one communications relay satellite in the Moon's orbit above Far 
             Side to connect to a few relay satellites above Earth with these relay satellites being 
             operated by our partner organizations.</p>
 
-            <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> The Mirkeen-1 base will be designed to be partly self-sufficient food-wise, in water, in 
-            production of clothing, computers, ground vehicles etc but be extendible for meeting with 
+            <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> The Mirkeen-01 base will be designed to be partly self-sufficient food-wise, 
+            in water, in production of clothing, computers, ground vehicles etc but be extendible for meeting with 
             future self-sufficiency situations. The electricity will be decentralized and will use our safe, 
-            self-sustaining, modular and easily repairable Faradn generators instead of the very unwise 
-            nuclear generators or solar photovoltaics proposed by many in the current Space industry. </p>
+            self-sustaining, modular and easily repairable Faradn generators. </p>
 
-            <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> The construction materials for the Mirkeen-1 base, ground vehicles etc will be partly 
-            materials carried from Earth in our Alef-A airship-spaceships and partly local materials as 
+            <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> The construction materials for the Mirkeen-01 base, ground vehicles etc 
+            will be partly materials carried from Earth in our Alef-A airship-spaceships and partly local materials as 
             per application ( ISRU - In Situ Resource Utilization ). The ground vehicles will be our Ra-H 
             vehicles.</p>
 
-            <p style="margin-left:1em; margin-bottom:10px";> <span>(f).</span> The social organization system of the Mirkeen-1 base will be the points from the rest of 
-            our proposed “Manifesto for the Kosmos". </p>
+            <p style="margin-left:1em; margin-bottom:10px";> <span>(f).</span> The social organization system of the Mirkeen-01 base will be the points from the rest of 
+            our proposed “Manifesto for the kosmos". </p>
 
-            <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> The Mirkeen-1 base will be the first very advanced society which won’t have money, tax 
-            and feudalism. The true wealth of a society is not in the money, mansions and luxury 
-            motorcars held by a few privileged. The true wealth is the potential and the positive ideas 
-            and works of the citizens and these can exist without money. In fact the potential of a society 
-            is eroded by the presence of money because so many people have potential but when they 
-            get socially excluded through the various aspects of money they don’t get the opportunity to 
-            realize their potential and their society does not get to benefit. This realization extends to all 
-            of humanity. </p>
+            <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> The Mirkeen-01 base will be the first very advanced society 
+            which won’t have money, tax and feudalism. The true wealth of a society is not in the money, mansions and luxury 
+            motorcars held by a few privileged. The true wealth is the potential and the positive ideas and works of the citizens 
+            and these can exist without money. In fact the potential of a society is eroded by the presence of money because 
+            so many people have potential but when they get socially excluded through the various aspects of money 
+            they don’t get the opportunity to realize their potential and their society does not get to benefit. 
+            This realization extends to all of humanity. </p>
             
-            <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> For the time being the Mirkeen-1 base can engage in commercial activities to sustain 
-            itself other than getting support from Kosmos Society and its partners on Earth. This 
+            <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> For the time being the Mirkeen-01 base can engage in commercial activities 
+            to sustain itself other than getting support from Kosmos Society and its partners on Earth. This 
             commerce will be in accordance with our manifesto for the kosmos. The commerce 
             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others’ 
             space stations around Earth; the commerce can be about those produced materials and 
             services which benefit from the low-gravity and vacuum conditions on the Moon; the 
             commerce can be tourism on the Moon; etc.</p> 
 
-            <p style="margin-left:1em; margin-bottom:10px";><span>(i).</span> The Mirkeen-1 base can also have guests from the Artemis Accords base and the ILRS 
-            base. All human-spirited people will be welcomed with tea and biscuits. </p>
+            <p style="margin-left:1em; margin-bottom:10px";><span>(i).</span> The Mirkeen-01 base can 
+            also have guests from the Artemis Accords base and the ILRS base. All human-spirited gentle people 
+            will be welcomed with tea and biscuits. </p>
 
-             <p style="margin-left:1em; margin-bottom:10px";><span>(j).</span> The Mirkeen-1 base will serve as a store for desirable biological material and
-              technological recipes so that if Earth is threatened by natural events ( asteroids, comets, big
-              solar flares, pandemics, super volcanoes etc ) or unfortunately done human-made events (
-              global war etc ), advanced human life and other desirable lifeforms on Earth ( like plants,
-              cats, fish, birds, deer etc ) can recover and thrive. This arrangement will supplement the
-              Svalbard Global Seed Vault.
+             <p style="margin-left:1em; margin-bottom:10px";><span>(j).</span> The Mirkeen-01 base will serve 
+             as a store for desirable biological material and technological recipes so that if Earth is threatened 
+             by natural events ( asteroids, comets, big solar flares, pandemics, super volcanoes etc ) 
+             or unfortunately done human-made events ( global war etc ), advanced human life and other desirable lifeforms 
+             on Earth ( like plants, cats, fish, birds, deer etc ) can recover and thrive. This arrangement 
+             will supplement the Svalbard Global Seed Vault.
+              </p>
+
+              <p style="margin-left:1em; margin-bottom:10px";><span>(k).</span> The Mirkeen-01 base will also serve 
+              as an example to replicate its techno systems and social system on other worlds like Red One 
+              and Red One's moons and the Asteroid Belt. Each new such base will be named Mirkeen but with 
+              increasing numbers like 02, 05, 20 and going into hexadecimal numbers like 0A, 4C and FA.
               </p>
 
 <h2> Meetings or sightings of aliens</h2>
@@ -811,7 +815,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
                         
             <h2> City design and city reconfiguration on Earth</h2>
             
-            <p>The space experiences including the Mirkeen-1 base and our Space machines will provide 
+            <p>The space experiences including the Mirkeen-01 base and our Space machines will provide 
             derivations for city design for Earth and its transportation. This effort will consist of designing 
             large and small cities which are aesthetic, scientifically-built, citizen-managed through participatory democracy, 
             humanist, largely food-wise self-sufficient, largely employment-wise self-sufficient and gentle, 
@@ -1252,12 +1256,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <h2> Our solution : The Iskra Plan</h2>
             
-            <p style='margin-bottom:1em;'>In the Russian language "Iskra" means Spark 
-            and in the context of our organization our Iskra Plan is our spark for all humans 
-            to light the flame to explore the entire universe to the max entent possible and settle 
-            in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
-            Nature and Nature’s laws. Space travel must become as common as bus travel, and 
-            space living as common as hotel stay, and these should flow into evolving human 
+            <p style='margin-bottom:1em;'>In the Russian language "Iskra" means Spark, especially one
+            which ignites positive change. In the context of our organization our Iskra Plan is our spark for all humans 
+            to light the flame to explore the entire universe to the max extent possible and settle 
+            in space in a way that is simple, gentle, safe, pan-humanist in a progressive way 
+            and respectful of Nature and Nature’s laws. Space travel must become as common as bus travel, 
+            and space living as common as hotel stay, and these should flow into evolving human 
             society on Earth too. Potentially every human should be able to access space, 
             live in space and attain their potential in space, whenever he or she desires, 
             with a minimal usage fee or no fee at all, in the now and in the far far future. 
@@ -1266,23 +1270,24 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p style='margin-bottom:1em;'>Towards this, we of Kosmos Society will build all 
             the systems, whether the spaceships or the computers or the electricity generators 
-            or the spacesuits or the habitation systems or the social system and every other 
+            or the spacesuits or the habitation systems or the social system for space and every other 
             necessary thing, and all this in a simplified and straightforward manner.</p>
             
             <p style='margin-bottom:1em;'>Starting 2035 our-designed spaceships will be able to 
-            carry humans and goods safely throughout the Inner Solar System and Outer Solar System 
-            and our other technologies will enable living in those regions. “Inner Solar System” 
-            means to safely near the Sun in one direction and the Asteroid Belt in the other 
-            direction, and “Outer” means beyond the Asteroid Belt to Pluto and beyond. This will 
+            carry some humans and goods safely to the Moon and in subsequent years our-designed spaceships 
+            will be able to travel throughout the Inner Solar System and Outer Solar System, 
+            carrying large number of humans and goods and our other technologies will enable living in those regions.
+            “Inner Solar System” means to safely near the Sun in one direction and the Asteroid Belt in the other 
+            direction, and “Outer Solar System” means beyond the Asteroid Belt to Pluto and beyond. This will 
             be just the start.</p>
                         
             <p style='margin-bottom:1em;'>Most of our systems will be usable on Earth either directly 
             or in derivation, and all our systems will be simplified, manufacturable cheaply, operable
              cheaply and repairable cheaply, and the manufacturers will be national governments who will
-              purchase from us the designs and engineering details of our systems for a reasonable license
-               fee and they will be able to set up the factories in their own countries. Once these systems 
-               are built by the governments they should charge the masses minimal fees or no fees at all for 
-               personal ownership of some of these systems ( say our wearable computer ) 
+              purchase from us the designs and engineering details of our systems for a reasonably cheap 
+              license fee and they will be able to set up factories in their own countries to produce our 
+              systems. Once these systems are built by the governments they should charge the masses minimal fees 
+              or no fees at all for personal ownership of some of these systems ( say our wearable computer ) 
                or when being passengers ( say on our spaceships ) or when living in space habitats. 
                For example, an individual’s trip to the Moon should have a max seat price of 100 dollars 
                or ideally free.</p>
@@ -1293,47 +1298,47 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A compact, non-nuclear,
                simple and self-sustaining electricity generator called Faradn which will power all 
                our smaller machines and not-smaller machines by being installed within them or just 
-               outside them This is decentralized electricity generation instead of the current centralized 
+               outside them. This is decentralized electricity generation instead of the current centralized 
                methods.</li>
 
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A reusable space-going airship called 
               Alef-A which will be our ascent / descent system on worlds and it will also be the means to 
-              travel short distances in space like Earth to Moon This airship will be lifted in atmosphere
+              travel short distances in space like Earth to Moon. This airship will be lifted in atmosphere
                worlds by helium gas and hot air and will use three eco-friendly and sustainable propulsion 
-               methods : electric rotors, coal combustion, water steam jets “World ascent / descent” can mean
-                for an air-filled space object ( Earth, perhaps Titan etc ) or an airless space object 
-                ( Moon, large asteroids etc ) The cargo can be humans and goods The Alef-A airship-spaceship 
-                 will be shaped like an upturned teacup without the handle The first full version will be 
-                 able to carry 20 humans to the Moon.</li>
+               methods : electric rotors, coal combustion, water steam jets. “World ascent / descent” can mean
+                for an air-filled space object ( Earth, perhaps Titan, etc ) or an airless space object 
+                ( Moon, large asteroids, etc ). The cargo can be humans and goods. The Alef-A airship-spaceship 
+                 will be shaped like an upside-down teacup without the handle. The first full version will be 
+                 able to carry 20 humans to the Moon in 2035.</li>
 
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A large in-space 
               long-distance ferry called Alef-F which will be large enough to carry five Alef-A crafts 
               and a hundred humans and a hundred tons of other cargo and will be propelled primarily by 
-              water steam jets This ferry will be able to travel throughout the Inner Solar System and the
+              water steam jets. This ferry will be able to travel throughout the Inner Solar System and the
                Outer Solar System and will always be in space, never to descend on any world.</li>
 
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A hybrid vehicle 
               called Ra-H which will be a combination of hovercraft, wheelcraft and aircraft, able to 
               carry humans and small cargo and to be used on the surface and air of air-having space 
               bodies such as Red One ( Mars ) and Titan, and the surface of larger airless space bodies 
-              such as the Moon and asteroids In air propulsion mode it will use electric rotors and coal
+              such as the Moon and asteroids. In aircraft mode it will use electric rotors and coal
                combustion depending on the situation and will allow for vertical takeoff and landing 
-               ( VTOL ) Each Ra-H will carry three non-suited people in a pressurized cabin A single 
+               ( VTOL ). Each Ra-H will carry three non-suited people in a pressurized cabin. A single 
                 Ra-H will be carried down to those worlds by a Alef-A craft.</li>
 
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A spacesuit called
-               Stillsuit with short-distance flying ability The suit will be a hard suit and will use 
-               bio-mimicry for self-sealing in case of punctures The suit will have a water system to 
+               Stillsuit with short-distance flying ability. The suit will be a hard suit and will use 
+               bio-mimicry for self-sealing in case of punctures. The suit will have a water system to 
                recycle water from sweat and urine, and facility to collect defecation and render 
-               it non-smelly and non-toxic Also will be other conveniences like a simple mechanical 
-               system to scratch all of the face and dab it of sweat.</li>
+               it non-smelly and non-toxic. Also will be other conveniences like a simple mechanical 
+               system to scratch all of the face and dab it of sweat and tears.</li>
 
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A wearable computer 
-              called Dune Buk which will be operable in space conditions It will be worn on the back of 
+              called Dune Buk which will be operable in space conditions. It will be worn on the back of 
               the upper arm and will use novel methods for computation, electromagnetic frequency 
-              reception, data storage and projected-display system where sound will play a major role 
-              The file system will be non-hierarchical and categories-recording The networking system 
-              is called Frema This computer will be aesthetic for the stylish person and will be wearable 
+              reception, data storage and projected-display system where sound will play a major role. 
+              The file system will be non-hierarchical and categories-recording. The networking system 
+              is called Frema. This computer will be aesthetic for the stylish person and will be wearable 
               on all kinds of clothing including factory clothes and the Stillsuit spacesuit.</li>
 
               <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Space habitation 
@@ -1352,10 +1357,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               manifesto for the kosmos.</li>
         <!-- close button logic moved out of template string -->
             </ul>
-            <p style='margin-bottom:1em;'>By 2031 two people will go to Low Earth Orbit in 
+            <p style='margin-bottom:1em;'>To start our journey to space, by 2031 two people will go to Low Earth Orbit in 
             our Alef-A airship-spaceship, orbit Earth and return gently through the atmosphere 
-            by powered craft re-entry to the launch place. By 2035 our spaceships will carry 
-            humans and goods from the Inner Solar System to the Outer Solar System.</p>
+            by powered craft re-entry to the launch place.</p>
+            
           </div>
         </div>
       `;
@@ -1368,7 +1373,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           };
         }
       }, 0);
-      // 02. Our product design principles
+      // 02. Product design principles
     } else if (chapter === 'principles') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1591,13 +1596,13 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p>
             We call ourselves as Kosmos Society because we want to be the vanguard techno-social organization 
-            taking human society into the kosmos... the universe... so that they become a gentle, observant and aware 
-            travelers and settlers of the universe, melding into it naturally and respecting and adopting Nature's 
-            laws in the kosmos, those reasonable laws and understandings which were part of human society for millennia 
-            including preached by the older philosophers and social reformers and those from true modern philosophers and those from us. 
-            Our logo has the cat because cats are gentle, observant, careful, empathetic, social, sensitive, extremely beautiful, extremely intelligent, 
-            extremely loyal, sweet natured, graceful, robust, independent, proud, consider themselves equal to humans and create good vibes 
-            wherever they go. These qualities we desire in all of the human society going into the kosmos 
+            taking human society into the kosmos... the universe... so that they become gentle, observant and aware 
+            travelers and settlers of the universe, melding into the universe naturally and respecting and adopting Nature's 
+            laws, including those reasonable laws and understandings which were part of human society for millennia,  
+            preached by the older philosophers and social reformers and those from true modern philosophers and those from us. 
+            Our logo has the cat because cats are gentle, observant, careful, empathetic, social, loving, sensitive, extremely beautiful, 
+            extremely intelligent, extremely loyal, sweet natured, graceful, robust, independent, proud, consider themselves equal to humans 
+            and create good vibes wherever they go. These qualities we desire in all of the human society going into the kosmos 
             and also on Earth.
             </p>
 

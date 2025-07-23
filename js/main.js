@@ -757,7 +757,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Parul, recorded a jaguar locally named Mick Jaguar hunting a croc in a river in Brazil's 
             Pantanal wetlands. Kedar's photos went viral on the internet. And only recently has it been researched 
             how octopuses collaborate with certain types of fishes to hunt other fishes. This is a nice article 
-            [ <a href="https://theconversation.com/octopuses-work-together-with-fish-to-hunt-and-the-way-they-share-decisions-is-surprisingly-complex-239723" </a> ]. 
+            [ <a href="https://theconversation.com/octopuses-work-together-with-fish-to-hunt-and-the-way-they-share-decisions-is-surprisingly-complex-239723 </a> ]. 
             So, as we seek lifes beyond Earth we must not have preconceived notions and set academic dictations 
             on where we will find these lifes and how they will be.
             </p>
@@ -776,8 +776,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             space, an artificial intelligence included with empathy and learning from unprogrammed space events,
             and a very different kind of alien encounter.</p> 
             <p>This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
-            ney-676nf </a>
-             ].  
+            ney-676nf </a> ].  
             This story prepares us to look for intelligent lifeforms by being open-minded as 
             to their type and their reaction to us and our reaction to them. Please read this story.
             </p>

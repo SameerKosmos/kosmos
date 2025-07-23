@@ -5,7 +5,7 @@ const closeModal = document.getElementById('closeModal');
    
 
 
-// 04. Our draft constitution for Space
+// 04. A constitution for the Kosmos
 document.querySelectorAll('.chapter-card').forEach(card => {
   card.addEventListener('click', function() {
     const chapter = card.getAttribute('data-chapter');
@@ -54,19 +54,19 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
               
           </style>
-          <h2> Our draft constitution for Space</h2>
+          <h2> A constitution for the Kosmos</h2>
           <div>
             <p> 
             We present “Same Water”, a draft of a progressive pan-human 
-            constitution for Space. This draft is not a full preparation but still substantial
+            constitution for the Kosmos i.e. Universe / Space. This draft is not a full preparation but still substantial
             and we will further it by discussions in progressive forums
             and join it with others’ drafts for this purpose.</P> 
 
             <p> This social system is for simple, harmonious and Nature-ordained organization of humans in 
-            Space so that groups in Space operate harmoniously within themselves and with other 
-            individuals or groups in space; and individuals and groups as a whole in Space do their 
+            space so that groups in space operate harmoniously within themselves and with other 
+            individuals or groups in space; and individuals and groups as a whole in space do their 
             sightseeing or research or mining or living and are able to contribute to the collective 
-            learnings and evolved experience of humanity in Space such that in 12 years from now ( 
+            learnings and evolved experience of humanity in space such that in 12 years from now ( 
             by 2037 ) humans have at least started living in the Asteroid Belt which sits in the space 
             between Red One and Jupiter.</P>  
 
@@ -83,11 +83,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <h2>The Universe and human nations on Earth</h2>
 
             <p>
-                The Universe / Space has existed forever, much before some human scientists and academics foolishly
+                The universe has existed forever, much before some human scientists and academics foolishly
                 affixed an age to it on the basis of misguided mathematics i.e. the Big Bang Theory and now
                 there are two Big Bang theories. Space has existed before human nations existed on Earth,
                 in fact before Earth itself existed. The concept of Earthen Nations / Nation States
-                does not exist in Nature / Universe / Kosmos / Space and comes on Earth
+                does not exist in Nature / Kosmos / Universe / Space and comes on Earth
                 from as recent as the French Revolution of the late 1700s which led to France becoming a
                 Republic which was meant to become citizen-governed with natural human freedoms as
                 against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
@@ -234,9 +234,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             social philosophies and technologies that may have had origins elsewhere on Earth.
             </p>
 
-            <P> It is then natural, rational, automatic and moral to expect that Space be a place of a united 
+            <P> It is then natural, rational, automatic and moral to expect that space be a place of a united 
             humanity instead of carrying the needless artificial hates and divides on Earth. The 
-            timelessly existent Space and Space objects should not be divided up by humans by way of 
+            timelessly existent space and space objects should not be divided up by humans by way of 
             selective ownerships by Earthen nations and not be introduced with militarization to defend 
             those selective ownerships against other humans. We should not allow the nationalist 
             bickerings and tragedies on Earth to be carried over into Space. Space should be the 
@@ -244,34 +244,39 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             under a truly democratic framework. National boundaries are artificial but human fraternity is 
             natural.</p> 
 
-            <h2>Natural equality in accessing Space and living in Space</h2>
+            <h2>Natural equality in accessing space and living in space</h2>
             
-            <P>The current human-transport space industry is feudal where aspiring Space travelers 
+            <P>The current human-transport space industry is feudal where aspiring space travelers 
             have to fit either of three categories :</P> 
             
            <P style="margin-left:1em; margin-bottom:10px";> <span>(a).</span> Be associated with the 
            government. </p>
            
            <P style="margin-left:1em; margin-bottom:10px";> <span>(b).</span> Have huge monies to pay 
-           for a seat to Space… at least 20 million dollars. </P>
+           for a seat to space… at least 20 million dollars. </P>
            
            <P style="margin-left:1em; margin-bottom:10px";> <span>(c).</span> Be a regular person 
            picked by the very few sponsored-trip space programs in a lottery 
             system and this does not come true for almost all. </p>
 
             <p>Other people simply don’t have a chance and this is unfair as it is only human social 
-            constructs which are doing this preventing and not the Universe through some celestial 
-            messaging which was witnessed by the first two humans in Space, Yuri Gagarin and 
-            Gherman Titov and then every human traveler afterwards. And the upcoming commercial 
-            Space industry promoted by certain groups on Earth only adds to this feudalism by carrying 
-            commerce to Space, for example the strange art of affixing pointless commercial projection 
-            slogans to Space like “The trillion dollar space economy” where part of that trillion will come 
-            from charging huge monies to take people to Space and these huge monies will go into the 
+            constructs which are doing this preventing and not the universe through some celestila messaging 
+            describing allowance only for the moneyed and the other unfairly privileged and this 
+            celestial messaging being witnessed by the first two humans in space, 
+            Yuri Gagarin and Gherman Titov and then every human traveler afterwards. The kosmos knows 
+            neither money nor rank.
+            </p>
+                        
+            <p>
+            But the upcoming commercial space industry promoted by certain groups on Earth pushes this feudalism 
+            into space by carrying commerce to space, for example the strange art of affixing pointless commercial projection 
+            slogans to space like “The trillion dollar space economy” where part of that trillion will come 
+            from charging huge monies to take people to space and these huge monies will go into the 
             pockets of a very few and maintain an unfair system where these very rich few will not 
-            enable cheap or free Space travel just so that these huge monies continue. A cycle of 
+            enable cheap or free space travel just so that these huge monies continue. A cycle of 
             unfairness.</p> 
 
-            <P>The simple answer is to enable a cheaper, simpler and safer Space industry which also 
+            <P>The simple answer is to enable a cheaper, simpler and safer space industry which also 
             propagates true liberty, equality, fraternity and progressive pan-humanism. We of Kosmos 
             Society will do this enabling. On Earth and in Space, manufacturers and deployers of 
             Kosmos Society’s simplified and cheaper Space systems and other systems should collect 
@@ -283,10 +288,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Transporting people. </p>
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Selflessly providing food,
-             communication, health support and rescue in Space.</p> 
+             communication, health support and rescue in space.</p> 
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> Transporting 
-            any habitation equipment in Space not makeable via ISRU ( In-situ 
+            any habitation equipment in space not makeable via ISRU ( In-situ 
             Resource Utilization ). </p>
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(e).</span> Transporting 
@@ -296,15 +301,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             reasonable leisure equipment.</p> 
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> Transporting 
-            mining equipment and mined produce in Space. </p>
+            mining equipment and mined produce in space. </p>
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> Providing habitation 
-            in Space.</p> 
+            in space.</p> 
 
-            <h2>Social organization in 
-            Space travel and Space living</h2>
+            <h2>Social organization in space travel and space living</h2>
 
-            <p>The primary reasons for the exploration in Space will include : </p>
+            <p>The primary reasons for the exploration in space will include : </p>
             <p style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Tourism. </p>
             <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Finding new resources. </p>
             <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Science which includes looking 
@@ -317,9 +321,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             achieved harmoniously. The universe is for all to benefit from, including just the simple act of 
             seeing the sights, and to acknowledge that every human is a speck in the universe, one no 
             more privileged than another in that infinite and timeless vastness. Feudalism is bad enough 
-            on Earth to be carried over into Space. </p>
+            on Earth to be carried over into space. </p>
 
-            <p>So the organization of work groups in Space should be democratic and that is easily done by 
+            <p>So the organization of work groups in space should be democratic and that is easily done by 
             organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
             with the older ideas of liberty, equality and fraternity. <br> A Workers Cooperative has eight 
             general outcomes :</p>
@@ -356,7 +360,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
  
             <p style="margin-left:1em; margin-bottom:10px";> 
             <span>(g).</span> The collective human society composed of Workers Cooperatives, whether on Earth or 
-            in Space, becomes an actually developed, gentle, evolved, harmonious and prosperous 
+            in space, becomes an actually developed, gentle, evolved, harmonious and prosperous 
             society. As smile-bringing as the city of Istanbul with cats everywhere.</p>
 
             <p style="margin-left:1em; margin-bottom:10px";> 
@@ -367,7 +371,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
            
  
-            <p> Other than Workers Cooperatives in Space, there must be decentralization / 
+            <p> Other than Workers Cooperatives in space, there must be decentralization / 
             self-governance, gentleness, a non-corporate environment, a non-militarist environment and 
             a pan-human outlook. This also means no hierarchy and no traditional aerospace titles like 
             “Captain” and “Commander”. It also means giving every member the same salary and other 
@@ -391,7 +395,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Cooperative members and also the interface of that Workers Cooperative to the outside and 
             that person will be the Coordinator. The Coordinator is a time-bound position decided by 
             democratic discussion and consensus within that cooperative and in accordance with 
-            Natural laws. All the workers including the Coordinator can be of any reasoned responsible 
+            Natural laws. All the workers including the Coordinator can be of any naturally reasonable responsible 
             age - 13 or 30 or 90… anyone as long as they make sense and are willing and able to put 
             physical or intellectual effort including being a good leader. And this responsibility of 
             “Coordinator” can rotate between the cooperative’s members as per requirement or 
@@ -399,26 +403,26 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             focus on the group’s purpose. 
             </p>
 
-            <p> Further, a tourist in Space a few hundred thousand kilometers from Earth ( the Moon ) or a 
+            <p> Further, a tourist in space a few hundred thousand kilometers from Earth ( the Moon ) or a 
             few hundred million kilometers from Earth ( the Asteroid Belt ) will naturally feel deprived 
             from Earthen settings including the social aspect and the simple fact of feeling the Sun’s 
             heat on the open face and this deprivation will depress a person for a moment or more, 
-            despite that tourist’s purpose of tourism. But if every person in the Space efforts, including 
-            the tourist, participates in the tasks by being part of the Space Workers Cooperatives it will 
+            despite that tourist’s purpose of tourism. But if every person in the space efforts, including 
+            the tourist, participates in the tasks by being part of the space Workers Cooperatives it will 
             keep him or her engaged and away from depression, enable fraternity and contribute to one 
             more hand in the tasks. </p>
 
-            <p> So, humans in Space will be a collection of Workers Cooperatives collaborating with each 
+            <p> So, humans in space will be a collection of Workers Cooperatives collaborating with each 
             other on a common and equal human level regardless of their origin nation and social station 
             on Earth and they will agree on the same ideal natural laws for humans and help each other. 
-            Thus harmony in Space and also harmony contributed on Earth when these people return to 
-            Earth carrying their gentle experiences in the Space Workers Cooperatives. </P>
+            Thus harmony in space and also harmony contributed on Earth when these people return to 
+            Earth carrying their gentle experiences in the space Workers Cooperatives. </P>
 
             <h2 >Tea and Space</h2>
 
             <p> Intoxicating substances like alcohol should not be used in the inherently risks-filled 
-            environment of Space, including the social mistakes people will make by such consumption 
-            and lead to disaster in Space. Celebrations can be done with rounds of tea and biscuits. Tea 
+            environment of space, including the social mistakes people will make by such consumption 
+            and lead to disaster in space. Celebrations can be done with rounds of tea and biscuits. Tea 
             has been such a great multi-purpose discovery… the drink of philosophers, revolutionaries, 
             inventors, discussers, intellectual and physical laborers, lovers of taste and refinement, 
             providing energy and relief in heat, cold and rain, in the heat of the deserts and the cold of the 
@@ -432,16 +436,16 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             experience like lemongrass, ginger and tapioca pearls, and preferences like the water-based 
             Sulaimani chai or the milk-based Assam tea or the ice tea. </p>
 
-            <p> In Space, other than the non-intoxicating, energizing and health-bringing nature of tea 
+            <p> In space, other than the non-intoxicating, energizing and health-bringing nature of tea 
             usage, regular tea’ing also will hydrate the skin which may become dry in spaceships and 
             spacesuits and will also create solidarity because of group drinking. Tea is also a good 
             laxative including when starting the day. Further, tea leaves are a good natural fertilizer for 
             plants. </p>
 
-            <p> And maybe tea grown in Space may become a new variety or multiple varieties in 
+            <p> And maybe tea grown in space may become a new variety or multiple varieties in 
             accordance with conditions in different Space locations. </p>
           
-            <h2>Appearance and personality of the Space travellers</h2>
+            <h2>Appearance and personality of the space travellers</h2>
             
             <p> [ To be done ] </p>
 
@@ -449,11 +453,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p> [ To be done ] </p>
             
-            <h2> Family system in Space</h2>
+            <h2> Family system in space</h2>
             
             <p> [ To be done ] </p>
 
-            <h2>Sports and recreation in Space</h2>
+            <h2>Sports and recreation in space</h2>
 
             <p> These should be rational, gentle, health-building, natural, humanist and contribute to 
             harmony and collaborativeness in the risks-filled environment of Space. A system better and 
@@ -471,14 +475,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>[ To be done ] </p>
             
-            <h2>Human language in Space</h2>
+            <h2>Human language in space</h2>
 
             <p> English is the most appropriate language and will be the base language in our Frema 
             internet system but provision must be there for use of other languages but with the 
             understanding that such communications must be open and translatable and pronounceable 
             by other language speakers. </p>
 
-            <h2>Education in Space</h2> 
+            <h2>Education in space</h2> 
 
             <p>The purposes of education are these : </p> 
 
@@ -496,22 +500,22 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             must be with gentleness, sensitiveness, receptiveness and humbleness. Even a 
             medium-sized star like the Sun is uncountably more powerful than any mere human who is a 
             billionaire with 15 college degrees, 40 years of experience in some corporate sector and 
-            very proud of his culture. The Universe / Space does not care for these arrogant human 
+            very proud of his culture. The Kosmos / Universe / Space does not care for these arrogant human 
             affiliations. </p>
 
-            <p> This above should be our approach to learnings of Space and the resulting bettering of 
+            <p> This above should be our approach to learnings of space and the resulting bettering of 
             humanity.</p>
 
-            <p> Decades of in-person human presence in Space has been in a very limited way, with most of 
+            <p> Decades of in-person human presence in space has been in a very limited way, with most of 
             it in Low Earth Orbit and a little on the Moon. Cosmonauts have reported their in-person 
-            understandings of Space like they seeing flashes in their eyes even when they close their 
+            understandings of space like they seeing flashes in their eyes even when they close their 
             eyes. Other experiences like smelling burnt smell when they are in the airlock. These 
             experiences were not proposed by academics who usually pretend to be experts of the 
             Universe despite never having stepped into the Universe even once.
             </p>
             
             <p>
-            The Big Bang Theory confidently declares the birth of the Universe / Space to be 13.8 billion years ago but this is a 
+            The Big Bang Theory confidently declares the birth of the Kosmos / Universe / Space to be 13.8 billion years ago but this is a 
             theory mainly forwarded by academia, proposed solely on the basis of mathematical equations on paper and origining 98 years ago. 
             This way these maths-as-a-religion academics are no different from astrologers. These 
             academics went about lectures and conferences chanting “Big Bang Theory” for almost a hundred years 
@@ -522,16 +526,16 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             birthday to the microsecond, LOL.
             </p>
             
-            <p> So to understand Space / Universe we must reject the current dominance of mathematics in 
+            <p> So to understand space / universe we must reject the current dominance of mathematics in 
             astronomy and be humble, gentle, sensitive, receptive and natural to the knowledge of 
-            Space / Universe by actually going into Space and narrating our every experience to the rest 
+            space / universe by actually going into space and narrating our every experience to the rest 
             of humanity. </p>
             
-            <p> We must also accept the very simple idea that Space / Universe is timeless and infinite and 
-            we don’t know what all kinds of objects are in Space and what kinds of life types are in 
+            <p> We must also accept the very simple idea that space / universe is timeless and infinite and 
+            we don’t know what all kinds of objects are in space and what kinds of life types are in 
             Space and that these life types may not evolve from the same ecosystem conditions as on Earth. </p>
 
-            <p> We must look at the natural, observant and non-arrogant responses of the first two human travellers to Space - Yuri 
+            <p> We must look at the natural, observant and non-arrogant responses of the first two human travellers to space - Yuri 
             Gagarin and Gherman Titov.</p> 
 
             <p> Among the statements of Cosmonaut Yuri are : </p>
@@ -540,8 +544,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             preserve and increase this beauty, not destroy it!” </p>
             
             <p style="margin-left:1em; margin-bottom:10px";> <span>(b).</span> “Rays were blazing through the atmosphere of the earth, the horizon became bright 
-            orange, gradually passing into all the colors of the rainbow: from light blue to dark blue, to 
-            violet and then to black. What an indescribable gamut of colors! Just like the paintings of the 
+            orange, gradually passing into all the colors of the rainbow : from light blue to dark blue, to 
+            violet and then to black. What an indescribable gamut of colors ! Just like the paintings of the 
             artist Nicholas Roerich.” </p>
             
             <p style="margin-left:1em; margin-bottom:10px";> <span>(c).</span> “The main force in man — is the power of the spirit.”. Here “Man” of course means 
@@ -552,12 +556,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             "Sometimes people are saying that God is out there. I was looking around attentively all day 
             but I didn't find anybody there. I saw neither angels nor God". </p>
 
-            <p> These two people were humble and natural in their approach to Space and to life. Certainly 
+            <p> These two people were humble and natural in their approach to space and to life. Certainly 
             not the arrogance of maths-driven academics and astrologers, nor the unthinking ordinary 
             people who accept their arrogant pronouncements without questioning because they think 
             even simple questions will make them seem foolish. However, it is the simple, “foolish” 
             questions which have benefited humanity throughout its history in its bettered social systems 
-            and better technology and the presence of Human in Space. </p>
+            and better technology and the presence of Human in space. </p>
             
             <p> Knowledge is bettered when it is shared freely with all, without being taxed and without demands that the 
             receiver must only be of certain artificial social classes including having two college degrees 
@@ -580,32 +584,32 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Stopping thus will be a principled stand. But will they ?
             </p>
             
-            <p> So it follows that education not only on Earth but in Space must be natural and democratic… democratic not only 
+            <p> So it follows that education not only on Earth but in space must be natural and democratic… democratic not only 
             in the source people but also the receiver people. In the modern world, other than paper literature, 
             there have been three big examples of untaxed and for-all education and collaboration systems : one the Open Source Computing movement, 
             second the Wikipedia and third the Khan Academy. These examples should be continued in the exploration and settlement of 
-            Space.
+            space.
             </p>
             
             <p>
             Since we speak for Workers Cooperatives as the organizational method for humans 
-            in Space, each of the people involved in the cooperatives should be participants in 
-            live-narrating their experiences in Space as also later recording their experiences and 
+            in space, each of the people involved in the cooperatives should be participants in 
+            live-narrating their experiences in space as also later recording their experiences and 
             adding these experiences to the Frema internet blog that is produced by each Worker 
             Cooperative, and these blogs being accessible by every human in Space and on Earth. The 
             blogs will have text, voice, still pictures and videos because someone’s experience will 
             become non-limited in explanation by presenting it in different formats. And these blogs will 
             have a response system for the readers and viewers though of course the reception of these 
             informations by the readers and their responses by the readers may take small delays to 
-            very large delays because of the in-Space location of the blog producers and their duties 
+            very large delays because of the in-space location of the blog producers and their duties 
             and other activities. The one-way communication time itself may be from about a second ( 
             the Moon ) to 13 minutes ( Red One ) to many many hours, and these delays just within the 
             Solar System. </p>
             
-            <p> Then comes the continued education of younger humans in Space who have arrived from 
-            Earth or those younger humans born in Space, and humans in general because education is life-long learning.
+            <p> Then comes the continued education of younger humans in space who have arrived from 
+            Earth or those younger humans born in space, and humans in general because education is life-long learning.
             The medium of education must be English but also considered with regards to the birth language of that younger human. But a lot of 
-            this aspect has to be developed not now but once Space settlement starts in full flow. </p>
+            this aspect has to be developed not now but once space settlement starts in full flow. </p>
             
             <h2>Basis of satellite design</h2>
             
@@ -614,7 +618,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             organizations and cumulatively make Earth orbit dangerous for humans to travel in - an 
             unnecessary situation brought about by profit-mindedness, competition in education, 
             unscientific thinking and avoidable ultranational posturing. On the contrary, satellites around 
-            Earth or other worlds or in open Space should be few and larger trackable systems which 
+            Earth or other worlds or in open space should be few and larger trackable systems which 
             can be repaired in orbit or in place or retrieved for recycling. Secondly, all new satellites 
             should be managed by a collective human committee. We of Kosmos Society will keep this 
             as a necessary element when designing our Frema space-capable internet system. We will 
@@ -622,7 +626,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Please read the section about Serf satellite in the “Techno projects” chapter on this website.
             </p>
             
-            <h2>Mining in Space</h2>
+            <h2>Mining in space</h2>
             
             <p> Space belongs to no single human nation state. Space belongs to all humankind in a 
             collective sense and no nation state can endanger other humans by placing weapons of 

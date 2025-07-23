@@ -868,16 +868,78 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             </p>
 
             <p>
-            All these chaotic experiences create an actual headache for the others using the road 
-            and living in neighborhoods, create quarrels, lead to antisocial behavior, other crimes and health problems.  
-            The society is rendered full of chaos, crime, mishealth, disharmony, competition, pollution, 
-            dirtiness, unsightliness and unproductiveness... in other words, dystopia.
+            A great problem is many people, especially misguided males, purchasing big and noisy personal vehicles including 
+            both cars and motorcycles. There are some motorcycles which make very loud and 
+            heart-piercing thumping sounds as they pass by people, terrorizing those people and possibly causing 
+            health problems to those people. The motorized two-wheeler including the motorcycle 
+            has been one of humanity's most idiotic inventions with its danger to the riders and 
+            to those it passes by, and the loudly thumping motorcycle increases this vehicles idiocy. 
+            It is easy to understand that such motorcycle owners want to intimidate those they pass by, 
+            especially with the modern fashion of such riders adopting an aggressive look. 
+            This situation is unacceptable in any society which desires serenity and harmony. 
+            In many cases these riders want to appear "tough and manly" because in their real life 
+            they will be wage slaves in some feudal corporation, not daring to talk back to their 
+            oppressive bosses much less willing to help their co-worker in the next workstation. 
+            In other cases such motorcycle riders are socially powerful in the local context and 
+            their big and loud motorcycle, sometimes ridden with dark glasses, is meant to instill 
+            artificial respect in the masses being passed by.
+            </p>
+
+            <p>
+            Then there is the unfortunate situation of misguided youth filling into big cars 
+            like the SUVs and driving out in convoys with the youth hanging out of the windows and 
+            shouting and making themselves a nuisance. Many times these convoys create danger of 
+            mishaps for themselves and for the others on the road. These youth should realize 
+            that they are being anti-social too.
+            </p>
+
+            <p>
+            Then is the case of the modern fashion of the new-pseudo-rich middle class in 
+            some societies going on long motorcycle trips including to serene and pristine 
+            nature spots and creating disharmony and pollution there. Sometimes there is an entire 
+            gang of such moto trippers. An unfortunate effect is some women riding these heavy 
+            long-distance trip motorcycles where in their misguided understanding they have achieved 
+            empancipation by riding these heavy motorcycles on long trips because only men used to 
+            do this earlier. However, when these women return from their heavy-motorcycle-riding trips 
+            they return to societies which remained unchanged for them as women. Additionally, 
+            these women lose their feminineness by riding these heavy motorcycles.
+            </p>
+
+            <p>
+            There is also the sad situation of the middle class and the rich enclosing themselves
+            in air-conditioned cars and daily going to their feudal workplaces, ignoring the homeless and 
+            the hungry people so clearly sitting on the footpaths, have to live in the open under the elements 
+            and the pollution and the chaos, the car people never think of parking their cars to get out 
+            and give a hundred dollars so that that homeless person can eat good food at least 
+            for the next two days. And when a child of five, living in poverty, comes up to these car-enclosed people to sell pens or flowers,
+            the car people may have extra money which they can freely give to the seller child to help him 
+            but many times the car people roll up their window and essentially cruelly abandon that child.
+            </p>
+
+            <p>
+            Another sad modern phenomenon is of delivery boys and delivery girls for e-shops where 
+            these delivery people are forced by poverty to ride two-wheelers to deliver the packages 
+            through sun, rain, cold, pollution and dangerous traffic many times a day, many times without helmet, 
+            many times without protective clothing against the weather, many times earning a pittance, 
+            some times delivering to rude or arrogant customers, some times falling prey to armed robbery, 
+            some times having to break their legs because of jumping a building storey to escape a customer's attacking dog, 
+            some times begging the customers for five-star ratings because these e-shops provide the meagre incentive based on those ratings.
+            While this whole system has to be changed, it is worth noting that these billion-dollar "unicorn" e-shop 
+            startup companies do not even consider providing a safer company four-wheeler to their own delivery people and 
+            the poor delivery people have to resort to using the dangerous two-wheelers. This is social injustice 
+            delivered by forced use of two-wheelers.
+            </p>
+                     
+            <p>
+            All these chaotic and unjust experiences caused by personal vehicles directly and indirectly, 
+            rendering the society full of chaos, crime, mishaps, injustice, mishealth, disharmony, competition, 
+            pollution, dirtiness, unsightliness and unproductiveness... in other words, dystopia.
             </p>
            
-            <p> But these are artificial and avoidable problems so they can be solved. The problems collectively largely 
-            exist because of the existence of personal vehicles and will be solved only with the simple 
-            act of abolishing personal vehicles with the exception of the simple pedal bicycle. And these 
-            personal vehicles must be replaced with public mass transport vehicles which are not only 
+            <p> But these are artificial and avoidable problems so they can be solved, at least starting with 
+            acknowledging that part of these problems exist because of the existence of personal vehicles 
+            and will be solved with the simple act of abolishing personal vehicles with the exception of the simple pedal bicycle. 
+            And these personal vehicles must be replaced with public mass transport vehicles which are not only 
             cheaper to build, not only provide a universal solution, not only are aesthetic but also are 
             electric in an eco-friendly way to enable a sustainable and social-equality-bringing public transportation mechanism 
             all over Earth.
@@ -910,7 +972,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p>
             The Ra-E bus platform can also be made into other kinds of vehicles like ambulance, public 
-            security vehicle, garbage collection vehicle etc. </p>
+            security vehicle, garbage collection vehicle, packages delivery vehicle, etc.
+            </p>
             
             <p>[ To be done ] </p> 
                        

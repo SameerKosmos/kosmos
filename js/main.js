@@ -58,9 +58,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <div>
             <p> 
             We present “Same Water”, a draft of a progressive pan-human 
-            constitution for the Kosmos i.e. Universe / Space. This draft is not a full preparation but still substantial
+            constitution for the Kosmos i.e. for all humans going and living in the Universe / Space. 
+            This draft is not a full preparation but still substantial
             and we will further it by discussions in progressive forums
-            and join it with others’ drafts for this purpose.</P> 
+            and join it with others’ drafts for this purpose.</P>
 
             <p> This social system is for simple, harmonious and Nature-ordained organization of humans in 
             space so that groups in space operate harmoniously within themselves and with other 
@@ -630,17 +631,17 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p> Space belongs to no single human nation state. Space belongs to all humankind in a 
             collective sense and no nation state can endanger other humans by placing weapons of 
-            mass destruction in open Space or around Space bodies nor can a nation state exclusively 
-            claim Space objects for taking resources ( say even from a star like the Sun ). Similar is the 
+            mass destruction in open space or around space bodies nor can a nation state exclusively 
+            claim space objects for taking resources ( say even from a star like the Sun ). Similar is the 
             agreement undertaken at the UNOOSA ( United Nations Office for Outer Space Affairs ) 
             which is a department of the United Nations Organization ( the UN ). Though the UN has 
             failed to prevent invasions, needless conflicts, genocides and subversions since its inception 
             in 1945 and has served only as a decoration, very much not uniting nations despite its name, 
             its UNOOSA department at least makes sense.</p> 
             
-            <p> In Space no one should be a Scrooge McDuck i.e. not greedily see Space as yet another 
+            <p> In space no one should be a Scrooge McDuck i.e. not greedily see space as yet another 
             natural resource to do selfish profiteering from, to the exclusion of other humans and to the 
-            spoiling of Nature, but instead seeing Space resources as the means to bring easy material 
+            spoiling of Nature, but instead seeing space resources as the means to bring easy material 
             enrichment of every human on Earth and beyond on an equal basis, where all humans are 
             collectively prosperous. It then also follows the necessity that national governments on Earth 
             will participate in such a democratic pan-humanist effort.</p>                
@@ -684,7 +685,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Earth but not far from the Moon's Far Side. These criteria are for safety from space rocks 
             and radiation, to be in constant communication with Earth and to sally out to the Far Side at 
             will to learn deep-space operations as well as to obtain water from the possible water ice 
-            there. There will be at least one communications relay satellite in the Moon's orbit above Far 
+            there and possibly from Moon soil. There will be at least one communications relay satellite in the Moon's orbit above Far 
             Side to connect to a few relay satellites above Earth with these relay satellites being 
             operated by our partner organizations.</p>
 
@@ -700,7 +701,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             vehicles.</p>
 
             <p style="margin-left:1em; margin-bottom:10px";> <span>(f).</span> The social organization system of the Mirkeen-1 base will be the points from the rest of 
-            our proposed “Same Water” constitution for space. </p>
+            our proposed “Same Water” constitution for the kosmos. </p>
 
             <p style="margin-left:1em; margin-bottom:10px";><span>(g).</span> The Mirkeen-1 base will be the first very advanced society which won’t have money, tax 
             and feudalism. The true wealth of a society is not in the money, mansions and luxury 
@@ -713,7 +714,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(h).</span> For the time being the Mirkeen-1 base can engage in commercial activities to sustain 
             itself other than getting support from Kosmos Society and its partners on Earth. This 
-            commerce will be in accordance with our Same Water constitution for Space. The commerce 
+            commerce will be in accordance with our Same Water constitution for the kosmos. The commerce 
             can be about Moon-available minerals needed on Earth ( iron, silicon etc ) or on others’ 
             space stations around Earth; the commerce can be about those produced materials and 
             services which benefit from the low-gravity and vacuum conditions on the Moon; the 
@@ -739,7 +740,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             find them, some say it is dangerous to try communicating with other lifeforms because they 
             may seek us out to wipe us out. But advancement is of course seeking them and we must be open 
             to the types of life we may find and the different ecological situations on their worlds,
-            not limiting our understanding of Space lifes to the ecological situations on Earth.
+            not limiting our understanding of space lifes to the ecological situations on Earth.
             </p>
 
             <p>
@@ -750,7 +751,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Pantanal wetlands. Kedar's photos went viral on the internet. And only recently has it been researched 
             how octopuses collaborate with certain types of fishes to hunt other fishes. This is a nice article 
             [ <a href="https://theconversation.com/octopuses-work-together-with-fish-to-hunt-and-the-way-they-share-decisions-is-surprisingly-complex-239723" </a> ]. 
-            So, as we seek lifes beyond Earth we must not have preconcived notions and set academic dictations 
+            So, as we seek lifes beyond Earth we must not have preconceived notions and set academic dictations 
             on where we will find these lifes and how they will be.
             </p>
             
@@ -758,14 +759,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             And if we seek them we must of course ideally have collective human prosperity, collective 
             harmony, gentleness, sensitiveness, empathy and intelligent consensus as that will present 
             our best unified side to any other intelligent lifeforms and that will come by agreeing on 
-            sensible manifestos like our “Same Water” constitution for Space.
+            sensible manifestos like our “Same Water” constitution for the kosmos.
             </p>
             
             <p>There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
             “The Interplanetary Civilian : A Novella of Mars and Memory”. This story speaks of the 
-            building of the first human settlements in Space in terms of technologies and social systems 
+            building of the first human settlements in space in terms of technologies and social systems 
             including pan-human development, decentralized governance, the first human baby born in 
-            Space, an artificial intelligence included with empathy and learning from unprogrammed Space events,
+            space, an artificial intelligence included with empathy and learning from unprogrammed space events,
             and a very different kind of alien encounter.</p> 
             <p>This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
             ney-676nf </a>
@@ -777,16 +778,16 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p>
             While looking for alien life or encountering them by chance, we must acknowledge the 
             general idea that ultimately we and every kind of life origined within dying stars and maybe 
-            within the dust around stars and maybe the gas clouds in free Space, so in a sense 
+            within the dust around stars and maybe the gas clouds in free space, so in a sense 
             pan-universe fraternity.
             </p>
            
             <p>
-            It is said that Space-origined lifes were carried through Space in various forms like spores, 
+            It is said that space-origined lifes were carried through space in various forms like spores, 
             viruses, eggs etc and seeded various worlds including ours to various levels and then 
             evolutionary steps took over in many of those worlds depending on the conditions of those 
             worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
-            Earth’s seas are not from Earth but from Space, their eggs carried within ice rocks and then 
+            Earth’s seas are not from Earth but from space, their eggs carried within ice rocks and then 
             released on Earth when the ice rocks fell into the seas here. This is a good read about this 
             topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/"</a> ]. 
             </p>           
@@ -794,7 +795,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p> And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.</p>
             <h2> City design and city reconfiguration on Earth</h2>
             
-            <p>The Space experiences including the Mirkeen-1 base and our Space machines will provide 
+            <p>The space experiences including the Mirkeen-1 base and our Space machines will provide 
             derivations for city design for Earth and its transportation. This effort will consist of designing 
             large and small cities which are aesthetic, scientifically-built, citizen-managed, humanist, 
             largely food-wise self-sufficient, largely employment-wise self-sufficient and gentle, built to 
@@ -884,8 +885,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>
             Our solution is our Ra-E bus which is a hybrid vehicle of 
-            hovercraft-wheelcraft-aircraft type, deriving from our Ra-H vehicle, and each will carry 15 passengers 
-            and a few hundred thousand of our Ra-E buses combined all over Earth 
+            hovercraft-wheelcraft-aircraft type, deriving from our used-in-space Ra-H vehicle,
+            and each Ra-E will carry 15 passengers and a few hundred thousand of our Ra-E buses combined all over Earth 
             will resolve all those listed transportation-related direct problems and indirect 
             problems.
             </p>

@@ -1363,9 +1363,16 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <h2>Join us</h2>
           <div style="color:#FFFFc5;font-size:1.1em;">
 
-            <p style="margin-bottom:10px;"> Join us in the journey to explore the universe and evolve humanity. We will be a 
-            transnational non-profit design house who will engage with potential co-workers, investors, 
-            other private organizations and national governments in these ways: </p>
+            <p style="margin-bottom:10px;"> Join us in the journey to explore the universe and evolve humanity. 
+            Our story began in 2007 when some of us - Sameer, Afzal and a few others - were discussing 
+            the Google Lunar X Prize which had just started and we thought we too should go to space, 
+            not us sending machines to space but our human group going to space and that idea developed 
+            for the next 16 years as we decided the simplest and straightforward mechanisms to 
+            take us and other humans to space, and then others joined us and then in early 2023 
+            we formed Kosmos Society as a group and then we decided upon our path as a transnational 
+            non-profit design organization and that internally we organize as a Workers Cooperative. 
+            We will engage with potential co-workers, investors, other private organizations and national governments in these ways :
+            </p>
 
             <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaborations. </p>
 
@@ -2682,10 +2689,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
 
           </style>
-          <h2>Contact Us</h2>
+          <h2>Contact us</h2>
           <div>
            <div class="contact-card">
-        <h1>Kosmos Society</h1>
+           
+        /* <h1>Kosmos Society</h1> */
         
         <div class="contact-item">
             <div class="contact-label">
@@ -2707,7 +2715,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         
         <div class="contact-item">
             <div class="contact-label">
-                <span class="icon">💼</span>LinkedIn (Sameer)
+                <span class="icon">💼</span>LinkedIn ( Sameer )
             </div>
             <div class="contact-value">
                 <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank">linkedin.com/in/sameer-kosmos-society</a>

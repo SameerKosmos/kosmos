@@ -1456,7 +1456,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Local empowerment.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Technologies selected which help
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> Technologies selected which help
              humanity anywhere return easier to advancement or be resilient when situation becomes bad 
              because of natural or other events like unusually big solar storm, comet or asteroid strike, 
              a pointless global war etc.</p>

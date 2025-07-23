@@ -212,10 +212,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             that benefits all of Earth.
             </P>
 
-            <p>So it will be irrational, immoral and ungrateful for a group from Earth to claim national or 
+            <p>
+            So it will be irrational, immoral and ungrateful for a group from Earth to claim national or 
             cultural exclusive superiority on Earth and act in an ultranationalist way while not 
-            acknowledging the shared history of humanity and not acknowledging they using 
-            technologies and social philosophies that may have had origins elsewhere on Earth.</p>
+            acknowledging the shared history of humanity and not acknowledging their benefiting of  
+            social philosophies and technologies that may have had origins elsewhere on Earth.
+            </p>
 
             <P> It is then natural, rational, automatic and moral to expect that Space be a place of a united 
             humanity instead of carrying the needless artificial hates and divides on Earth. The 
@@ -265,7 +267,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Transporting people. </p>
             
-            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Providing food,
+            <p style="margin-left:1em; margin-bottom:10px";><span>(c).</span> Selflessly providing food,
              communication, health support and rescue in Space.</p> 
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(d).</span> Transporting 
@@ -709,6 +711,68 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               Svalbard Global Seed Vault.
               </p>
 
+<h2> Meetings or sightings of aliens</h2>
+            
+            <p>It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
+            or beyond the Solar System, whether in the form of bacteria or as plants or as more 
+            intelligent animals or something else. It is not known if they have been communicating with 
+            us or with any other lifeforms in the infinite universe. Some humans say we must actively 
+            find them, some say it is dangerous to try communicating with other lifeforms because they 
+            may seek us out to wipe us out. But advancement is of course seeking them and we must be open 
+            to the types of life we may find and the different ecological situations on their worlds,
+            not limiting our understanding of Space lifes to the ecological situations on Earth.
+            </p>
+
+            <p>
+            Actually humans don't even know so much of life forms on Earth including in the seas. 
+            For example, the jaguar cats of the Amazon forests hunt crocodiles for food but this was rarely
+            recorded on camera, perhaps never, until 2013 when photographer Kedar Hippalgaonkar along with his wife 
+            Parul, recorded a jaguar locally named Mick Jaguar hunting a croc in a river in Brazil's 
+            Pantanal wetlands. Kedar's photos went viral on the internet. And only recently has it been researched 
+            how octopuses collaborate with certain types of fishes to hunt other fishes. This is a nice article 
+            [ <a href="https://theconversation.com/octopuses-work-together-with-fish-to-hunt-and-the-way-they-share-decisions-is-surprisingly-complex-239723" </a> ]. 
+            So, as we seek lifes beyond Earth we must not have preconcived notions and set academic dictations 
+            on where we will find these lifes and how they will be.
+            </p>
+            
+            <p>
+            And if we seek them we must of course ideally have collective human prosperity, collective 
+            harmony, gentleness, sensitiveness, empathy and intelligent consensus as that will present 
+            our best unified side to any other intelligent lifeforms and that will come by agreeing on 
+            sensible manifestos like our “Same Water” constitution for Space.
+            </p>
+            
+            <p>There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
+            “The Interplanetary Civilian : A Novella of Mars and Memory”. This story speaks of the 
+            building of the first human settlements in Space in terms of technologies and social systems 
+            including pan-human development, decentralized governance, the first human baby born in 
+            Space, an artificial intelligence included with empathy and learning from unprogrammed Space events,
+            and a very different kind of alien encounter.</p> 
+            <p>This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
+            ney-676nf </a>
+             ].  
+            This story prepares us to look for intelligent lifeforms by being open-minded as 
+            to their type and their reaction to us and our reaction to them. Please read this story.
+            </p>
+           
+            <p>
+            While looking for alien life or encountering them by chance, we must acknowledge the 
+            general idea that ultimately we and every kind of life origined within dying stars and maybe 
+            within the dust around stars and maybe the gas clouds in free Space, so in a sense 
+            pan-universe fraternity.
+            </p>
+           
+            <p>
+            It is said that Space-origined lifes were carried through Space in various forms like spores, 
+            viruses, eggs etc and seeded various worlds including ours to various levels and then 
+            evolutionary steps took over in many of those worlds depending on the conditions of those 
+            worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
+            Earth’s seas are not from Earth but from Space, their eggs carried within ice rocks and then 
+            released on Earth when the ice rocks fell into the seas here. This is a good read about this 
+            topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/"</a> ]. 
+            </p>           
+           
+            <p> And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.</p>
             <h2> City design and city reconfiguration on Earth</h2>
             
             <p>The Space experiences including the Mirkeen-1 base and our Space machines will provide 
@@ -829,49 +893,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             security vehicle, garbage collection vehicle etc. </p>
             
             <p>[ To be done ] </p> 
-           
-            <h2> Meetings or sightings of aliens</h2>
-            
-            <p>It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
-            or beyond the Solar System, whether in the form of bacteria or as plants or as more 
-            intelligent animals or something else. It is not known if they have been communicating with 
-            us or with any other lifeforms in the infinite universe. Some humans say we must actively 
-            find them, some say it is dangerous to try communicating with other lifeforms because they 
-            may seek us out to wipe us out. But advancement is of course seeking them. </p>
-            
-            <p>And if we seek them we must of course ideally have collective human prosperity, collective 
-            harmony, gentleness, sensitiveness, empathy and intelligent consensus as that will present 
-            our best unified side to any other intelligent lifeforms and that will come by agreeing on 
-            sensible manifestos like our “Same Water” constitution for Space. </p>
-            
-            <p>There is a wonderful story written and posted on LinkedIn by Don Michael Feeney called 
-            “The Interplanetary Civilian : A Novella of Mars and Memory”. This story speaks of the 
-            building of the first human settlements in Space in terms of technologies and social systems 
-            including pan-human development, decentralized governance, the first human baby born in 
-            Space, an artificial intelligence included with empathy, and a very different kind of alien 
-            encounter.</p> 
-            <p>This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
-            ney-676nf </a>
-             ].  
-            This story prepares us to look for intelligent lifeforms by being open-minded as 
-            to their type and their reaction to us and our reaction to them. </p>
-           
-            <p> While looking for alien life or encountering them by chance, we must acknowledge the 
-            general idea that ultimately we and every kind of life origined within dying stars and maybe 
-            within the dust around stars and maybe the gas clouds in free Space, so in a sense 
-            pan-universe fraternity. </p>
-           
-            <p> It is said that Space-origined lifes were carried through Space in various forms like spores, 
-            viruses, eggs etc and seeded various worlds including ours to various levels and then 
-            evolutionary steps took over in many of those worlds depending on the conditions of those 
-            worlds. This idea is called Panspermia. For example, it is said that the octopus and squid in 
-            Earth’s seas are not from Earth but from Space, their eggs carried within ice rocks and then 
-            released on Earth when the ice rocks fell into the seas here. This is a good read about this 
-            topic [ <a href=" https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/ target="_blank" style="color:#0000FF;"> https://blog.padi.com/facts-about-octopuses-that-prove-theyre-aliens/</a> ]. 
-            </p>
-           
-           
-            <p> And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.</p>
+                       
           </div>
         </div>
       `;
@@ -1716,7 +1738,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <div>
             <p><span>&gt;&gt;</span> Vikram for the logo, the website design and for the spark for Sameer to have this Credits page.</p>
             
-            <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page ( sadly forgot the page name ) in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the owner of that Insta page and the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
+            <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page ( sadly we forgot the page name ) in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the owner of that Insta page and the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
 
                         
             <p><span>&gt;&gt;</span> Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>

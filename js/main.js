@@ -917,7 +917,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           </div>
         </div>
       `;
-      // 01. Introduction
+      // 01. Introduction to our Iskra Plan
       modal.style.display = 'flex';
     } else if (chapter === 'introduction') {
       modalText.innerHTML = `
@@ -963,7 +963,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
 
           </style>
-          <h2>The two reasons for our Yuri Plan</h2>
+          <h2>The two reasons for our Iskra Plan</h2>
           <div style="color:##FFFFc5;font-size:1.1em;font-family:Roboto,sans-serif;">
            
             <h2>The disappointed 100,000 people desiring space travel</h2>
@@ -1091,7 +1091,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               airports are prone to. This is inconvenient to say the least.</li>
               </ul>
             
-              <p>So the space-plane is also not the solution.</p>
+              <p>So the Space-plane is also not the solution.</p>
                       
               <h2>Social restrictions of the current space industry</h2>
             
@@ -1142,12 +1142,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             and humanity in general are encouraged to glorify this industry and its feudal owners. 
             These are fake heroes.</p>
             
-            <h2> Our solution : The Yuri Plan</h2>
+            <h2> Our solution : The Iskra Plan</h2>
             
-            <p style='margin-bottom:1em;'>This plan is named after Yuri Gagarin, 
-            the Soviet cosmonaut who was the first human in space. There is an entire 
-            universe to explore and settle to the max extent possible by humans and we 
-            must do this in a way that is simple, gentle, safe, humanist and respectful of 
+            <p style='margin-bottom:1em;'>In the Russian language "Iskra" means Spark 
+            and in the context of our organization our Iskra Plan is our spark for all humans 
+            to light the flame to explore the entire universe to the max entent possible and settle 
+            in a way that is simple, gentle, safe, pan-humanist in a progressive way and respectful of 
             Nature and Nature’s laws. Space travel must become as common as bus travel, and 
             space living as common as hotel stay, and these should flow into evolving human 
             society on Earth too. Potentially every human should be able to access space, 
@@ -1260,7 +1260,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           };
         }
       }, 0);
-      // 02.Our product design principles
+      // 02. Our product design principles
     } else if (chapter === 'principles') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1784,7 +1784,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
-      //03.More on our techno projects
+      //03. More on our techno projects
     } else if (chapter === 'projects'){
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1883,8 +1883,23 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <h2>The Alef-A airship-spaceship</h2>
             
             <p>
-            The Alef-A airship-spaceship will be shaped like an upside-down teacup without the handle,
-            and its lift gases will be helium gas and hot air, and its horizontal travel or lift into higher
+            We use the airship type of craft to ascend to orbital space from any atmosphere-having world 
+            because it has the advantage of operating on the balloon principle i.e. when the airship's gas bags 
+            are filled with a lifting gas or combination of lifting gases which are lighter than the surrounding air, 
+            the whole structure of the airship automatically lifts into the air without any or much fuel expenditure 
+            until it reaches to a height where the airship's lifting gas or gases find equilibrium 
+            with the lesser atmospheric air at that height. From that atmospheric height for lift of the airship into space 
+            there will be other upwards push / propulsion methods required. The airship is much better than the Tall Rocket 
+            because the Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad 
+            as we explained in our introduction chapter. Secondly, much less push-into-orbit fuel 
+            makes the airship type of spaceship much more safer in terms of explosion. Thirldy, 
+            the airship-spaceship can easily be made horizontally larger instead of the vertically huge of the Tall Rocket.
+            </p>
+
+            <p>
+            Our airship-spaceship is the Alef-A which will be shaped like an upside-down teacup without the handle,
+            and its lift gases will be helium gas and hot air. An airship type or a balloon which uses this combination of a lift gas with heated air 
+            is called a Roziere Balloon. The Alef-A's horizontal travel or lift into higher
             atmosphere and then into space will be assisted by electric rotors, coal combustion and
             water steam jets. Of course the gas lift and electric rotors are usable only if that world has air
             / atmosphere. The coal propulsion and steam jets can be used on any world and when in atmosphere these fuels
@@ -1902,17 +1917,18 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p>
             The Alef-F will be a space-bound ferry large enough to carry five Alef-A crafts and a hundred
             humans and a hundred tons of other cargo and will be primarily propelled by water steam
-            jets but will include coal propulsion for momentary high-thrust-requiring situations. It will have
-            sufficient growing facilities for food crop, fuel crop ( for the coal via biocoal ), other crops, a
-            clinic, mini mills for textile, woodwork, metalwork, bio-engineering, electricals and computers, then
-            tailoring, research facility, mineral processing, water storage, a small swimming pool that is
-            time-segregated for men and women… all this for largely self-sustained long-term living and
-            far travel. And telescopes. This ferry will be able to travel from the Inner Solar System to the
-            Outer Solar System and station around various worlds and space objects to enable from-orbit
-            observations and allow descent-ascent using the Alef-A crafts. The cargo can be anything
-            including mining equipment and habitation-building material. Thus this ferry craft is much
-            better than the current and proposed space stations around Earth and the Moon. It can also
-            be called a colony ship.
+            jets but will include coal propulsion for momentary high-thrust-requiring situations. It will have 
+            proper water-using baths and toilets with the toilets having disinfectant-having water spray for hygienic and satisfying 
+            cleaning after defecation. The ferry will also have sufficient growing facilities for food crop, 
+            fuel crop ( for the coal via biocoal ), other crops, a clinic, mini mills for textile, woodwork, 
+            metalwork, bio-engineering, electricals and computers, then tailoring, research facility, mineral processing, 
+            water storage, a small swimming pool that is time-segregated for men and women… 
+            all this for largely self-sustained long-term living and far travel. And telescopes. This ferry will be able to 
+            travel from the Inner Solar System to the Outer Solar System and station around various worlds and 
+            space objects to enable from-orbit observations and allow descent-ascent using the Alef-A crafts. 
+            The cargo can be anything including mining equipment and habitation-building material. 
+            Thus this ferry craft is much better than the current and proposed space stations around Earth and the Moon. 
+            It can also be called a colony ship.
             </p>
 
             <p> 
@@ -2368,12 +2384,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             are in space. Form and function, both are important.
             </p>
 
-            <h2> Machines for water</h2>
-
-            <p>
-            These include :
-            </p>
-
+            <h2> Machines for water which include</h2>
+            
             <p>
             <span> >> </span> Portable extractors of water from ice, open water and air.
             </p>
@@ -2812,7 +2824,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <div>
            <div class="contact-card">
            
-        /* <h1>Kosmos Society</h1> */
+        <h1>Kosmos Society</h1>
         
         <div class="contact-item">
             <div class="contact-label">

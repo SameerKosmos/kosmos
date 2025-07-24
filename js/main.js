@@ -1480,7 +1480,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
-      // 05.join
+      // 06.join
     } else if (chapter === 'join') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1836,7 +1836,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
-      // 06.credits
+      // 05.credits
     } else if (chapter === 'credits') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1883,6 +1883,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           </style>
           <h2>Credits</h2>
           <div>
+
+          <p>
+          We credit the following people who are not part of our organization but have helped us either in person 
+          or by their ideas and works we found on the internet.
+          </p>
+        
             <p><span>&gt;&gt;</span> Vikram for the logo, the website design and for provoking the thought in Sameer to have this Credits page.</p>
             
             <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 

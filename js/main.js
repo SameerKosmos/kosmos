@@ -504,7 +504,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <h2>Education in space</h2> 
 
-            <p>The purposes of education are these : </p> 
+            <p>The purposes of education are : </p> 
 
            <P> <span> >> </span> To liberate oneself from any wrong, oppressive and unscientific traditional cultural 
             impositions and thus to know one’s reasonable rights as a human. </p>
@@ -605,6 +605,59 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             disrespect anyone not achieving those, must stop using electrical machinery 
             because this field was forwarded by the “unschooled” Michael Faraday. 
             Stopping thus will be a principled stand. But will they ?
+            </p>
+
+            <p>
+            The system of education in space should not have exams system and we reason this 
+            below.
+            </p>
+
+            <p>
+            Competition is an enemy of harmonious society and removes dignity from a human, 
+            reducing that human to a dog who must constantly fight with other human-dogs for survival. 
+            Resources which should be naturally available for all equally, these are artificially made 
+            scarce in many societies and most citizens must compete with each other daily to have a 
+            little part of the resources. This dog-eat-dog competition situation continues for generations. 
+            However, those who have established themselves as feudals, they do not participate in these 
+            daily competitions as the resources are available to them very easily, in any quanity they want. 
+            It is the middle class and the still lower class which must participate in these daily competitions. 
+            This creates low-trust societies full of aggression, injustice, inequality, crime and chaos where gentleness, 
+            honesty, selflessness, innovation and evolution are discouraged. This is also true of the education system 
+            where competition greatly shows itself in the form of exams.
+            </p>
+            
+            <p>
+            In most societies now, a student's progress through the education system is decided by that student's ranking in exams. 
+            This system has been there for a long time but is contradictory to Nature. All that the high marks scored by a student 
+            shows is his or her ability to memorize the textbooks and reproduce those texts in the exam in 
+            a much better way than his or her student colleagues. Exam marks do not show some student's great intelligence 
+            or the lack of intelligence. A student may simply be bored of the competition-based non-innovative 
+            education in the classroom but may be exceptionally talented in painting or technology creation. 
+            A high-marks student scoring 600 marks out of 600 may be mediocre in real intelligence but a student who has failed in some exam 
+            may go on to create great social and technological ideas and products and companies 
+            and funnily his or her student colleague who scored 600 marks out of 600 and was proud of that fact 
+            and used that fact in arrogance and insulted low-marks students, and his or her family was also proud of that fact, 
+            this high-marks student may approach in a humble way for employment in the company started 
+            by his or her former student colleague who had failed in the same exam the approacher student had stood first in.
+            </p>
+
+            <p>
+            We must ask, was Buddha a high-marks student because of which he made his realizations ?
+            In that case why are the hundreds of millions of high-marks students not making those realizations now 
+            2500 years after Buddha and they maintain a personality of cruelty and mediocre intelligence ? 
+            We must ask, was it high exam marks which made the Frenchman Henri Giffard fly the first powered and steerable airship in 1852 ? 
+            If so why are the hundreds of millions of high-marks students now not making innovation in aircraft science but 
+            are very mediocre ?
+            </p>
+            
+            <p> Three students sitting on the same classroom bench may declare themselves to be friends but every day they compete 
+            with each other so that in the exams they can have more exam marks than the other. 
+            Their friendship then is not true friendship and this fact becomes more apparent when 
+            some student suicides because he or she wasn't allowed to write an exam but that student's classmates 
+            including his or her friend on the same bench, doesn't protest against the needless 
+            fact of his or her friend's suicide and doesn't call for removal of the exams system 
+            which caused the needless death of his or her friend. A system of competition doesn't create loyalty 
+            and fraternity.
             </p>
             
             <p> So it follows that education not only on Earth but in space must be natural and democratic… democratic not only 

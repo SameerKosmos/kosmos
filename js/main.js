@@ -153,14 +153,15 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             "The Internationale" later was adopted by various progressive pan-humanists across the world 
             and in the context of our company based in India, this song was first translated into 
             the Indian context by the poet Kazi Nazrul Islam in his native Bengali language, 
-            particularly in context of rebelling against the then British colonial rule.
+            including in context of encouraging the Indian freedom fighters to continue rebelling 
+            against the then British colonial rule.
             </p>
             
             <P>But the humanist concept of Republic from revolutionary France became distorted
-            in the succeeding century and the pan-humanist evocative song "The Internationale" sadly was 
+            in the succeeding two centuries and the pan-humanist evocative song "The Internationale" sadly was 
             made forgotten so now in 2025 the ideas of "Natural liberty, equality and fraternity among all humans"
             has largely and sadly been replaced with "Unnatural and hatred-full divisions among humans who are divided into
-            kingdom-like nations and the hatreds between nations reinforced by needless, forever wars".
+            kingdom-like nations and the hatreds between nations enforced by needless, forever wars".
             </P>
             
             <P>
@@ -227,7 +228,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             lived the "polymath" Jagadish Chandra Bose... a man interested in many sciences including humane social conduct.
             He was the first to investigate microwave radiofrequency and made great discoveries
             in botany and among his researches living now is our modern telecom including the everywhere-present
-            cell phone. He also treated other humans in an equal manner, whether they be
+            cell phone. He treated other humans in an equal manner, whether they be
             of "lower caste" or of other religions, and he was against the patent system
             so in today's terms he can be called part of the earlier Open Source Knowledge movement
             that benefits all of Earth.
@@ -1455,15 +1456,15 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> Using locally available methods 
             and materials when possible for production and repair.</p>
+            
+             <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Bio-mimicry and Engineered Biology wherever applicable.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Technology that is well-crafted
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Low-tech when applicable.</p>
+
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Local empowerment.</p>
+
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Technology that is well-crafted
              yet affordable by the masses.</p>
-
-             <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Bio-mimicry and Engineered Biology wherever applicable.</p>
-
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(f).</span> Low-tech when applicable.</p>
-
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(g).</span> Local empowerment.</p>
 
             <p style='margin-left:2em;margin-bottom:10px;'><span>(h).</span> Technologies selected which help
              humanity anywhere return easier to advancement or be resilient when situation becomes bad 
@@ -1676,12 +1677,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
            <p style="margin-bottom:10px;"> We are not a typical profiteering and feudalist corporate organization which works on 
             fashionable and senseless technologies and uses senseless corporate lingo in every 
-            sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence”, "revenue guidance" ).
+            sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence”, "revenue guidance" etc ).
             We are a techno-social organization set up to evolve humanity in multiple senses 
             through the far far future and that includes our co-workers ( “co-workers” and not “workers” or "employees" ) 
             being allowed to attain their fullest potential and this in a democratic way. “Liberty, Equality, 
             Fraternity” is after all one of our credos. So our company-internal organization of people 
-            employs the Workers Cooperative concept which is described in the “Manifesto for the Kosmos"
+            employs the Workers Cooperative concept which is described in the “Manifesto for the kosmos"
             chapter on this website. Please read that chapter and return to this point. Additionally in our 
             company : </p>
 
@@ -2458,7 +2459,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             growing human organs and cat organs and entire living humans and this is important not
             only for solving diseases like blindness and kidney failure but also for populating space with
             humans and also protecting the desirable Earthen lifeforms in case of global devastations.
-            Please read more on this in the “Manifesto for the Kosmos” chapter of this website.
+            Please read more on this in the “Manifesto for the kosmos” chapter of this website.
             </p>
 
             <p>

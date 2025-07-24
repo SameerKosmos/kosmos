@@ -1606,7 +1606,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             taking human society into the kosmos... the universe... so that they become gentle, observant and aware 
             travelers and settlers of the universe, melding into the universe naturally and respecting and adopting Nature's 
             laws, including those reasonable laws and understandings which were part of human society for millennia,  
-            preached by the older philosophers and social reformers and those from true modern philosophers and those from us. 
+            preached by the older philosophers and social reformers and those from true modern philosophers and those from us.
+            </p>
+
+            <p>
             Our logo has the cat because cats are gentle, observant, careful, empathetic, social, loving, sensitive, extremely beautiful, 
             extremely intelligent, extremely loyal, sweet natured, graceful, robust, independent, proud, consider themselves equal to humans 
             and create good vibes wherever they go. These qualities we desire in all of the human society going into the kosmos 

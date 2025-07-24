@@ -886,11 +886,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>The space experiences including the Mirkeen-01 base and our Space machines will provide 
             derivations for city design for Earth and its transportation. This effort will consist of designing 
-            large and small cities which are aesthetic, clean, scientifically-built, citizen-managed through participatory democracy 
-            ( which is true democracy ), humanist, largely food-wise self-sufficient, largely employment-wise self-sufficient, gentle. 
-            These new cities will take the pressure off current chaotic cities and also bring reasonable city culture to rural 
-            people because generally great ideas, discussions and developments happen in the cities. The public transportation system 
-            in these new cities will be built around our Ra-E buses, bicycle lanes and footpaths. 
+            large and small cities which are aesthetic; clean; scientifically-built, citizen-managed through participatory democracy 
+            ( which is true democracy ) by using the concept of Workers Cooperatives; humanist; largely food-wise self-sufficient;
+            largely employment-wise self-sufficient; gentle. These new cities will take the pressure off current chaotic cities and 
+            also bring reasonable city culture to rural people because generally great ideas, discussions and developments happen in the cities. 
+            The public transportation system in these new cities will be built around our Ra-E buses, bicycle lanes and footpaths. 
             The only personal vehicles allowed will be pedal-only bicycles. The gentleness in these cities will also come from 
             creating a safe and comfy environment for cats to prosper. </p>
 

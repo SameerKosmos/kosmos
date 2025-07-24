@@ -332,7 +332,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p>So the organization of work groups in space should be democratic and that is easily done by 
             organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
-            with the older ideas of liberty, equality and fraternity. <br> A Workers Cooperative has eight 
+            with the older ideas of liberty, equality and fraternity. <br> A Workers Cooperative has nine 
             general outcomes :</p>
 
             <p style="margin-left:1em; margin-bottom:10px";> 
@@ -343,7 +343,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p style="margin-left:1em; margin-bottom:10px";> 
             <span>(b).</span> There is no feudal boss and no subordinate… all the workers are equal co-workers in 
             respect, right to participate in the organization’s decisions, voluntary idea giving and 
-            cross-team idea giving. Any worker can call a workers council for a complaint, issue raising 
+            cross-team idea giving. Any worker can call a discussion circle for a complaint, issue raising 
             or idea suggestion, and the other workers must listen and participate. 
             </p>
 
@@ -375,9 +375,15 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             works with money system or money has been abolished. The Workers Cooperative concept 
             is efficient in both situations. 
             </p>
-
-           
- 
+            
+            <p style="margin-left:1em; margin-bottom:10px";> 
+            <span>(i).</span> The need for a workers union in not necessary now because the 
+            company no longer is divided into bosses and workers where the workers have to agitate 
+            for their rights. With the Workers Cooperative the workers own the company and there no longer 
+            are the bosses of the past. If any worker i.e. co-owner of the company has issues, 
+            he or she can directly call a discussion circle.
+            </p>
+            
             <p> Other than Workers Cooperatives in space, there must be decentralization / 
             self-governance, gentleness, a non-corporate environment, a non-militarist environment and 
             a pan-human outlook. This also means no hierarchy and no traditional aerospace titles like 

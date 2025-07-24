@@ -1275,7 +1275,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             necessary thing, and all this in a simplified and straightforward manner, 
             without caring for obsolete and needless "industry standards", unthoughtful academic postulations, 
             cringey technological fashions, anti-democratic and anti-Nature social constructs. 
-            What works, works. What is sensible, is sensible. What can be simplified, must be simplified.
+            What works, works. What is sensible, is sensible. What can be simplified, must be simplified. 
+            What is natural, has to be the system.
             </p>
             
             <p style='margin-bottom:1em;'>Starting 2035 our-designed spaceships will be able to 
@@ -1675,9 +1676,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
            <p style="margin-bottom:10px;"> We are not a typical profiteering and feudalist corporate organization which works on 
             fashionable and senseless technologies and uses senseless corporate lingo in every 
-            sentence ( like “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence” ). We are a techno-social organization set up to evolve humanity in multiple senses 
+            sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence”, "revenue guidance" ).
+            We are a techno-social organization set up to evolve humanity in multiple senses 
             through the far far future and that includes our co-workers ( “co-workers” and not “workers” or "employees" ) 
-            being allowed to attain their fullest potential and that in a democratic way. “Liberty, Equality, 
+            being allowed to attain their fullest potential and this in a democratic way. “Liberty, Equality, 
             Fraternity” is after all one of our credos. So our company-internal organization of people 
             employs the Workers Cooperative concept which is described in the “Manifesto for the Kosmos"
             chapter on this website. Please read that chapter and return to this point. Additionally in our 
@@ -1723,7 +1725,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
              <p class=name> Mohammed Sameer - General Coordinator</p>
 
              <p style="margin-bottom:4px;">
-             Sameer is originally from computing background but he considers himself a 
+            Sameer is originally from computing background but he considers himself a 
             general researcher with interests ranging from generation of electricity to organization of 
             society, like those "polymaths" of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
             Jagadish Chandra Bose. And perhaps "Polymath" is not a proper word and must have a good replacement.
@@ -1915,7 +1917,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
-      //03. More on our techno projects
+      //03. Techno projects
     } else if (chapter === 'projects'){
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">

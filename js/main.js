@@ -2913,6 +2913,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           
         </div>
       `;
+      modal.style.display = 'flex';
       
       //08. Contact info
     }  else if (chapter === 'contactinfo') {

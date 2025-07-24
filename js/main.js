@@ -865,7 +865,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             The activist Greta Thunberg noted about that COP26 conference in Glasgow in 2021 
             that it was a failure and a "Greenwash" and that many of the participating leaders 
             profit from the destruction of Earth's ecosystem. The simple realization is that the biggest culprit 
-            which Climate Change is the personal motor vehicles industry but the COP conferences don't address this.
+            which caused Climate Change is the personal motor vehicles industry but the COP conferences don't address this.
             </p>
 
             <p>

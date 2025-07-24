@@ -1416,7 +1416,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             </p>
             
             <p style='margin-bottom:1em;'>Towards this, we of Kosmos Society will build all 
-            the systems, whether the spaceships or the computers or the electricity generators 
+            the systems, whether the spaceships or the computers or self-sustaining compact electricity generators 
             or the spacesuits or the habitation systems or the social system for space and every other 
             necessary thing, and all this in a simplified and straightforward manner, 
             without caring for obsolete and needless "industry standards", unthoughtful academic postulations, 
@@ -1512,7 +1512,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p><span>&gt;&gt;</span> Readiness to explore sensible methods that are from old times or are unusual.
             </p>
-
+            
             <p><span>&gt;&gt;</span> We won’t do a technology just because there are a hundred other companies doing it 
             or it has been done for a hundred years or just because it has been proposed by some celebrated scientist but 
             the idea is not sensible, for example the concept called Dyson Sphere aka Dyson Swarm.
@@ -1534,9 +1534,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p style='margin-left:2em;margin-bottom:10px;'><span>(b).</span> Decentralization and ease of production and 
             usage which includes electricity generation.</p>
 
-            <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> Using locally available methods 
-            and materials when possible for production and repair.</p>
-            
+            <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> As much as possible, use of structural materials 
+            and fuels that are available cheaply and available in many place or can be produced anywhere so that the manufacturers 
+            can produce our products cheaply and make them available to the masses cheaply. Examples, water, air, wood, biocoal 
+            and electricity that is produced by a compact self-sustaining generator.
+            </p>
+
              <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Bio-mimicry and Engineered Biology wherever applicable.</p>
 
             <p style='margin-left:2em;margin-bottom:10px;'><span>(e).</span> Low-tech when applicable.</p>
@@ -1671,14 +1674,22 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <h2>Join us</h2>
           <div style="color:#FFFFc5;font-size:1.1em;">
 
-            <p style="margin-bottom:10px;"> Join us in the journey to explore the universe and evolve humanity. 
+            <p style="margin-bottom:10px;"> This page is for the benefit of investors, government space departments, 
+            companies who want to collaborate with us, companies who want to become our equipment suppliers and 
+            those who want to become our co-workers. Join us in the journey to explore the universe and evolve humanity.
+            </p>
+
+            <h2>Our story</h2>
+
+            <p>
             Our story began in 2007 when some of us - Sameer, Afzal and a few others - were on a terrace discussing 
             the Google Lunar X Prize which had just started and we thought we too should go to space, 
             not us sending machines to space but our human group going to space and that idea developed 
             for the next 16 years as we decided the simplest and straightforward mechanisms to 
             take us and other humans to space. It takes time for the simple realizations. And then others joined us 
             and then in early 2023 we formed Kosmos Society as a group and then we decided upon our path as a transnational 
-            non-profit design organization and that internally we organize as a Workers Cooperative.
+            non-profit design organization and that internally we organize as a Workers Cooperative. 
+            Then some more people joined us.
             </p>
 
             <p>
@@ -1695,106 +1706,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             and create good vibes wherever they go. These qualities we desire in all of the human society going into the kosmos 
             and on Earth.
             </p>
-
-            <p>
-            We will engage with potential co-workers, investors, other private organizations and national governments in these ways :
-            </p>
-
-            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaborations. </p>
-
-            <p style="margin-bottom:10px;"> <span> >> </span> Potential co-workers investing ideas and labor and joining our team on salary basis in 
-            context of their democratic involvement as described below. </p>
-
-            <p style="margin-bottom:10px;"> <span> >> </span> Combination of the above. </p>
-
-            <h2> B2G and B2B collaborations</h2> 
             
-            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaboration via government and private investors investing money and 
-            other resources in us so that we will be able to produce our prototypes and license them out 
-            to governments. The investors’ return on investment will be share from our license fee we 
-            ask from the manufacturer governments. Once you invest in us for the first time your return 
-            on investment will be from the deals with the many governments on Earth. The industry of 
-            space travel is a permanent one, involving sciences and products of different kinds, and you 
-            will make profit with us as there are more than 100 countries whose governments can be 
-            approached to license our designs to them and this situation will exist as long as the system 
-            of money remains. The return on investment will also be the satisfaction of enabling and 
-            seeing an evolved space industry and the evolved collective human society which no 
-            reasonable person can disagree with. </p>
-
-            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaboration for us to 
-            obtain the components in our designs. </p>
-
-           <p style="margin-bottom:10px;"> <span> >> </span> B2G collaboration via we licensing out our product designs, engineering details and 
-            prototypes to manufacturer organizations of national governments. This license fee will be 
-            for the package of an entire human space program with its associated systems at a 
-            reasonably cheap license fee and this fee includes continued development by us. We will 
-            provide these governments the means to create the cheapest and simplest human space 
-            program so that every citizen of theirs can go to space and live in space either by being 
-            charged a minimal fee or ideally no fees. </p>
-
-            <h2>You as our co-worker</h2> 
-
-            <p style="margin-bottom:10px;"> This collaboration will be on the basis of natural social equality and natural intelligence. We 
-            look for people ideally with the following attributes : </p> 
-
-            <p style="margin-bottom:10px;"> <span> >> </span> You can be a school 10th class fail but if you have ideas, knowledge, willingness to work 
-            and maybe experience in tinkering and other areas then most welcome. </p>
-
-            <p style="margin-bottom:10px;"> <span> >> </span> You do innovative and simplifying thinking even if going against traditions, industry 
-            standards and fashions. </p> 
-
-           <p style="margin-bottom:10px;"> <span> >> </span> You are simple, gentle 
-           and not given to spouting corporate buzzwords. </p>
-
-           <p style="margin-bottom:10px;"> <span> >> </span> You have no love for money and  
-           feudalism. </p>
-
-           <p style="margin-bottom:10px;"> <span> >> </span> You desire a largely secular 
-            borderless unification of humanity on Earth and in Space. </p>
-
-           <p style="margin-bottom:10px;"> <span> >> </span> You consider the cat as the 
-           most perfect animal in the universe, ha ha. </p>
-
-           <p style="margin-bottom:10px;"> <span> >> </span> You consider tea as one of the
-            main human gifts giveable to alien cultures, ha ha. </p>
-
-           <p style="margin-bottom:10px;"> We are not a typical profiteering and feudalist corporate organization which works on 
-            fashionable and senseless technologies and uses senseless corporate lingo in every 
-            sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence”, 
-            "revenue guidance", "state of the art" etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
-            through the far far future and that includes our co-workers being allowed to attain their fullest potential and this in a democratic way. 
-            “Liberty, Equality, Fraternity” is after all one of our credos. So our company-internal organization of people 
-            employs the democratic concept of Workers Cooperative which is described in the “Manifesto for the kosmos" chapter on this website 
-            in the section "Social organization in space travel and space living". Additionally in our company :
-            </p>
-
-            <p style="margin-bottom:10px;"> <span> >> </span> For the sake of current company formation rules the company equity is divided in three 
-            parts : one part for the founders ( as at the time of formal registration of the company ), the 
-            second part for the investors, and the third part for any new co-workers where the founders 
-            will dilute their equity equally to spread equity equally among all the workers. </p>
-           
-           <p style="margin-bottom:10px;"> <span> >> </span> Salary will be an equal amount for all that is comfortable for all our workers in all our 
-            regions but the salary will be based on an Indian number since we will be HQed in India. </p>
-
-           <p style="margin-bottom:10px;"> <span> >> </span> The organization is arranged as a set of work groups which will be for the various 
-            research groups and maintenance groups. </p>
-            
-            <p style="margin-bottom:10px;"> <span> >> </span> The industry of space travel is a permanent one and involves science of every kind except 
-            for sciences with no real basis in a simplified, non-trend-following and democracy-oriented 
-            organization, so with us you will be in permanent employment. You will have a comfortable 
-            salary as long as the system of money remains. </p>
-
-            <p style="margin-bottom:10px;"> <span> >> </span> The organization will be headed by a General Coordinator ( GC ) who for some years to 
-            come will be Sameer who is described just below. The General Coordinator will be 
-            approachable to every worker, will be the interface within the organization and externally, 
-            and every worker if necessary can arrange to call a discussion circle with a notification sent 
-            to the GC. Further, each of our branches in other countries or regions ( those not India ) will 
-            have a Regional Coordinator. </p>
-
-           <p style="margin-bottom:10px;"> <span> >> </span> Please note that we are just starting out 
-           so it will be some time before you start getting salary and we all get salaries so please be patient 
-           and look at the big picture and the long term. </p>
-
             <h2>Our founding team</h2>
            
              <div>
@@ -1910,6 +1822,105 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
            
           </div>
+<p>
+            We will engage with potential co-workers, investors, other private organizations and national governments in these ways :
+            </p>
+
+            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaborations. </p>
+
+            <p style="margin-bottom:10px;"> <span> >> </span> Potential co-workers investing ideas and labor and joining our team on salary basis in 
+            context of their democratic involvement as described below. </p>
+
+            <p style="margin-bottom:10px;"> <span> >> </span> Combination of the above. </p>
+
+            <h2> B2G and B2B collaborations</h2> 
+            
+            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaboration via government and private investors investing money and 
+            other resources in us so that we will be able to produce our prototypes and license them out 
+            to governments. The investors’ return on investment will be share from our license fee we 
+            ask from the manufacturer governments. Once you invest in us for the first time your return 
+            on investment will be from the deals with the many governments on Earth. The industry of 
+            space travel is a permanent one, involving sciences and products of different kinds, and you 
+            will make profit with us as there are more than 100 countries whose governments can be 
+            approached to license our designs to them and this situation will exist as long as the system 
+            of money remains. The return on investment will also be the satisfaction of enabling and 
+            seeing an evolved space industry and the evolved collective human society which no 
+            reasonable person can disagree with. </p>
+
+            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaboration for us to 
+            obtain the components in our designs. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> B2G collaboration via we licensing out our product designs, engineering details and 
+            prototypes to manufacturer organizations of national governments. This license fee will be 
+            for the package of an entire human space program with its associated systems at a 
+            reasonably cheap license fee and this fee includes continued development by us. We will 
+            provide these governments the means to create the cheapest and simplest human space 
+            program so that every citizen of theirs can go to space and live in space either by being 
+            charged a minimal fee or ideally no fees. </p>
+
+            <h2>You as our co-worker</h2> 
+
+            <p style="margin-bottom:10px;"> This collaboration will be on the basis of natural social equality and natural intelligence. We 
+            look for people ideally with the following attributes : </p> 
+
+            <p style="margin-bottom:10px;"> <span> >> </span> You can be a school 10th class fail but if you have ideas, knowledge, willingness to work 
+            and maybe experience in tinkering and other areas then most welcome. </p>
+
+            <p style="margin-bottom:10px;"> <span> >> </span> You do innovative and simplifying thinking even if going against traditions, industry 
+            standards and fashions. </p> 
+
+           <p style="margin-bottom:10px;"> <span> >> </span> You are simple, gentle 
+           and not given to spouting corporate buzzwords. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> You have no love for money and  
+           feudalism. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> You desire a largely secular 
+            borderless unification of humanity on Earth and in Space. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> You consider the cat as the 
+           most perfect animal in the universe, ha ha. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> You consider tea as one of the
+            main human gifts giveable to alien cultures, ha ha. </p>
+
+           <p style="margin-bottom:10px;"> We are not a typical profiteering and feudalist corporate organization which works on 
+            fashionable and senseless technologies and uses senseless corporate lingo in every 
+            sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence”, 
+            "revenue guidance", "state of the art" etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
+            through the far far future and that includes our co-workers being allowed to attain their fullest potential and this in a democratic way. 
+            “Liberty, Equality, Fraternity” is after all one of our credos. So our company-internal organization of people 
+            employs the democratic concept of Workers Cooperative which is described in the “Manifesto for the kosmos" chapter on this website 
+            in the section "Social organization in space travel and space living". Additionally in our company :
+            </p>
+
+            <p style="margin-bottom:10px;"> <span> >> </span> For the sake of current company formation rules the company equity is divided in three 
+            parts : one part for the founders ( as at the time of formal registration of the company ), the 
+            second part for the investors, and the third part for any new co-workers where the founders 
+            will dilute their equity equally to spread equity equally among all the workers. </p>
+           
+           <p style="margin-bottom:10px;"> <span> >> </span> Salary will be an equal amount for all that is comfortable for all our workers in all our 
+            regions but the salary will be based on an Indian number since we will be HQed in India. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> The organization is arranged as a set of work groups which will be for the various 
+            research groups and maintenance groups. </p>
+            
+            <p style="margin-bottom:10px;"> <span> >> </span> The industry of space travel is a permanent one and involves science of every kind except 
+            for sciences with no real basis in a simplified, non-trend-following and democracy-oriented 
+            organization, so with us you will be in permanent employment. You will have a comfortable 
+            salary as long as the system of money remains. </p>
+
+            <p style="margin-bottom:10px;"> <span> >> </span> The organization will be headed by a General Coordinator ( GC ) who for some years to 
+            come will be Sameer who is described just below. The General Coordinator will be 
+            approachable to every worker, will be the interface within the organization and externally, 
+            and every worker if necessary can arrange to call a discussion circle with a notification sent 
+            to the GC. Further, each of our branches in other countries or regions ( those not India ) will 
+            have a Regional Coordinator. </p>
+
+           <p style="margin-bottom:10px;"> <span> >> </span> Please note that we are just starting out 
+           so it will be some time before you start getting salary and we all get salaries so please be patient 
+           and look at the big picture and the long term. </p>
+          
         </div>
       `;
       modal.style.display = 'flex';
@@ -3114,9 +3125,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <h2>Contact us</h2>
           <div>
            <div class="contact-card">
-           
-        <h1>Kosmos Society</h1>
-        
+                        
         <div class="contact-item">
             <div class="contact-label">
                 <span class="icon">📺</span>YouTube

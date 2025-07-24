@@ -1895,7 +1895,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. 
             Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
             Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. 
-            That Insta page spoke of the company Polar Night which applied the sand battery in a real life setting and we are thankful to this company.
+            That Insta page spoke of the company Polar Night Energy which applied the sand battery in a real life setting and we are thankful to this company.
             </p>
                         
             <p><span>&gt;&gt;</span> Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>

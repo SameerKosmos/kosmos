@@ -67,11 +67,13 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p>
             This manifesto describes a social system for simple, harmonious and Nature-ordained organization of humans in 
             space so that groups in space operate harmoniously within themselves and with other 
-            individuals or groups in space who are humans from anywhere on Earth and beyond; 
+            individuals or groups in space who are fellow humans from anywhere on Earth and fellow humans
+            from beyond beyond when humans settle on other worlds and in free space ; 
             and these individuals and groups as a whole in space do their sightseeing or research or mining or living 
             and are able to contribute to the collective learnings and evolved experience of humanity in space 
             such that in 12 years from now ( by 2037 ) humans have at least started living on the Moon and 
-            then in few more years, living in the Asteroid Belt which sits in the space between Red One and Jupiter.
+            then in few more years, living in the Asteroid Belt which sits in the space between Red One and Jupiter 
+            and then beyond the Asteroid Belt.
             </P>
 
             <p>
@@ -1075,7 +1077,6 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
 
           </style>
-          <h2>The two reasons for our Iskra Plan</h2>
           <div style="color:##FFFFc5;font-size:1.1em;font-family:Roboto,sans-serif;">
            
             <h2>The disappointed 100,000 people desiring space travel</h2>
@@ -1271,7 +1272,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p style='margin-bottom:1em;'>Towards this, we of Kosmos Society will build all 
             the systems, whether the spaceships or the computers or the electricity generators 
             or the spacesuits or the habitation systems or the social system for space and every other 
-            necessary thing, and all this in a simplified and straightforward manner.</p>
+            necessary thing, and all this in a simplified and straightforward manner, 
+            without caring for obsolete and needless "industry standards", unthoughtful academic postulations, 
+            cringey technological fashions, anti-democratic and anti-Nature social constructs. 
+            What works, works. What is sensible, is sensible. What can be simplified, must be simplified.
+            </p>
             
             <p style='margin-bottom:1em;'>Starting 2035 our-designed spaceships will be able to 
             carry some humans and goods safely to the Moon and in subsequent years our-designed spaceships 

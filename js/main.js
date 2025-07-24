@@ -59,30 +59,29 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p> 
             We present a draft of a progressive pan-humanist manifesto for the kosmos 
             i.e. for all humans going and living in the universe / space and hopefully this manifesto 
-            finding adoption on Earth. This draft is not a full preparation but still substantial 
-            and we will further it by discussions in progressive forums and join it with others’ drafts for this purpose.
-            </P>
+            finding adoption on Earth. We want through this manifesto draft a harmonious unity of
+            humankind in space, removed of all the artificial unpleasantnesses and tragedies that
+            humans do or endure presently on Earth.
+            </p>
 
-            <p> This manifesto describes a social system for simple, harmonious and Nature-ordained organization of humans in 
+            <p>
+            This manifesto describes a social system for simple, harmonious and Nature-ordained organization of humans in 
             space so that groups in space operate harmoniously within themselves and with other 
             individuals or groups in space who are humans from anywhere on Earth and beyond; 
             and these individuals and groups as a whole in space do their sightseeing or research or mining or living 
             and are able to contribute to the collective learnings and evolved experience of humanity in space 
             such that in 12 years from now ( by 2037 ) humans have at least started living on the Moon and 
-            then in few more years, living in the Asteroid Belt which sits in the space between Red One and Jupiter.</P>  
+            then in few more years, living in the Asteroid Belt which sits in the space between Red One and Jupiter.
+            </P>
 
-            <p> One of our inspirations is the wonderful Bengali and Hindi languages
-            song called “Shob Lokey Koy” which appeared in the music series Coke Studio Bangla
-            Season One. The song is a celebration of two past South Asian humanitarian mystics, Lalon
-            Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
-            same well except for some differences in the vessels which then contain the waters, and this
-            is what we Kosmos Society want through our manifesto draft - a harmonious unity of
-            humankind in space, removed of all the artificial unpleasantnesses and tragedies that
-            humans do or endure presently on Earth. Below are some points from our manifesto draft. 
-            Some of these are “To be done”. </p>
+            <p>
+            This draft is not a full preparation but still substantial and we will further 
+            it by discussions in progressive forums and join it with others’ drafts for this purpose. 
+            Some points below are “To be done”.
+            </p>
 
             <h2>The universe and human nations on Earth</h2>
-
+            
             <p>
                 The universe has existed forever, much before some human scientists and academics foolishly
                 affixed an age to it on the basis of misguided mathematics i.e. the Big Bang Theory and now
@@ -92,7 +91,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
                 from as recent as the French Revolution of the late 1700s which led to France becoming a
                 Republic which was meant to become citizen-governed with natural human freedoms as
                 against France previously being a typical kingdom governed by a supreme oppressive feudal lord.
-                We must look at this further to understand the non-Kosmos basis of human nations.
+                We must look at this further to understand the non-kosmos basis of human nations.
                 </P>
 
               <p>
@@ -148,7 +147,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             of the priests promising divine salvation of the peasants and the heavy rule of the monarchs, 
             all these have been cast aside by the peasants emancipating themselves and establishing 
             throughout Earth a society of equals, collective welfare and true productivity, and human race 
-            becomes one harmonious people on whom the Sun of freedom will at last shine. This song 
+            becomes one harmonious people on whom the sun of freedom will at last shine. This song 
             "The Internationale" later was adopted by various progressive pan-humanists across the world 
             and in the context of our company based in India, this song was first translated into 
             the Indian context by the poet Kazi Nazrul Islam in his native Bengali language, 
@@ -159,7 +158,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             in the succeeding century and the pan-humanist evocative song "The Internationale" sadly was 
             made forgotten so now in 2025 the ideas of "Natural liberty, equality and fraternity among all humans"
             has largely and sadly been replaced with "Unnatural and hatred-full divisions among humans who are divided into
-            kingdom-like nations and the hatreds reinforced by needless, forever wars".
+            kingdom-like nations and the hatreds between nations reinforced by needless, forever wars".
             </P>
             
             <P>
@@ -167,7 +166,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             grandness of Universe / Kosmos / Space than a human from another modern nation. A socially-advantaged 
             human from one modern “superpower wealthy nation” will be burned up in the Sun as easily as a 
             money-poor human from another modern “superpower wealthy nation”... to believe otherwise is 
-            pointless arrogance. Some thoughtful Space travellers who have gone to Earth orbit have 
+            pointless arrogance. Some thoughtful space travellers who have gone to Earth orbit have 
             spoken of seeing the Earth as a singular delicate blue world with no natural boundaries 
             dividing nations, though to us adding here : with the exception of Australia and other island 
             nations bounded by the seas but that is besides the point. It is then unwise to be fanatic 
@@ -218,7 +217,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             the waters off the Greek island of Antikythera in 1901. This mechanical machine is considered
             the earliest analog computer and used the lunar calendar from Ancient Egypt possibly dating back a thousand years
             previous to the devising of this machine, which means more than 3000 years previous
-            to our present modern age. Jumping back to the modern age, in India between the 1850s and 1930s 
+            to our present modern age.
+            </p>
+            
+            <p>
+            Jumping back to the modern age, in India between the 1850s and 1930s 
             lived the "polymath" Jagadish Chandra Bose... a man interested in many sciences including humane social conduct.
             He was the first to investigate microwave radiofrequency and made great discoveries
             in botany and among his researches living now is our modern telecom including the everywhere-present
@@ -284,7 +287,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             minimal fees or no fees for : </P>
             
             <P style="margin-left:1em; margin-bottom:10px";><span>(a).</span> Providing and 
-            repairing the personal systems ( like the Dune Buk wearable computer ). </p>
+            repairing the personal systems like our Dune Buk wearable computer. </p>
             
             <p style="margin-left:1em; margin-bottom:10px";><span>(b).</span> Transporting people. </p>
             
@@ -575,8 +578,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             human systems despite these societies considering a college degree as being the mark of 
             knowledge. Indeed, these societies are mere users of machines and knowledges that other 
             societies and individual people of natural thinking created over thousands of years without 
-            consideration of college degrees or other kinds of artificial social separations. Our friend Michael 
-            Faraday is the person whose experiments in electro-magnetism and electro-chemistry have 
+            consideration of college degrees or other kinds of artificial social separations.
+            </p>
+            
+            <p>
+            Our friend Michael Faraday is the person whose experiments in electro-magnetism and electro-chemistry have 
             led to our modern world using electrical machinery whether the lamp, the motor car, 
             the washing machine or the cell phone. And he studied only till middle school 
             in terms of the modern assembly-line degree-based education system. 
@@ -637,8 +643,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             mass destruction in open space or around space bodies nor can a nation state exclusively 
             claim space objects for taking resources ( say even from a star like the Sun ). Similar is the 
             agreement undertaken at the UNOOSA ( United Nations Office for Outer Space Affairs ) 
-            which is a department of the United Nations Organization ( the UN ). Though the UN has 
-            failed to prevent invasions, needless conflicts, genocides and subversions since its inception 
+            which is a department of the UN. Though the UN has failed to prevent invasions, needless conflicts, genocides and subversions since its inception 
             in 1945 and has served only as a decoration, very much not uniting nations despite its name, 
             its UNOOSA department at least makes sense.</p> 
             
@@ -772,11 +777,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             building of the first human settlements in space in terms of technologies and social systems 
             including pan-human development, decentralized governance, the first human baby born in 
             space, an artificial intelligence included with empathy and learning from unprogrammed space events,
-            and a very different kind of alien encounter.</p> 
-            <p>This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
-            ney-676nf </a> ].  
-            This story prepares us to look for intelligent lifeforms by being open-minded as 
-            to their type and their reaction to us and our reaction to them. Please read this story.
+            and a very different kind of alien encounter. This story prepares us to look for intelligent lifeforms by being open-minded as 
+            to their type and their reaction to us and our reaction to them. This is the link to the story [  <a href=" https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-feeney-676nf " target="_blank" style="color:#0000FF;">https://www.linkedin.com/pulse/interplanetary-civilian-novella-mars-memory-don-michael-fee
+            ney-676nf </a> ].
             </p>
            
             <p>
@@ -1026,9 +1029,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           </div>
         </div>
       `;
-      // 01. Introduction to our Iskra Plan
+      // 01. Our Iskra Plan
       modal.style.display = 'flex';
-    } else if (chapter === 'introduction') {
+    } else if (chapter === 'iskra') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
           <style>
@@ -1871,8 +1874,12 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <div>
             <p><span>&gt;&gt;</span> Vikram for the logo, the website design and for provoking the thought in Sameer to have this Credits page.</p>
             
-            <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ]. We also thank the company Polar Night Energy who thought of applying the sand battery in a real life setting and this news was listed on that Insta page.</p>
-
+            <p><span>&gt;&gt;</span> Apoorva JR for presenting to us an Instagram page in 2023 which contained reports on eco-friendly ways 
+            of generating electricity and which led to our discovery of the “sand battery” which we use in our design of the Faradn generator. 
+            Apoorva’s LInkedIn page [ <a href="https://www.linkedin.com/in/apoorvajr" target="_blank" style="color:#0000FF;">https://www.linkedin.com/in/apoorvajr</a> ].
+            Sadly we forgot the Insta page's name but we are thankful to that page's maintainer. 
+            That Insta page spoke of the company Polar Night which applied the sand battery in a real life setting and we are thankful to this company.
+            </p>
                         
             <p><span>&gt;&gt;</span> Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>
             
@@ -1884,7 +1891,13 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p><span>&gt;&gt;</span> Planetary Science Division of NASA for the idea of creating an artificial magnetosphere
              for Red One.</p>
 
-            <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which also inspired us for our manifesto for the kosmos. The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] and there are other nice songs there.</p>
+            <p><span>&gt;&gt;</span> Coke Studio Bangla Season One for presenting the song “Shob Lokey Koy” which also inspired us for our manifesto for the kosmos. 
+            This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
+            Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
+            same well except for some differences in the vessels which then contain the waters. 
+            The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] 
+            and there are other nice songs there.
+            </p>
              
             <p><span>&gt;&gt;</span> Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be
              read here [ <a href="https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf" target="_blank" style="color:#0000FF;">https://mast.queensu.ca/~murty/Tagore-Nationalism-1915.pdf</a> ].</p>
@@ -2004,7 +2017,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             with the lesser atmospheric air at that height. From that atmospheric height for lift of the airship into space 
             there will be other upwards push / propulsion methods required. The airship is much better than the Tall Rocket 
             because the Tall Rocket requires lot of fuel just to lift itself one centimeter off the launch pad 
-            as we explained in our introduction chapter. Secondly, much less push-into-orbit fuel 
+            as we explained in our first chapter. Secondly, much less push-into-orbit fuel 
             makes the airship type of spaceship much more safer in terms of explosion. Thirldy, 
             the airship-spaceship can easily be made horizontally larger instead of the vertically huge of the Tall Rocket.
             </p>

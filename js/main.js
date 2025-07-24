@@ -2,8 +2,6 @@
 const modal = document.getElementById('chapterModal');
 const modalText = document.getElementById('modalText');
 const closeModal = document.getElementById('closeModal');
-   
-
 
 // 04. Manifesto for the kosmos
 document.querySelectorAll('.chapter-card').forEach(card => {
@@ -1682,26 +1680,22 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           </style>
           <h2>Why you can contact us</h2>
           <div style="color:#FFFFc5;font-size:1.1em;">
-
-            <p style="margin-bottom:10px;"> You can contact us if :
+            
+            <p><span>&gt;&gt;</span> 
+            If you want to invest funding and other resources in us.
             </p>
             
             <p><span>&gt;&gt;</span> 
-            If you want to invest funding and resources in us.
-            </p>
-            
-            <p><span>&gt;&gt;</span> 
-            If you are a government space department which wants to purchase 
-            license for our products but we are not yet ready for this as we are
-            just starting out and still designing most of our some of our products.
+            If you are a government space department which wants to look at our prototypes 
+            and purchase license for our products. But we are not yet ready for this as we are 
+            just starting out as a formal company and still designing most of our our products 
+            in detail. Presently we are engaging with a manufacturer to have our 
+            Faradn electricity generator prototyped.
             </p>
 
             <p><span>&gt;&gt;</span> 
-            If you are an organization who wants to collaborate with us.
-            </p>
-
-            <p><span>&gt;&gt;</span> 
-            If you are an organization who wants to become our equipment supplier.
+            If you are an organization which wants to collaborate with us, whether for 
+            technological collaboration or to become our equipment supplier.
             </p>
 
             <p><span>&gt;&gt;</span> 
@@ -1712,7 +1706,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             If you are a journalist.
             </p>
             
-            <h2>First we introduce our founding team</h2>
+            <h2>Our founding team</h2>
            
              <div>
              <img src="assets/Sameer .jpeg" 
@@ -1827,30 +1821,51 @@ document.querySelectorAll('.chapter-card').forEach(card => {
            
           </div>
           
-            <h2> B2G and B2B collaborations</h2> 
+            <h2>Info for investors</h2> 
             
-            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaboration via government and private investors investing money and 
-            other resources in us so that we will be able to produce our prototypes and license them out 
-            to governments. The investors’ return on investment will be share from our license fee we 
-            ask from the manufacturer governments. Once you invest in us for the first time your return 
-            on investment will be from the deals with the many governments on Earth. The industry of 
-            space travel is a permanent one, involving sciences and products of different kinds, and you 
-            will make profit with us as there are more than 100 countries whose governments can be 
-            approached to license our designs to them and this situation will exist as long as the system 
-            of money remains. The return on investment will also be the satisfaction of enabling and 
-            seeing an evolved space industry and the evolved collective human society which no 
-            reasonable person can disagree with. </p>
+            <p>
+            You can be a government or private investor, investing money and other resources in us
+            so that we will be able to produce our prototypes and license them out 
+            to governments. Your return on investment will be share from our license fee 
+            we ask from the manufacturer governments. Once you invest in us for the first time 
+            your return on investment will be from the deals with the many governments on Earth. 
+            The industry of space travel is a permanent one, involving sciences and products 
+            of different kinds, and you will make profit with us as there are more than 100 countries 
+            whose governments can be approached to license our designs to them 
+            and this situation will exist as long as the system of money remains. 
+            Your return on investment will also be the satisfaction of helping enable 
+            an evolved space industry and the evolved collective human society 
+            which no reasonable person can disagree with. We are just starting out as a formal company
+            and still designing most of our our products in detail. Presently we are engaging 
+            with a manufacturer to have our Faradn self-sustaining compact electricity generator prototyped.
+            Once this generator is developed as a prototype we will present it on our YouTube channel 
+            and perhaps the press and we will approach you or you can approach us.
+            </p>
 
-            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaboration for us to 
-            obtain the components in our designs. </p>
+            <h2>Info for government space departments</h2>
 
-           <p style="margin-bottom:10px;"> <span> >> </span> B2G collaboration via we licensing out our product designs, engineering details and 
-            prototypes to manufacturer organizations of national governments. This license fee will be 
-            for the package of an entire human space program with its associated systems at a 
-            reasonably cheap license fee and this fee includes continued development by us. We will 
-            provide these governments the means to create the cheapest and simplest human space 
-            program so that every citizen of theirs can go to space and live in space either by being 
-            charged a minimal fee or ideally no fees. </p>
+            <p>
+            In the coming five to six years we will be able to license out to you the package 
+            of an entire human space program with all its associated systems at a reasonably cheap
+            license fee. This fee includes demonstration of our prototypes, product designs, 
+            engineering details, continued on-site and telecom help by our company co-workers 
+            and continued development by us to improve our products. We will provide you the means 
+            to create a cheap and simple human space program so that potentially every citizen of yours 
+            can go to space and live in space and you can charge them a minimal fee or ideally no fees. 
+            Because space technology involves sciences of all kinds, our systems will also help evolve 
+            your Earthen nation to become a highly advanced society not only technologically 
+            but socially a cleaner, harmonious, serene, just and collectively prosperous society. 
+            But we are not yet ready for this as we are just starting out as a formal company 
+            and still designing most of our our products in detail. Presently we are engaging 
+            with a manufacturer to have our Faradn self-sustaining compact electricity generator prototyped.
+            </p>
+            
+            <h2>Info for organizational collaborators</h2>
+
+            <p>
+            You are collaborate with us both for technological collaboration and
+            to become our equipment supplier.
+            </p>
 
             <h2>You as our co-worker</h2> 
 
@@ -1915,20 +1930,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
            so it will be some time before you start getting salary and we all get salaries so please be patient 
            and look at the big picture and the long term. </p>
 
-           <h2> Our story</h2>
-      
-           <p>
-           Our story began in 2007 when some of us - Sameer, Afzal and a few others - were on a terrace 
-           discussing the Google Lunar X Prize which had just started and we thought we too should go to space, 
-           not us sending machines to space but our human group going to space and that idea developed 
-           for the next 16 years as we discussed the simplest and straightforward mechanisms to take us 
-           and other humans to space. It takes time for the simple realizations. The main participants in
-           these discussions were Sameer, Afzal and Dr. Gajendran. And then others joined us 
-           and then in early 2023 we formed Kosmos Society as a group and then we decided upon our path 
-           as a transnational non-profit design organization and that internally 
-           we organize as a Workers Cooperative. Then some more people joined us.
-           </p>
-
+           <h2> Our company's name and logo</h2>
+           
            <p>
            We call ourselves as Kosmos Society because we want to be the vanguard techno-social organization 
            taking human society into the kosmos... the universe... so that they become gentle, observant 

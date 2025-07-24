@@ -1572,7 +1572,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
-      // 06.join
+      // 06. Why contact us
     } else if (chapter === 'whycontactus') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1949,7 +1949,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
-      // 05.credits
+      // 05. Credits
     } else if (chapter === 'credits') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -2843,8 +2843,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
-      //07.contact
-    }  else if (chapter === 'contact') {
+      //07. Contact info
+    }  else if (chapter === 'contactinfo') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
           <style>

@@ -3150,7 +3150,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
 
           </style>
-          <h2>Contact us</h2>
+          <h2>Contact info</h2>
           <div>
            <div class="contact-card">
                         

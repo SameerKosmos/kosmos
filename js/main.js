@@ -1570,7 +1570,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
-      // 06. Why contact us
+      // 07. Why contact us
     } else if (chapter === 'whycontactus') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1687,8 +1687,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p><span>&gt;&gt;</span> 
             If you are a government space department which wants to look at our prototypes 
-            and purchase license for our products. But we are not yet ready for this as we are 
-            just starting out as a formal company and still designing most of our our products 
+            and purchase license for our products. But we are not yet ready for licensing out 
+            as we are just starting out as a formal company and still designing most of our our products 
             in detail. Presently we are engaging with a manufacturer to have our 
             Faradn electricity generator prototyped.
             </p>
@@ -1832,14 +1832,21 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             The industry of space travel is a permanent one, involving sciences and products 
             of different kinds, and you will make profit with us as there are more than 100 countries 
             whose governments can be approached to license our designs to them 
-            and this situation will exist as long as the system of money remains. 
+            and this situation will exist as long as the system of money remains.
+            </p>
+
+            <p>
             Your return on investment will also be the satisfaction of helping enable 
             an evolved space industry and the evolved collective human society 
-            which no reasonable person can disagree with. We are just starting out as a formal company
+            which no reasonable person can disagree with.
+            </p>
+            
+            <p>
+            But we are not yet ready for licensing out as we are just starting out as a formal company 
             and still designing most of our our products in detail. Presently we are engaging 
-            with a manufacturer to have our Faradn self-sustaining compact electricity generator prototyped.
+            with a manufacturer to have our Faradn self-sustaining compact electricity generator prototyped. 
             Once this generator is developed as a prototype we will present it on our YouTube channel 
-            and perhaps the press and we will approach you or you can approach us.
+            and also to the press and we will approach you or you can approach us.
             </p>
 
             <h2>Info for government space departments</h2>
@@ -1847,17 +1854,21 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p>
             In the coming five to six years we will be able to license out to you the package 
             of an entire human space program with all its associated systems at a reasonably cheap
-            license fee. This fee includes demonstration of our prototypes, product designs, 
-            engineering details, continued on-site and telecom help by our company co-workers 
-            and continued development by us to improve our products. We will provide you the means 
-            to create a cheap and simple human space program so that potentially every citizen of yours 
-            can go to space and live in space and you can charge them a minimal fee or ideally no fees. 
-            Because space technology involves sciences of all kinds, our systems will also help evolve 
-            your Earthen nation to become a highly advanced society not only technologically 
-            but socially a cleaner, harmonious, serene, just and collectively prosperous society. 
-            But we are not yet ready for this as we are just starting out as a formal company 
-            and still designing most of our our products in detail. Presently we are engaging 
-            with a manufacturer to have our Faradn self-sustaining compact electricity generator prototyped.
+            license fee. You can contact us to watch the demonstrations of our prototypes. The license fee 
+            includes product designs, engineering details, training, continued on-site and telecom help 
+            by our company co-workers and continued development by us to improve our products. 
+            We will provide you the means to create a cheap and simple human space program 
+            so that potentially every citizen of yours can go to space and live in space 
+            and you can charge them a minimal fee or ideally no fees. Because space technology 
+            involves sciences of all kinds, our systems will also help evolve your Earthen nation 
+            to become a highly advanced society not only technologically but socially a cleaner, 
+            harmonious, serene, equal, just and collectively prosperous society.
+            </p>
+            
+            <p>
+            We are just starting out as a formal company and still designing most of our our products in detail. 
+            Presently we are engaging with a manufacturer to have our Faradn self-sustaining compact electricity 
+            generator prototyped.
             </p>
             
             <h2>Info for organizational collaborators</h2>
@@ -1928,26 +1939,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
            <p style="margin-bottom:10px;"> <span> >> </span> Please note that we are just starting out 
            so it will be some time before you start getting salary and we all get salaries so please be patient 
-           and look at the big picture and the long term. </p>
-
-           <h2> Our company's name and logo</h2>
-           
-           <p>
-           We call ourselves as Kosmos Society because we want to be the vanguard techno-social organization 
-           taking human society into the kosmos... the universe... so that they become gentle, observant 
-           and aware travelers and settlers of the universe, melding into the universe naturally 
-           and respecting and adopting Nature's laws, including those reasonable laws and understandings 
-           which were part of human society for millennia, preached by the older philosophers and social reformers 
-           and those from true modern philosophers and those from us.
-           </p>
-
-           <p>
-           Our logo has the cat because cats are gentle, observant, careful, empathetic, social, 
-           loving, sensitive, clean, beautiful, extremely intelligent, wise, loyal, sweet natured, 
-           graceful, robust, independent, proud, consider themselves equal to humans 
-           and create good vibes wherever they go. These qualities we desire in all 
-           of the human society going into the kosmos and on Earth.
-          </p>
+           and look at the big picture and the long term. </p>       
           
         </div>
       `;
@@ -2846,7 +2838,78 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
-      //07. Contact info
+
+            // 06. Our name and logo
+    } else if (chapter === 'nameandlogo') {
+      modalText.innerHTML = `
+        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
+          <style>
+            /* Chrome, Edge, Safari */
+            #modalText > div::-webkit-scrollbar {
+              width: 10px;
+              height: 10px;
+              background: #fff;
+            }
+            #modalText > div::-webkit-scrollbar-thumb {
+              background: #fff;
+              border-radius: 10px;
+              border: 2px solid #222;
+            }
+            #modalText > div::-webkit-scrollbar-track {
+              background: #222;
+              border-radius: 10px;
+            }
+            /* Firefox */
+            #modalText > div {
+              scrollbar-width: thin;
+              scrollbar-color: #fff #222;
+            }
+
+            h2 {
+            font-family: 'Poppins', sans-serif;
+            color: #000;
+            text-align: center;
+            margin-bottom: 10px;
+            }
+
+            p{
+            font-family: 'Roboto', sans-serif;
+            color: #000;
+            font-size: 1.1em;
+            }
+
+            span {
+              color:#000;
+              font-weight: bold;
+              }
+
+          </style>
+          <h2>Reasoning for our name and logo</h2>
+          <div>
+          
+           <p>
+           We call ourselves as Kosmos Society because we want to be the vanguard techno-social organization 
+           taking human society into the kosmos... the universe... so that humans become gentle, observant 
+           and aware travelers and settlers of the universe, melding into the universe naturally 
+           and respecting and adopting Nature's laws, including those reasonable laws and understandings 
+           which were part of human society for millennia, preached by the older philosophers and social reformers 
+           and those from true modern philosophers and those from us.
+           </p>
+
+           <p>
+           Our logo has the cat because cats are gentle, observant, careful, empathetic, social, 
+           loving, sensitive, clean, beautiful, extremely intelligent, wise, loyal, sweet natured, 
+           graceful, robust, independent, proud, consider themselves equal to humans 
+           and create good vibes wherever they go. These qualities we desire in all 
+           of the human society going into the kosmos and on Earth.
+          </p>
+          
+          </div>
+          
+        </div>
+      `;
+      
+      //08. Contact info
     }  else if (chapter === 'contactinfo') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">

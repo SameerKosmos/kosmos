@@ -1573,7 +1573,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
       `;
       modal.style.display = 'flex';
       // 06.join
-    } else if (chapter === 'join') {
+    } else if (chapter === 'whycontactus') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
           <style>
@@ -1680,43 +1680,39 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         }
             
           </style>
-          <h2>Join us</h2>
+          <h2>Why you can contact us</h2>
           <div style="color:#FFFFc5;font-size:1.1em;">
 
-            <p style="margin-bottom:10px;"> This page is for the benefit of investors, government space departments, 
-            organizations who want to collaborate with us, organizations who want to become our equipment suppliers and 
-            those who want to become our co-workers. Join us in the journey to explore the universe and evolve humanity.
-            </p>
-
-            <h2>Our story</h2>
-
-            <p>
-            Our story began in 2007 when some of us - Sameer, Afzal and a few others - were on a terrace discussing 
-            the Google Lunar X Prize which had just started and we thought we too should go to space, 
-            not us sending machines to space but our human group going to space and that idea developed 
-            for the next 16 years as we decided the simplest and straightforward mechanisms to 
-            take us and other humans to space. It takes time for the simple realizations. And then others joined us 
-            and then in early 2023 we formed Kosmos Society as a group and then we decided upon our path as a transnational 
-            non-profit design organization and that internally we organize as a Workers Cooperative. 
-            Then some more people joined us.
-            </p>
-
-            <p>
-            We call ourselves as Kosmos Society because we want to be the vanguard techno-social organization 
-            taking human society into the kosmos... the universe... so that they become gentle, observant and aware 
-            travelers and settlers of the universe, melding into the universe naturally and respecting and adopting Nature's 
-            laws, including those reasonable laws and understandings which were part of human society for millennia,  
-            preached by the older philosophers and social reformers and those from true modern philosophers and those from us.
-            </p>
-
-            <p>
-            Our logo has the cat because cats are gentle, observant, careful, empathetic, social, loving, sensitive, clean, extremely beautiful, 
-            extremely intelligent, wise, extremely loyal, sweet natured, graceful, robust, independent, proud, consider themselves equal to humans 
-            and create good vibes wherever they go. These qualities we desire in all of the human society going into the kosmos 
-            and on Earth.
+            <p style="margin-bottom:10px;"> You can contact us if :
             </p>
             
-            <h2>Our founding team</h2>
+            <p><span>&gt;&gt;</span> 
+            If you want to invest funding and resources in us.
+            </p>
+            
+            <p><span>&gt;&gt;</span> 
+            If you are a government space department which wants to purchase 
+            license for our products but we are not yet ready for this as we are
+            just starting out and still designing most of our some of our products.
+            </p>
+
+            <p><span>&gt;&gt;</span> 
+            If you are an organization who wants to collaborate with us.
+            </p>
+
+            <p><span>&gt;&gt;</span> 
+            If you are an organization who wants to become our equipment supplier.
+            </p>
+
+            <p><span>&gt;&gt;</span> 
+            If you want to become our co-worker.
+            </p>
+            
+            <p><span>&gt;&gt;</span> 
+            If you are a journalist.
+            </p>
+            
+            <h2>First we introduce our founding team</h2>
            
              <div>
              <img src="assets/Sameer .jpeg" 
@@ -1828,20 +1824,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Connect on LinkedIn
             </a>
             </p> 
-
            
           </div>
-<p>
-            We will engage with potential co-workers, investors, other private organizations and national governments in these ways :
-            </p>
-
-            <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaborations. </p>
-
-            <p style="margin-bottom:10px;"> <span> >> </span> Potential co-workers investing ideas and labor and joining our team on salary basis in 
-            context of their democratic involvement as described below. </p>
-
-            <p style="margin-bottom:10px;"> <span> >> </span> Combination of the above. </p>
-
+          
             <h2> B2G and B2B collaborations</h2> 
             
             <p style="margin-bottom:10px;"> <span> >> </span> B2G and B2B collaboration via government and private investors investing money and 
@@ -1929,6 +1914,37 @@ document.querySelectorAll('.chapter-card').forEach(card => {
            <p style="margin-bottom:10px;"> <span> >> </span> Please note that we are just starting out 
            so it will be some time before you start getting salary and we all get salaries so please be patient 
            and look at the big picture and the long term. </p>
+
+           <h2> Our story</h2>
+      
+           <p>
+           Our story began in 2007 when some of us - Sameer, Afzal and a few others - were on a terrace 
+           discussing the Google Lunar X Prize which had just started and we thought we too should go to space, 
+           not us sending machines to space but our human group going to space and that idea developed 
+           for the next 16 years as we discussed the simplest and straightforward mechanisms to take us 
+           and other humans to space. It takes time for the simple realizations. The main participants in
+           these discussions were Sameer, Afzal and Dr. Gajendran. And then others joined us 
+           and then in early 2023 we formed Kosmos Society as a group and then we decided upon our path 
+           as a transnational non-profit design organization and that internally 
+           we organize as a Workers Cooperative. Then some more people joined us.
+           </p>
+
+           <p>
+           We call ourselves as Kosmos Society because we want to be the vanguard techno-social organization 
+           taking human society into the kosmos... the universe... so that they become gentle, observant 
+           and aware travelers and settlers of the universe, melding into the universe naturally 
+           and respecting and adopting Nature's laws, including those reasonable laws and understandings 
+           which were part of human society for millennia, preached by the older philosophers and social reformers 
+           and those from true modern philosophers and those from us.
+           </p>
+
+           <p>
+           Our logo has the cat because cats are gentle, observant, careful, empathetic, social, 
+           loving, sensitive, clean, beautiful, extremely intelligent, wise, loyal, sweet natured, 
+           graceful, robust, independent, proud, consider themselves equal to humans 
+           and create good vibes wherever they go. These qualities we desire in all 
+           of the human society going into the kosmos and on Earth.
+          </p>
           
         </div>
       `;

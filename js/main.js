@@ -642,7 +642,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             </p>
 
             <p>
-            We must ask, was Buddha a high-marks student because of which he made his realizations ?
+            We must ask, was Buddha a high-marks student because of which he made his humanist realizations ?
             In that case why are the hundreds of millions of high-marks students not making those realizations now 
             2500 years after Buddha and they maintain a personality of cruelty and mediocre intelligence ? 
             We must ask, was it high exam marks which made the Frenchman Henri Giffard fly the first powered and steerable airship in 1852 ? 
@@ -654,15 +654,18 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             with each other so that in the exams they can have more exam marks than the other. 
             Their friendship then is not true friendship and this fact becomes more apparent when 
             some student suicides because he or she wasn't allowed to write an exam but that student's classmates 
-            including his or her friend on the same bench, doesn't protest against the needless 
-            fact of his or her friend's suicide and doesn't call for removal of the exams system 
-            which caused the needless death of his or her friend. A system of competition doesn't create loyalty 
+            including his or her friend on the same bench, don't protest against the needless 
+            fact of their friend's suicide and don't call for removal of the exams system 
+            which caused the needless death of their friend. A system of competition doesn't create loyalty 
             and fraternity.
             </p>
+
+            <p>
+            [ To be done ]
+            </p>
             
-            <p> So it follows that education not only on Earth but in space must be natural and democratic… democratic not only 
-            in the source people but also the receiver people. In the modern world, other than paper literature, 
-            there have been three big examples of untaxed and for-all education and collaboration systems : one the Open Source Computing movement, 
+            <p> In the modern world, other than paper literature, there have been three big examples of untaxed 
+            and for-all education and collaboration systems : one the Open Source Computing movement, 
             second the Wikipedia and third the Khan Academy. These examples should be continued in the exploration and settlement of 
             space.
             </p>

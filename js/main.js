@@ -137,7 +137,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
          -----
          </p>
 
-         <h1> Introduction to this chapter</p>
+         <h3> Introduction to this chapter</h3>
          
             <p> 
             We present a draft of a progressive pan-humanist manifesto for the kosmos 

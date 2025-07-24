@@ -813,11 +813,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <h2>"Space law"</h2>
 
             <p>
-            There are some currently space-faring nations who have entire institutes dedicated 
+            There are some currently space-faring nations who have entire organizations dedicated 
             to take their needlessly complicated feudalism-based national legal systems into space and they misguidedly 
             desire to use these laws to take the kosmos / space exclusively for their own political blocs including for their 
             feudalist commercial corporations who see space as another resource to profit from and exploit their workers. 
-            The UNOOSA also unfortunately supports such activity. However, there is no need for these complicated "space laws" 
+            The UNOOSA unfortunately supports such activity. However, there is no need for these complicated "space laws" 
             when every nation can agree on a pan-humanist and collectively beneficial manifesto for the kosmos 
             which non-profit organizations like us present.
             </p>
@@ -826,13 +826,13 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>The space experiences including the Mirkeen-01 base and our Space machines will provide 
             derivations for city design for Earth and its transportation. This effort will consist of designing 
-            large and small cities which are aesthetic, scientifically-built, citizen-managed through participatory democracy, 
-            humanist, largely food-wise self-sufficient, largely employment-wise self-sufficient and gentle, 
-            built to take the pressure off current chaotic cities and also bring reasonable city culture to rural 
-            people. The public transportation system will be built around our Ra-E buses, bicycle lanes 
-            and footpaths. The only personal vehicles allowed will be pedal-only bicycles. The 
-            gentleness in these cities will also come from creating a safe and comfy environment for cats 
-            to prosper. </p>
+            large and small cities which are aesthetic, clean, scientifically-built, citizen-managed through participatory democracy 
+            ( which is true democracy ), humanist, largely food-wise self-sufficient, largely employment-wise self-sufficient, gentle. 
+            These new cities will take the pressure off current chaotic cities and also bring reasonable city culture to rural 
+            people because generally great ideas, discussions and developments happen in the cities. The public transportation system 
+            in these new cities will be built around our Ra-E buses, bicycle lanes and footpaths. 
+            The only personal vehicles allowed will be pedal-only bicycles. The gentleness in these cities will also come from 
+            creating a safe and comfy environment for cats to prosper. </p>
 
             <p>
             First here we will speak of intra-city and inter-city public transportation in detail.
@@ -930,12 +930,13 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Then is the case of the modern fashion of the new-pseudo-rich middle class in 
             some societies going on long motorcycle trips including to serene and pristine 
             nature spots and creating disharmony and pollution there. Sometimes there is an entire 
-            gang of such moto trippers. An unfortunate effect is some women riding these heavy 
+            gang of such motorcycle trippers. An unfortunate effect is some women riding these heavy 
             long-distance trip motorcycles where in their misguided understanding they have achieved 
-            empancipation by riding these heavy motorcycles on long trips because only men used to 
-            do this earlier. However, when these women return from their heavy-motorcycle-riding trips 
-            they return to societies which remained unchanged for them as women. Additionally, 
-            these women lose their feminineness by riding these heavy motorcycles.
+            gender emancipation by riding these heavy motorcycles on long trips because only men used to 
+            do this earlier. However, not only should men not ride these cringey heavy motorcycles but when 
+            these women return from their heavy-motorcycle-riding trips they return to societies which 
+            remain unchanged for them as women. Additionally, these women lose their feminineness by riding 
+            these heavy motorcycles.
             </p>
 
             <p>
@@ -1616,7 +1617,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             </p>
 
             <p>
-            Our logo has the cat because cats are gentle, observant, careful, empathetic, social, loving, sensitive, extremely beautiful, 
+            Our logo has the cat because cats are gentle, observant, careful, empathetic, social, loving, sensitive, clean, extremely beautiful, 
             extremely intelligent, wise, extremely loyal, sweet natured, graceful, robust, independent, proud, consider themselves equal to humans 
             and create good vibes wherever they go. These qualities we desire in all of the human society going into the kosmos 
             and on Earth.

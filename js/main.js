@@ -1570,6 +1570,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
+      
       // 07. Why contact us
     } else if (chapter === 'whycontactus') {
       modalText.innerHTML = `
@@ -1682,7 +1683,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <div style="color:#FFFFc5;font-size:1.1em;">
             
             <p><span>&gt;&gt;</span> 
-            If you want to invest funding and other resources in us.
+            If you want to invest funding in us.
             </p>
             
             <p><span>&gt;&gt;</span> 
@@ -1824,7 +1825,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <h2>Info for investors</h2> 
             
             <p>
-            You can be a government or private investor, investing money and other resources in us
+            You can be a government or private investor, investing money in us 
             so that we will be able to produce our prototypes and license them out 
             to governments. Your return on investment will be share from our license fee 
             we ask from the manufacturer governments. Once you invest in us for the first time 
@@ -1853,16 +1854,19 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p>
             In the coming five to six years we will be able to license out to you the package 
-            of an entire human space program with all its associated systems at a reasonably cheap
+            of an entire human space program with all its associated systems at a reasonably cheap 
             license fee. You can contact us to watch the demonstrations of our prototypes. The license fee 
             includes product designs, engineering details, training, continued on-site and telecom help 
             by our company co-workers and continued development by us to improve our products. 
             We will provide you the means to create a cheap and simple human space program 
             so that potentially every citizen of yours can go to space and live in space 
-            and you can charge them a minimal fee or ideally no fees. Because space technology 
-            involves sciences of all kinds, our systems will also help evolve your Earthen nation 
-            to become a highly advanced society not only technologically but socially a cleaner, 
-            harmonious, serene, equal, just and collectively prosperous society.
+            and you can charge them a minimal fee or ideally no fees.
+            </p>
+            
+            <p>
+            Because space technology involves sciences of all kinds, our systems will also help 
+            evolve your Earthen nation to become a highly advanced society not only technologically 
+            but socially a cleaner, harmonious, serene, equal, just and collectively prosperous society.
             </p>
             
             <p>
@@ -1874,8 +1878,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <h2>Info for organizational collaborators</h2>
 
             <p>
-            You are collaborate with us both for technological collaboration and
-            to become our equipment supplier.
+            You are collaborate with us both for technological collaboration and 
+            to become our equipment supplier. Have a read of our other pages and inform us 
+            how you can help us or what you can supply to us.
             </p>
 
             <h2>You as our co-worker</h2> 

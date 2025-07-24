@@ -1897,7 +1897,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
           <p>
           We credit the following people who are not part of our organization but have helped us either in person 
-          or by their ideas and works we found on the internet.
+          or by their ideas and works we found on the internet :
           </p>
         
             <p><span>&gt;&gt;</span> Vikram for the logo, the website design and for provoking the thought in Sameer to have this Credits page.</p>
@@ -1923,8 +1923,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             This song is in the Bengali and Hindi languages and is a celebration of two past South Asian humanitarian mystics, 
             Lalon Fakir and Kabir Das, and calls for unity of humans because they all are the waters from the
             same well except for some differences in the vessels which then contain the waters. 
-            The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ] 
-            and there are other nice songs there.
+            The song is available on YouTube on this page [ <a href="https://www.youtube.com/watch?v=L-arhlgPiy8" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-arhlgPiy8</a> ].
             </p>
              
             <p><span>&gt;&gt;</span> Rabindranath Tagore for his essay that speaks against Nationalism. The essay can be

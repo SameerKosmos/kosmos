@@ -1257,7 +1257,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <h2>The techno-social restrictions coming together</h2>
             
             <p style='margin-bottom:1em;'>So all this hurry-burry and artificial glamor of 
-            the current space industry is pointless in the end for the at least 100,000 other 
+            the current space industry is pointless in the end for the at least million other 
             desirers of space travel who will never leave Earth and the very rich owners of most 
             current space agencies will keep profiting from this hurry-burry and from the 
             complicated, expensive and unsafe current launch systems yet the ordinary desirers 

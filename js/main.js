@@ -54,8 +54,17 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
               
           </style>
-          <h2> Manifesto for the kosmos - Table of contents</h2>
+          <h2> Our manifesto for the kosmos</h2>
           <div>
+
+          <p>
+          -----
+          </p>
+
+          <p>
+          Table of contents :
+          </p>
+           
           <p>
           01. The universe and human nations on Earth.
           </p>
@@ -2110,7 +2119,79 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
 
           </style>
+
+          <h2> Our techno projects</h2>
+          
           <div>
+          
+          <p>
+          -----
+          </p>
+          
+          <p>
+          Table of contents :
+          </p>
+
+          <p>
+          01. Faradn electricity generator.
+          </p>
+
+          <p>
+          02. The Alef-A airship-spaceship.
+          </p>
+
+          <p>
+          03. The Alef-F space ferry.
+          </p>
+
+          <p>
+          04. About both Alef-A and Alef-F spaceships.
+          </p>
+
+          <p>
+          05. Ra-H hovercraft-wheelcraft-aircraft.
+          </p>
+
+          <p>
+          06. A spacesuit called Stillsuit.
+          </p>
+
+          <p>
+          07. Dune Buk wearable computer.
+          </p>
+
+          <p>
+          08. Exoskeleton.
+          </p>
+
+          <p>
+          09. Biology researches.
+          </p>
+          
+          <p>
+          10. Machines for water.
+          </p>
+
+          <p>
+          11. Habitat construction on other worlds.
+          </p>
+                    
+          <p>
+          12. Serf autonomous satellite for Earth orbit debris cleaning.
+          </p>
+
+          <p>
+          13. Terraforming.
+          </p>
+
+          <p>
+          14. To the stars.
+          </p>
+
+          <p>
+          -----
+          </p>
+                    
             <h2>Faradn electricity generator</h2>
             
             <p>Advancement in electricity generation is not to make the generators huge, 
@@ -2610,7 +2691,21 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             The raw material matter can be asteroid rock etc. This will remove the need for a lot of mineral processing factories
             and their attendant pollution and human physical labor.
             </p>
-             
+
+            <h2> Machines for water which include</h2>
+            
+            <p>
+            <span> >> </span> Portable extractors of water from ice, open water, soil and air.
+            </p>
+
+            <p>
+            <span> >> </span> Water purifiers.
+            </p>
+
+            <p>
+            <span> >> </span> Electrolysis machines.
+            </p>
+
             <h2>Habitat construction on other worlds</h2>
 
             <p>
@@ -2657,21 +2752,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p>
             <span>(i).</span> All this construction has to be aesthetic. No need to discard aesthetics just because we
             are in space. Form and function, both are important.
-            </p>
-
-            <h2> Machines for water which include</h2>
-            
-            <p>
-            <span> >> </span> Portable extractors of water from ice, open water and air.
-            </p>
-
-            <p>
-            <span> >> </span> Water purifiers.
-            </p>
-
-            <p>
-            <span> >> </span> Electrolysis machines.
-            </p>
+            </p>         
             
             <h2>Serf autonomous satellite for Earth orbit debris cleaning</h2>  
             

@@ -862,9 +862,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             About Climate Change, there are regular COP summits of world leaders to supposedly discuss 
             Climate Change but these are mainly wine and dine events with vague promises of reduction of Climate Change 
             instead of discussion about immediate beginning of reversal of Climate Change. 
-            The activist Greta Thunberg noted about that COP26 conference in 2021 that it was a "Greenwash". 
-            The biggest culprit which Climate Change is the personal motor vehicles industry 
-            but the COP conferences don't address this.
+            The activist Greta Thunberg noted about that COP26 conference in Glasgow in 2021 
+            that it was a failure and a "Greenwash" and that many of the participating leaders 
+            profit from the destruction of Earth's ecosystem. The simple realization is that the biggest culprit 
+            which Climate Change is the personal motor vehicles industry but the COP conferences don't address this.
             </p>
 
             <p>

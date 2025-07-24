@@ -54,8 +54,76 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
               
           </style>
-          <h2> Manifesto for the kosmos</h2>
+          <h2> Manifesto for the kosmos - Table of contents</h2>
           <div>
+          <p>
+          01. The universe and human nations on Earth.
+          </p>
+
+          <p>
+          02. Natural equality in accessing space and living in space.
+          </p>
+
+          <p>
+          03. Social organization in space travel and space living.
+          </p>
+
+          <p>
+          04. Tea and Space.
+          </p>
+          
+           <p>
+           05. Appearance and personality of the space travellers.
+          </p>
+
+           <p>
+           06. Effects of greatly increased human life.
+          </p>
+
+           <p>
+           07. Family system in space.
+          </p>
+
+           <p>
+           08. Sports and recreation in space.
+          </p>
+
+           <p>
+           09. Human language in space.
+          </p>
+
+           <p>
+           10. Education in space.
+          </p>
+
+           <p>
+           11. Basis of satellite design.
+          </p>
+
+           <p>
+           12. Mining in space.
+          </p>
+
+           <p>
+           13. Project Mirkeen-01.
+          </p>
+
+          <p>
+          14. Meetings or sightings of aliens.
+          </p>
+
+          <p>
+          15. "Space law".
+          </p>
+
+          <p>
+          16. City design and city reconfiguration on Earth.
+          </p>
+
+         <p>
+         -----
+         </p>
+         
             <p> 
             We present a draft of a progressive pan-humanist manifesto for the kosmos 
             i.e. for all humans going and living in the universe / space and hopefully this manifesto 

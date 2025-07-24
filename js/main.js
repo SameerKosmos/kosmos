@@ -886,7 +886,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>The space experiences including the Mirkeen-01 base and our Space machines will provide 
             derivations for city design for Earth and its transportation. This effort will consist of designing 
-            large and small cities which are aesthetic; clean; scientifically-built, citizen-managed through participatory democracy 
+            large and small cities which are aesthetic; clean; scientifically-built; citizen-managed through participatory democracy 
             ( which is true democracy ) by using the concept of Workers Cooperatives; humanist; largely food-wise self-sufficient;
             largely employment-wise self-sufficient; gentle. These new cities will take the pressure off current chaotic cities and 
             also bring reasonable city culture to rural people because generally great ideas, discussions and developments happen in the cities. 

@@ -1088,9 +1088,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           </style>
           <div style="color:##FFFFc5;font-size:1.1em;font-family:Roboto,sans-serif;">
            
-            <h2>The disappointed 100,000 people desiring space travel</h2>
+            <h2>The disappointed million people desiring space travel</h2>
             
-            <p>Now in 2025 there must be at least 100,000 people in the world desiring to go to space 
+            <p>Now in 2025 there must be at least one million people in the world desiring to go to space 
             right now for the below reasons :</p>
             
             <ul style='margin-bottom:1em;'>

@@ -381,10 +381,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             </p>
             
             <p style="margin-left:1em; margin-bottom:10px";> 
-            <span>(j).</span> The need for a workers union in not necessary now because the 
-            company no longer is divided into bosses and workers where the workers have to agitate 
-            for their rights. With the Workers Cooperative the workers own the company and there no longer 
-            are the bosses of the past. If any worker i.e. co-owner of the company has issues, 
+            <span>(j).</span> The need for a workers union now becomes not necessary because the 
+            company is no longer divided into bosses and workers where the workers have to agitate 
+            for their rights. With the Workers Cooperative concept all the workers equally own the company 
+            and there no longer are the bosses of the past. If any worker i.e. co-owner of the company has issues, 
             he or she can directly call a discussion circle.
             </p>
             
@@ -1696,7 +1696,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             "revenue guidance", "state of the art" etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
             through the far far future and that includes our co-workers being allowed to attain their fullest potential and this in a democratic way. 
             “Liberty, Equality, Fraternity” is after all one of our credos. So our company-internal organization of people 
-            employs the democratic Workers Cooperative concept which is described in the “Manifesto for the kosmos" chapter on this website 
+            employs the democratic concept of Workers Cooperative which is described in the “Manifesto for the kosmos" chapter on this website 
             in the section "Social organization in space travel and space living". Additionally in our company :
             </p>
 
@@ -1704,9 +1704,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             parts : one part for the founders ( as at the time of formal registration of the company ), the 
             second part for the investors, and the third part for any new co-workers where the founders 
             will dilute their equity equally to spread equity equally among all the workers. </p>
-
-           <p style="margin-bottom:10px;">  <span> >> </span> There will be no “boss cabin”.  </p>
-
+           
            <p style="margin-bottom:10px;"> <span> >> </span> Salary will be an equal amount for all that is comfortable for all our workers in all our 
             regions but the salary will be based on an Indian number since we will be HQed in India. </p>
 
@@ -2478,7 +2476,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             growing human organs and cat organs and entire living humans and this is important not
             only for solving diseases like blindness and kidney failure but also for populating space with
             humans and also protecting the desirable Earthen lifeforms in case of global devastations.
-            Please read more on this in the “Manifesto for the kosmos” chapter of this website.
+            Please read more on this in the “Manifesto for the kosmos” chapter on this website.
             </p>
 
             <p>

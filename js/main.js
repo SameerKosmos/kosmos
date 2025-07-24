@@ -1705,122 +1705,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p><span>&gt;&gt;</span> 
             If you are a journalist.
-            </p>
-            
-            <h2>Our founding team</h2>
-           
-             <div>
-             <img src="assets/Sameer .jpeg" 
-             alt="Mohammed Sameer" 
-             class="profile-image">
-             </div>
-
-             <p class=name> Mohammed Sameer - General Coordinator</p>
-
-             <p style="margin-bottom:4px;">
-            Sameer is originally from computing background but he considers himself a 
-            general researcher with interests ranging from generation of electricity to organization of 
-            society, like those "polymaths" of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
-            Jagadish Chandra Bose. And perhaps "Polymath" is not a proper word and must have a good replacement.
-            </p>
-            
-             <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank" rel="noopener noreferrer" class="minimal-tag">
-                <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
-                    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-                </svg>
-                Connect on LinkedIn
-            </a>
-            
-            <div>
-            <img src="assets/Gajendran photo.jpeg" 
-             alt="Gajendran Chandran" 
-             class="profile-image">
-             </div>
-
-            <p class=name> Prof. Dr. Gajendran Chandran - Chief Advisor </p>
-            
-            <p style="margin-bottom:4px;"> 
-             Dr. Gajendran is a veteran aerospace scientist but his interests are many -
-            from philosophy to nano tech to power generation and other fields in a nuanced and 
-            humanist way. He has been an advisor to Sameer for years and brings a practised, practical 
-            and also system-level thinking to the organization not only about technology but the human 
-            condition too.</p>
-             
-            <!-- Minimal Style Tag -->
-            <a href="https://in.linkedin.com/in/prof-dr-gajendran-chandran-79866320" target="_blank" rel="noopener noreferrer" class="minimal-tag">
-                <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
-                    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-                </svg>
-                Connect on LinkedIn
-            </a>
-             
-            
-            <div>
-            <img src="assets/Siddharth photo.jpeg" 
-             alt="Dr. Siddharth Dabhade" 
-             class="profile-image">
-             </div>
-
-            <p class=name> Prof. Dr. Siddharth Dabhade - Advisor </p>
-            
-            <p style="margin-bottom:4px;"> 
-            
-            Dr. Siddharth has been a patient supporter of the organization for more than 
-            two years. He joined our more little group when we didn’t have this organization and our sole 
-            project was the Kosmos microprocessor+OS. Presently, he has been an advisor in a 
-            system-level way.</p>
-
-             <!-- Minimal Style Tag -->
-           <a href="https://in.linkedin.com/in/siddharth-dabhade-a6392025" target="_blank" rel="noopener noreferrer" class="minimal-tag">
-            <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
-                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-            </svg>
-            Connect on LinkedIn
-           </a>
-           
-
-           <p style="margin-bottom:10px;"> <span> Afzal - Advisor </span>
-            Afzal is a practical person but also philosophical. He has been a patient 
-            supporter of the organization from the time it was thought up in early 2023. He contributes 
-            presently to our electricity generator project, our spaceship projects and the 
-            hovercraft-wheelcraft-aircraft project. </p>
-
-            <div>
-            <img src="assets/Mahmoud photo (1).png" 
-             alt="Mahmoud Hosny " 
-             class="profile-image">
-            </div>
-
-            <p class=name> Mahmoud Hosny - Regional Coordinator, Africa and West Asia </p>
-            
-            <p style="margin-bottom:4px;"> 
-            Mahmoud is based in Cairo and will manage liaison to the administrations and 
-            the masses in the vast regions that are Africa and West Asia. He is a straight-talking person 
-            and patient including the time it took for the organization to come to this level.  </p>
-             
-            <div>
-            <img src="assets/Athiq photo.jpeg" 
-             alt="Syed Athiq Jeelani " 
-             class="profile-image">
-            </div>
-            <p class=name> Syed Athiq Jeelani - Advisor </p>
-
-            <p style="margin-bottom:4px;"> 
-
-            Athiq dabbles in various fields like power adapter design, ready-to-cook foods 
-            and management of a school. Athiq is inquisitive, patient and provides a practical side to 
-            things. He is our electrical expert.
-
-            <!-- Minimal Style Tag -->
-            <a href="https://in.linkedin.com/in/saj-iot" target="_blank" rel="noopener noreferrer" class="minimal-tag">
-            <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
-                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
-            </svg>
-            Connect on LinkedIn
-            </a>
-            </p> 
-           
-          </div>
+            </p>                     
           
             <h2>Info for investors</h2> 
             
@@ -1949,7 +1834,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
         </div>
       `;
       modal.style.display = 'flex';
-      // 05. Credits
+      // 06. Credits
     } else if (chapter === 'credits') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -2844,8 +2729,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
       `;
       modal.style.display = 'flex';
 
-            // 06. Our name and logo
-    } else if (chapter === 'nameandlogo') {
+            // 05. Our founders
+    } else if (chapter === 'founders') {
       modalText.innerHTML = `
         <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
           <style>
@@ -2889,6 +2774,122 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               }
 
           </style>
+
+          <h2>Our founding team</h2>
+           
+             <div>
+             <img src="assets/Sameer .jpeg" 
+             alt="Mohammed Sameer" 
+             class="profile-image">
+             </div>
+
+             <p class=name> Mohammed Sameer - General Coordinator</p>
+
+             <p style="margin-bottom:4px;">
+            Sameer is originally from computing background but he considers himself a 
+            general researcher with interests ranging from generation of electricity to organization of 
+            society, like those "polymaths" of old like Hasan Ibn al-Haytham, Leonardo da Vinci and 
+            Jagadish Chandra Bose. And perhaps "Polymath" is not a proper word and must have a good replacement.
+            </p>
+            
+             <a href="https://linkedin.com/in/sameer-kosmos-society" target="_blank" rel="noopener noreferrer" class="minimal-tag">
+                <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
+                    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                </svg>
+                Connect on LinkedIn
+            </a>
+            
+            <div>
+            <img src="assets/Gajendran photo.jpeg" 
+             alt="Gajendran Chandran" 
+             class="profile-image">
+             </div>
+
+            <p class=name> Prof. Dr. Gajendran Chandran - Chief Advisor </p>
+            
+            <p style="margin-bottom:4px;"> 
+             Dr. Gajendran is a veteran aerospace scientist but his interests are many -
+            from philosophy to nano tech to power generation and other fields in a nuanced and 
+            humanist way. He has been an advisor to Sameer for years and brings a practised, practical 
+            and also system-level thinking to the organization not only about technology but the human 
+            condition too.</p>
+             
+            <!-- Minimal Style Tag -->
+            <a href="https://in.linkedin.com/in/prof-dr-gajendran-chandran-79866320" target="_blank" rel="noopener noreferrer" class="minimal-tag">
+                <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
+                    <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                </svg>
+                Connect on LinkedIn
+            </a>
+             
+            
+            <div>
+            <img src="assets/Siddharth photo.jpeg" 
+             alt="Dr. Siddharth Dabhade" 
+             class="profile-image">
+             </div>
+
+            <p class=name> Prof. Dr. Siddharth Dabhade - Advisor </p>
+            
+            <p style="margin-bottom:4px;"> 
+            
+            Dr. Siddharth has been a patient supporter of the organization for more than 
+            two years. He joined our more little group when we didn’t have this organization and our sole 
+            project was the Kosmos microprocessor+OS. Presently, he has been an advisor in a 
+            system-level way.</p>
+
+             <!-- Minimal Style Tag -->
+           <a href="https://in.linkedin.com/in/siddharth-dabhade-a6392025" target="_blank" rel="noopener noreferrer" class="minimal-tag">
+            <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
+                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+            </svg>
+            Connect on LinkedIn
+           </a>
+           
+
+           <p style="margin-bottom:10px;"> <span> Afzal - Advisor </span>
+            Afzal is a practical person but also philosophical. He has been a patient 
+            supporter of the organization from the time it was thought up in early 2023. He contributes 
+            presently to our electricity generator project, our spaceship projects and the 
+            hovercraft-wheelcraft-aircraft project. </p>
+
+            <div>
+            <img src="assets/Mahmoud photo (1).png" 
+             alt="Mahmoud Hosny " 
+             class="profile-image">
+            </div>
+
+            <p class=name> Mahmoud Hosny - Regional Coordinator, Africa and West Asia </p>
+            
+            <p style="margin-bottom:4px;"> 
+            Mahmoud is based in Cairo and will manage liaison to the administrations and 
+            the masses in the vast regions that are Africa and West Asia. He is a straight-talking person 
+            and patient including the time it took for the organization to come to this level.  </p>
+             
+            <div>
+            <img src="assets/Athiq photo.jpeg" 
+             alt="Syed Athiq Jeelani " 
+             class="profile-image">
+            </div>
+            <p class=name> Syed Athiq Jeelani - Advisor </p>
+
+            <p style="margin-bottom:4px;"> 
+
+            Athiq dabbles in various fields like power adapter design, ready-to-cook foods 
+            and management of a school. Athiq is inquisitive, patient and provides a practical side to 
+            things. He is our electrical expert.
+
+            <!-- Minimal Style Tag -->
+            <a href="https://in.linkedin.com/in/saj-iot" target="_blank" rel="noopener noreferrer" class="minimal-tag">
+            <svg class="linkedin-icon" width="16" height="16" viewBox="0 0 24 24">
+                <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+            </svg>
+            Connect on LinkedIn
+            </a>
+            </p> 
+           
+          </div>
+          
           <h2>Reasoning for our name and logo</h2>
           <div>
           

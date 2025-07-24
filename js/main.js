@@ -137,7 +137,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
          -----
          </p>
 
-         <h3> Introduction to this chapter</h3>
+         <h2> Introduction to this chapter</h2>
          
             <p> 
             We present a draft of a progressive pan-humanist manifesto for the kosmos 
@@ -165,7 +165,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Some points below are “To be done”.
             </p>
 
-            <h1>The universe and human nations on Earth</h2>
+            <h2>The universe and human nations on Earth</h2>
             
             <p>
                 The universe has existed forever, much before some human scientists and academics foolishly
@@ -334,7 +334,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             under a truly democratic framework. National boundaries are artificial but human fraternity is 
             natural.</p> 
 
-            <h1>Natural equality in accessing space and living in space</h2>
+            <h2>Natural equality in accessing space and living in space</h2>
             
             <P>The current human-transport space industry is feudal where aspiring space travelers 
             have to fit either of three categories :</P> 
@@ -521,7 +521,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Thus harmony in space and also harmony contributed on Earth when these people return to 
             Earth carrying their gentle experiences in the space Workers Cooperatives. </P>
 
-            <h1 >Tea and Space</h1>
+            <h2 >Tea and Space</h2>
 
             <p> Intoxicating substances like alcohol should not be used in the inherently risks-filled 
             environment of space, including the social mistakes people will make by such consumption 
@@ -548,19 +548,19 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p> And maybe tea grown in space may become a new variety or multiple varieties in 
             accordance with conditions in different Space locations. </p>
           
-            <h1>Appearance and personality of the space travellers</h1>
+            <h2>Appearance and personality of the space travellers</h2>
             
             <p> [ To be done ] </p>
 
-            <h1> Effects of greatly increased human life</h1>
+            <h2> Effects of greatly increased human life</h2>
             
             <p> [ To be done ] </p>
             
-            <h1> Family system in space</h1>
+            <h2> Family system in space</h2>
             
             <p> [ To be done ] </p>
 
-            <h1>Sports and recreation in space</h1>
+            <h2>Sports and recreation in space</h2>
 
             <p> These should be rational, gentle, health-building, natural, humanist and contribute to 
             harmony and collaborativeness in the risks-filled environment of Space. A system better and 
@@ -578,14 +578,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>[ To be done ] </p>
             
-            <h1>Human language in space</h1>
+            <h2>Human language in space</h2>
 
             <p> English is the most appropriate language and will be the base language in our Frema 
             internet system but provision must be there for use of other languages but with the 
             understanding that such communications must be open and translatable and pronounceable 
             by other language speakers. </p>
 
-            <h1>Education in space</h1> 
+            <h2>Education in space</h2> 
 
             <p>The purposes of education are : </p> 
 
@@ -773,7 +773,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             The medium of education must be English but also considered with regards to the birth language of that younger human. But a lot of 
             this aspect has to be developed not now but once space settlement starts in full flow. </p>
             
-            <h1>Basis of satellite design</h1>
+            <h2>Basis of satellite design</h2>
             
             <p> There should be no design of needless nano-satellites and larger satellites that are currently 
             built by every second engineering college and launched into Earth orbit by misguided launch 
@@ -788,7 +788,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Please read the section about Serf satellite in the “Techno projects” chapter on this website.
             </p>
             
-            <h1>Mining in space</h1>
+            <h2>Mining in space</h2>
             
             <p> Space belongs to no single human nation state. Space belongs to all humankind in a 
             collective sense and no nation state can endanger other humans by placing weapons of 
@@ -806,7 +806,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             collectively prosperous. It then also follows the necessity that national governments on Earth 
             will participate in such a democratic pan-humanist effort.</p>                
 
-            <h1>Project Mirkeen-01</h1>
+            <h2>Project Mirkeen-01</h2>
 
             <p> Project Mirkeen-01 will be our effort in building a humanity-uniting progressive research base 
             on the Moon ( Earth's moon ), having the name “Mirkeen-01” and to be built beginning in 2036. </p>
@@ -895,7 +895,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               increasing numbers like 02, 05, 20 and going into hexadecimal numbers like 0A, 4C and FA.
               </p>
 
-<h1> Meetings or sightings of aliens</h1>
+<h2> Meetings or sightings of aliens</h2>
             
             <p>It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
             or beyond the Solar System, whether in the form of bacteria or as plants or as more 
@@ -953,7 +953,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
            
             <p> And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.</p>
 
-            <h1>"Space law"</h1>
+            <h2>"Space law"</h2>
 
             <p>
             There are some currently space-faring nations who have entire organizations dedicated 
@@ -965,7 +965,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             which non-profit organizations like us present.
             </p>
                         
-            <h1> City design and city reconfiguration on Earth</h1>
+            <h2> City design and city reconfiguration on Earth</h2>
             
             <p>The space experiences including the Mirkeen-01 base and our Space machines will provide 
             derivations for city design for Earth and its transportation. This effort will consist of designing 
@@ -1684,7 +1684,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <div style="color:#FFFFc5;font-size:1.1em;">
 
             <p style="margin-bottom:10px;"> This page is for the benefit of investors, government space departments, 
-            companies who want to collaborate with us, companies who want to become our equipment suppliers and 
+            organizations who want to collaborate with us, organizations who want to become our equipment suppliers and 
             those who want to become our co-workers. Join us in the journey to explore the universe and evolve humanity.
             </p>
 
@@ -2075,7 +2075,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
           </style>
 
-          <h2> Our techno projects</h2>
+          <h2>Our techno projects</h2>
           
           <div>
           

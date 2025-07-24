@@ -64,74 +64,80 @@ document.querySelectorAll('.chapter-card').forEach(card => {
           <p>
           Table of contents :
           </p>
-           
+
           <p>
-          01. The universe and human nations on Earth.
+          01. Introduction to this chapter.
+          </p>
+          
+          <p>
+          02. The universe and human nations on Earth.
           </p>
 
           <p>
-          02. Natural equality in accessing space and living in space.
+          03. Natural equality in accessing space and living in space.
           </p>
 
           <p>
-          03. Social organization in space travel and space living.
+          04. Social organization in space travel and space living.
           </p>
 
           <p>
-          04. Tea and Space.
+          05. Tea and Space.
           </p>
           
            <p>
-           05. Appearance and personality of the space travellers.
+           06. Appearance and personality of the space travellers.
           </p>
 
            <p>
-           06. Effects of greatly increased human life.
+           07. Effects of greatly increased human life.
           </p>
 
            <p>
-           07. Family system in space.
+           08. Family system in space.
           </p>
 
            <p>
-           08. Sports and recreation in space.
+           09. Sports and recreation in space.
           </p>
 
            <p>
-           09. Human language in space.
+           10. Human language in space.
           </p>
 
            <p>
-           10. Education in space.
+           11. Education in space.
           </p>
 
            <p>
-           11. Basis of satellite design.
+           12. Basis of satellite design.
           </p>
 
            <p>
-           12. Mining in space.
+           13. Mining in space.
           </p>
 
            <p>
-           13. Project Mirkeen-01.
+           14. Project Mirkeen-01.
           </p>
 
           <p>
-          14. Meetings or sightings of aliens.
+          15. Meetings or sightings of aliens.
           </p>
 
           <p>
-          15. "Space law".
+          16. "Space law".
           </p>
 
           <p>
-          16. City design and city reconfiguration on Earth.
+          17. City design and city reconfiguration on Earth.
           </p>
 
          <p>
          -----
          </p>
+
+         <h1> Introduction to this chapter</p>
          
             <p> 
             We present a draft of a progressive pan-humanist manifesto for the kosmos 
@@ -159,7 +165,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Some points below are “To be done”.
             </p>
 
-            <h2>The universe and human nations on Earth</h2>
+            <h1>The universe and human nations on Earth</h2>
             
             <p>
                 The universe has existed forever, much before some human scientists and academics foolishly
@@ -328,7 +334,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             under a truly democratic framework. National boundaries are artificial but human fraternity is 
             natural.</p> 
 
-            <h2>Natural equality in accessing space and living in space</h2>
+            <h1>Natural equality in accessing space and living in space</h2>
             
             <P>The current human-transport space industry is feudal where aspiring space travelers 
             have to fit either of three categories :</P> 
@@ -515,7 +521,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Thus harmony in space and also harmony contributed on Earth when these people return to 
             Earth carrying their gentle experiences in the space Workers Cooperatives. </P>
 
-            <h2 >Tea and Space</h2>
+            <h1 >Tea and Space</h1>
 
             <p> Intoxicating substances like alcohol should not be used in the inherently risks-filled 
             environment of space, including the social mistakes people will make by such consumption 
@@ -542,19 +548,19 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p> And maybe tea grown in space may become a new variety or multiple varieties in 
             accordance with conditions in different Space locations. </p>
           
-            <h2>Appearance and personality of the space travellers</h2>
+            <h1>Appearance and personality of the space travellers</h1>
             
             <p> [ To be done ] </p>
 
-            <h2> Effects of greatly increased human life</h2>
+            <h1> Effects of greatly increased human life</h1>
             
             <p> [ To be done ] </p>
             
-            <h2> Family system in space</h2>
+            <h1> Family system in space</h1>
             
             <p> [ To be done ] </p>
 
-            <h2>Sports and recreation in space</h2>
+            <h1>Sports and recreation in space</h1>
 
             <p> These should be rational, gentle, health-building, natural, humanist and contribute to 
             harmony and collaborativeness in the risks-filled environment of Space. A system better and 
@@ -572,14 +578,14 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             
             <p>[ To be done ] </p>
             
-            <h2>Human language in space</h2>
+            <h1>Human language in space</h1>
 
             <p> English is the most appropriate language and will be the base language in our Frema 
             internet system but provision must be there for use of other languages but with the 
             understanding that such communications must be open and translatable and pronounceable 
             by other language speakers. </p>
 
-            <h2>Education in space</h2> 
+            <h1>Education in space</h1> 
 
             <p>The purposes of education are : </p> 
 
@@ -767,7 +773,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             The medium of education must be English but also considered with regards to the birth language of that younger human. But a lot of 
             this aspect has to be developed not now but once space settlement starts in full flow. </p>
             
-            <h2>Basis of satellite design</h2>
+            <h1>Basis of satellite design</h1>
             
             <p> There should be no design of needless nano-satellites and larger satellites that are currently 
             built by every second engineering college and launched into Earth orbit by misguided launch 
@@ -782,7 +788,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Please read the section about Serf satellite in the “Techno projects” chapter on this website.
             </p>
             
-            <h2>Mining in space</h2>
+            <h1>Mining in space</h1>
             
             <p> Space belongs to no single human nation state. Space belongs to all humankind in a 
             collective sense and no nation state can endanger other humans by placing weapons of 
@@ -800,7 +806,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             collectively prosperous. It then also follows the necessity that national governments on Earth 
             will participate in such a democratic pan-humanist effort.</p>                
 
-            <h2>Project Mirkeen-01</h2>
+            <h1>Project Mirkeen-01</h1>
 
             <p> Project Mirkeen-01 will be our effort in building a humanity-uniting progressive research base 
             on the Moon ( Earth's moon ), having the name “Mirkeen-01” and to be built beginning in 2036. </p>
@@ -889,7 +895,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
               increasing numbers like 02, 05, 20 and going into hexadecimal numbers like 0A, 4C and FA.
               </p>
 
-<h2> Meetings or sightings of aliens</h2>
+<h1> Meetings or sightings of aliens</h1>
             
             <p>It is not known what kinds of alien life we will encounter, whether on Red One or on Europa 
             or beyond the Solar System, whether in the form of bacteria or as plants or as more 
@@ -947,7 +953,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
            
             <p> And who knows, we may find that cats are indeed aliens as goes the internet legend, LOL.</p>
 
-            <h2>"Space law"</h2>
+            <h1>"Space law"</h1>
 
             <p>
             There are some currently space-faring nations who have entire organizations dedicated 
@@ -959,7 +965,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             which non-profit organizations like us present.
             </p>
                         
-            <h2> City design and city reconfiguration on Earth</h2>
+            <h1> City design and city reconfiguration on Earth</h1>
             
             <p>The space experiences including the Mirkeen-01 base and our Space machines will provide 
             derivations for city design for Earth and its transportation. This effort will consist of designing 
@@ -1128,7 +1134,10 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             <p> But these are artificial and avoidable problems so they can be solved, at least starting with 
             acknowledging that part of these problems exist because of the existence of personal vehicles 
             and will be solved with the simple act of abolishing personal vehicles with the exception of the simple pedal bicycle. 
-            And these personal vehicles must be replaced with public mass transport vehicles which are not only 
+            Sometimes the problems are social so the solutions must be social but also must be supplemented with 
+            technological solutions. The act of abolishing personal vehicles is social and our organization 
+            will provide the technological solution to supplement this social act. So the few billion personal vehicles 
+            that are abolished must be replaced with a few hundred thousand public mass transport vehicles which are not only 
             cheaper to build, not only provide a universal solution, not only are aesthetic but also are 
             electric in an eco-friendly way to enable a sustainable and social-equality-bringing public transportation mechanism 
             all over Earth.
@@ -1138,7 +1147,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             Our solution is our Ra-E bus which is a hybrid vehicle of 
             hovercraft-wheelcraft-aircraft type, deriving from our used-in-space Ra-H vehicle,
             and each Ra-E will carry 15 passengers and a few hundred thousand of our Ra-E buses combined all over Earth 
-            will resolve all those listed transportation-related direct problems and indirect 
+            will resolve all those above listed transportation-related direct problems and indirect 
             problems.
             </p>
 
@@ -1147,7 +1156,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             on the current roads but switching to wheelcraft mode on hilly roads. For inter-city travel 
             the Ra-E buses will turn on aircraft mode and follow the current highways or 
             travel across open land. All this travel of the Ra-E buses will be guided by 
-            control centers and vehicle-2-vehicle communications between the Ra-Es.
+            control centers and vehicle-to-vehicle communications ( v2v ) between the Ra-Es.
             </p>
                       
             <p> Another advantage of Ra-E buses will be preventing the need to build a large number of 

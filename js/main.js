@@ -332,52 +332,56 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p>So the organization of work groups in space should be democratic and that is easily done by 
             organizing them as Workers Cooperatives. The idea of Workers Cooperative has association 
-            with the older ideas of liberty, equality and fraternity. <br> A Workers Cooperative has nine 
+            with the older ideas of liberty, equality and fraternity. <br> A Workers Cooperative has ten  
             general outcomes :</p>
 
             <p style="margin-left:1em; margin-bottom:10px";> 
             <span>(a).</span> It is all the workers who directly own and manage an organization and equally divide 
-            amongst themselves any money income. 
+            amongst themselves any money income.
             </p>
-
+            
             <p style="margin-left:1em; margin-bottom:10px";> 
             <span>(b).</span> There is no feudal boss and no subordinate… all the workers are equal co-workers in 
             respect, right to participate in the organization’s decisions, voluntary idea giving and 
             cross-team idea giving. Any worker can call a discussion circle for a complaint, issue raising 
-            or idea suggestion, and the other workers must listen and participate. 
+            or idea suggestion, and the other workers must listen and participate.
             </p>
 
+            <p style="margin-left:1em; margin-bottom:10px";> <span>(c).</span> All involved in the organization are “co-workers” 
+            and not “workers” or "employees".
+            </p>
+            
             <p style="margin-left:1em; margin-bottom:10px";> 
-           <span>(c).</span> There will be a natural tendency to not have a “boss cabin”.</p>
+           <span>(d).</span> There will be a natural tendency to not have a “boss cabin”.</p>
 
             <p style="margin-left:1em; margin-bottom:10px";> 
-            <span>(d).</span> Worker loyalty towards the organization is high because the worker is given due respect 
+            <span>(e).</span> Worker loyalty towards the organization is high because the worker is given due respect 
             as an individual human with feelings, personality, concerns and potential.
              </p>
 
             <p style="margin-left:1em; margin-bottom:10px";> 
-            <span>(e).</span> Every worker has to be accepting of internal critique but will have the right to defend 
+            <span>(f).</span> Every worker has to be accepting of internal critique but will have the right to defend 
             themselves. 
             </p>
 
             <p style="margin-left:1em; margin-bottom:10px";> 
-            <span>(f).</span> Efficiency and production variety of the organization is greatly increased because of the 
+            <span>(g).</span> Efficiency and production variety of the organization is greatly increased because of the 
             diversity of useful ideas, skills and experiences from the various volunteering workers.
             </p>
  
             <p style="margin-left:1em; margin-bottom:10px";> 
-            <span>(g).</span> The collective human society composed of Workers Cooperatives, whether on Earth or 
+            <span>(h).</span> The collective human society composed of Workers Cooperatives, whether on Earth or 
             in space, becomes an actually developed, gentle, evolved, harmonious and prosperous 
             society. As smile-bringing as the city of Istanbul with cats everywhere.</p>
 
             <p style="margin-left:1em; margin-bottom:10px";> 
-            <span>(h).</span> The existence of a Workers Cooperative doesn’t depend on if the economic system 
+            <span>(i).</span> The existence of a Workers Cooperative doesn’t depend on if the economic system 
             works with money system or money has been abolished. The Workers Cooperative concept 
             is efficient in both situations. 
             </p>
             
             <p style="margin-left:1em; margin-bottom:10px";> 
-            <span>(i).</span> The need for a workers union in not necessary now because the 
+            <span>(j).</span> The need for a workers union in not necessary now because the 
             company no longer is divided into bosses and workers where the workers have to agitate 
             for their rights. With the Workers Cooperative the workers own the company and there no longer 
             are the bosses of the past. If any worker i.e. co-owner of the company has issues, 
@@ -1690,12 +1694,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             fashionable and senseless technologies and uses senseless corporate lingo in every 
             sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence”, 
             "revenue guidance", "state of the art" etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
-            through the far far future and that includes our co-workers ( “co-workers” and not “workers” or "employees" ) 
-            being allowed to attain their fullest potential and this in a democratic way. “Liberty, Equality, 
-            Fraternity” is after all one of our credos. So our company-internal organization of people 
-            employs the Workers Cooperative concept which is described in the “Manifesto for the kosmos"
-            chapter on this website. Please read that chapter and return to this point. Additionally in our 
-            company : </p>
+            through the far far future and that includes our co-workers being allowed to attain their fullest potential and this in a democratic way. 
+            “Liberty, Equality, Fraternity” is after all one of our credos. So our company-internal organization of people 
+            employs the democratic Workers Cooperative concept which is described in the “Manifesto for the kosmos" chapter on this website 
+            in the section "Social organization in space travel and space living". Additionally in our company :
+            </p>
 
             <p style="margin-bottom:10px;"> <span> >> </span> For the sake of current company formation rules the company equity is divided in three 
             parts : one part for the founders ( as at the time of formal registration of the company ), the 

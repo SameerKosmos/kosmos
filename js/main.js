@@ -1766,6 +1766,11 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
            <p style="margin-bottom:10px;"> <span> >> </span> The organization is arranged as a set of work groups which will be for the various 
             research groups and maintenance groups. </p>
+            
+            <p style="margin-bottom:10px;"> <span> >> </span> The industry of space travel is a permanent one and involves science of every kind except 
+            for sciences with no real basis in a simplified, non-trend-following and democracy-oriented 
+            organization, so with us you will be in permanent employment. You will have a comfortable 
+            salary as long as the system of money remains. </p>
 
             <p style="margin-bottom:10px;"> <span> >> </span> The organization will be headed by a General Coordinator ( GC ) who for some years to 
             come will be Sameer who is described just below. The General Coordinator will be 
@@ -1774,14 +1779,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             to the GC. Further, each of our branches in other countries or regions ( those not India ) will 
             have a Regional Coordinator. </p>
 
-            <p style="margin-bottom:10px;"> The industry of space travel is a permanent one and involves science of every kind except 
-            for sciences with no real basis in a simplified, non-trend-following and democracy-oriented 
-            organization, so with us you will be in permanent employment. You will have a comfortable 
-            salary as long as the system of money remains. </p>
-
-           <p style="margin-bottom:10px;"> Please note that we are just starting out so it will be some time before you start getting 
-            salary and we all get salaries so please be patient and look at the big picture and the long 
-            term. </p>
+           <p style="margin-bottom:10px;"> <span> >> </span> Please note that we are just starting out 
+           so it will be some time before you start getting salary and we all get salaries so please be patient 
+           and look at the big picture and the long term. </p>
 
             <h2>Our founding team</h2>
            

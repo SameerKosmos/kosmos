@@ -1435,80 +1435,15 @@ document.querySelectorAll('.chapter-card').forEach(card => {
                         
             <p style='margin-bottom:1em;'>Most of our systems will be usable on Earth either directly 
             or in derivation, and all our systems will be simplified, manufacturable cheaply, operable
-             cheaply and repairable cheaply, and the manufacturers will be national governments who will
-              purchase from us the designs and engineering details of our systems for a reasonably cheap 
-              license fee and they will be able to set up factories in their own countries to produce our 
-              systems. Once these systems are built by the governments they should charge the masses minimal fees 
-              or no fees at all for personal ownership of some of these systems ( say our wearable computer ) 
-               or when being passengers ( say on our spaceships ) or when living in space habitats. 
-               For example, an individual’s trip to the Moon should have a max seat price of 100 dollars 
-               or ideally free.</p>
-            
-            <h2>Our systems include :</h2>
-            
-            <ul>
-              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A compact, non-nuclear,
-               simple and self-sustaining electricity generator called Faradn which will power all 
-               our smaller machines and not-smaller machines by being installed within them or just 
-               outside them. This is decentralized electricity generation instead of the current centralized 
-               methods.</li>
-
-              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A reusable space-going airship called 
-              Alef-A which will be our ascent / descent system on worlds and it will also be the means to 
-              travel short distances in space like Earth to Moon. This airship will be lifted in atmosphere
-               worlds by helium gas and hot air and will use three eco-friendly and sustainable propulsion 
-               methods : electric rotors, coal combustion, water steam jets. “World ascent / descent” can mean
-                for an air-filled space object ( Earth, perhaps Titan, etc ) or an airless space object 
-                ( Moon, large asteroids, etc ). The cargo can be humans and goods. The Alef-A airship-spaceship 
-                 will be shaped like an upside-down teacup without the handle. The first full version will be 
-                 able to carry 20 humans to the Moon in 2035.</li>
-
-              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A large in-space 
-              long-distance ferry called Alef-F which will be large enough to carry five Alef-A crafts 
-              and a hundred humans and a hundred tons of other cargo and will be propelled primarily by 
-              water steam jets. This ferry will be able to travel throughout the Inner Solar System and the
-               Outer Solar System and will always be in space, never to descend on any world.</li>
-
-              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A hybrid vehicle 
-              called Ra-H which will be a combination of hovercraft, wheelcraft and aircraft, able to 
-              carry humans and small cargo and to be used on the surface and air of air-having space 
-              bodies such as Red One ( Mars ) and Titan, and the surface of larger airless space bodies 
-              such as the Moon and asteroids. In aircraft mode it will use electric rotors and coal
-               combustion depending on the situation and will allow for vertical takeoff and landing 
-               ( VTOL ). Each Ra-H will carry three non-suited people in a pressurized cabin. A single 
-                Ra-H will be carried down to those worlds by a Alef-A craft.</li>
-
-              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A spacesuit called
-               Stillsuit with short-distance flying ability. The suit will be a hard suit and will use 
-               bio-mimicry for self-sealing in case of punctures. The suit will have a water system to 
-               recycle water from sweat and urine, and facility to collect defecation and render 
-               it non-smelly and non-toxic. Also will be other conveniences like a simple mechanical 
-               system to scratch all of the face and dab it of sweat and tears.</li>
-
-              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> A wearable computer 
-              called Dune Buk which will be operable in space conditions. It will be worn on the back of 
-              the upper arm and will use novel methods for computation, electromagnetic frequency 
-              reception, data storage and projected-display system where sound will play a major role. 
-              The file system will be non-hierarchical and categories-recording. The networking system 
-              is called Frema. This computer will be aesthetic for the stylish person and will be wearable 
-              on all kinds of clothing including factory clothes and the Stillsuit spacesuit.</li>
-
-              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Space habitation 
-              construction.</li>
-
-              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Engineered biology 
-              researches for food production, human body tolerance for space conditions, mining and 
-              other things.</li>
-
-              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> An autonomous 
-              satellite called Serf to clear Earth orbit from the satellite debris and other space 
-              debris which are currently polluting Earth orbit and may soon make human journey through 
-              Earth orbit very dangerous because of risk of these debris crashing into their spaceships.</li>
-             
-              <li style="margin-left:1em; margin-bottom:10px;"><span>&gt;&gt;</span> Our progressive pan-human 
-              manifesto for the kosmos.</li>
-        <!-- close button logic moved out of template string -->
-            </ul>
+            cheaply and repairable cheaply, and the manufacturers will be national governments who will
+            purchase from us the designs and engineering details of our systems for a reasonably cheap 
+            license fee and they will be able to set up factories in their own countries to produce our 
+            systems. Once these systems are built by the governments they should charge the masses minimal fees 
+            or no fees at all for personal ownership of some of these systems ( say our wearable computer ) 
+            or when being passengers ( say on our spaceships ) or when living in space habitats. 
+            For example, an individual’s trip to the Moon should have a max seat price of 100 dollars 
+            or ideally free.</p>
+                        
             <p style='margin-bottom:1em;'>To start our journey to space, by 2031 two people will go to Low Earth Orbit in 
             our Alef-A airship-spaceship, orbit Earth and return gently through the atmosphere 
             by powered craft re-entry to the launch place.</p>

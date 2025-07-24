@@ -1611,9 +1611,9 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
             <p>
             Our logo has the cat because cats are gentle, observant, careful, empathetic, social, loving, sensitive, extremely beautiful, 
-            extremely intelligent, extremely loyal, sweet natured, graceful, robust, independent, proud, consider themselves equal to humans 
+            extremely intelligent, wise, extremely loyal, sweet natured, graceful, robust, independent, proud, consider themselves equal to humans 
             and create good vibes wherever they go. These qualities we desire in all of the human society going into the kosmos 
-            and also on Earth.
+            and on Earth.
             </p>
 
             <p>
@@ -1680,8 +1680,8 @@ document.querySelectorAll('.chapter-card').forEach(card => {
 
            <p style="margin-bottom:10px;"> We are not a typical profiteering and feudalist corporate organization which works on 
             fashionable and senseless technologies and uses senseless corporate lingo in every 
-            sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence”, "revenue guidance" etc ).
-            We are a techno-social organization set up to evolve humanity in multiple senses 
+            sentence ( “verticals”, “market fit”, “cost to company”, “we are letting you go”, “due diligence”, 
+            "revenue guidance", "state of the art" etc ). We are a techno-social organization set up to evolve humanity in multiple senses 
             through the far far future and that includes our co-workers ( “co-workers” and not “workers” or "employees" ) 
             being allowed to attain their fullest potential and this in a democratic way. “Liberty, Equality, 
             Fraternity” is after all one of our credos. So our company-internal organization of people 
@@ -1706,7 +1706,7 @@ document.querySelectorAll('.chapter-card').forEach(card => {
             come will be Sameer who is described just below. The General Coordinator will be 
             approachable to every worker, will be the interface within the organization and externally, 
             and every worker if necessary can arrange to call a discussion circle with a notification sent 
-            to the GC. Further, each of our branches in other countries or regions ( other than India ) will 
+            to the GC. Further, each of our branches in other countries or regions ( those not India ) will 
             have a Regional Coordinator. </p>
 
             <p style="margin-bottom:10px;"> The industry of space travel is a permanent one and involves science of every kind except 

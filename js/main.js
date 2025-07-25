@@ -2327,9 +2327,9 @@ modalText.innerHTML = `
            
            <p>Advancement then in electricity generation is to make generators simple, compact, 
            safe and decentralized, where the generator sits within the small and large machines 
-           needing electricity or just outside them Making generators compact will also enable 
+           needing electricity or just outside them. Making generators compact will also enable 
            redundancy, easy replacement and easy placement in any place which needs electricity 
-           instead of centralized single points of failure This also contributes to democracy 
+           instead of centralized single points of failure. This also contributes to democracy 
            where the individual user freely owns the electricity generation mechanism and its 
            produced electricity.</p>
            

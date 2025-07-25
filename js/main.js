@@ -1227,11 +1227,11 @@ modalText.innerHTML = `
 
            <p>
            The Ra-E bus platform can also be made into other kinds of vehicles like ambulance, public 
-           security vehicle, garbage collection vehicle, packages delivery vehicle, etc. Bigger versions of 
-           the "Spinner" flying police cars in the beautiful 1982 film Blade Runner where these cars fly 
-           through Los Angeles city of 2032. And these cars can descend vertically, drive on the ground 
-           and ascend vertically. We must of course negate the dystopia of that future Los Angeles with its tall buildings, 
-           biologically-enhanced slave humans, industrial towers sending fires into the night sky, congested markets 
+           security vehicle, garbage collection vehicle, packages delivery vehicle, etc. Better and bigger 
+           versions of the "Spinner" flying police cars in the beautiful 1982 film Blade Runner where these cars fly 
+           through future Los Angeles city of 2019. These cars can do VTOL and drive on the ground too. 
+           We must of course negate the dystopia of that future Los Angeles with its tall buildings, 
+           biologically-enhanced slave humans, industrial towers sending huge fires into the night sky, congested markets 
            and perpetual rain probably because of pollution-induced localized Climate Change. Below are links to 
            screenshots from Blade Runner with the Spinner flying cars :
            </p>
@@ -1257,7 +1257,7 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           We of Kosmos Society will help build better Earthen cities than that dystopian Los Angeles of 2032 
+           We of Kosmos Society will help build better Earthen cities than that dystopian Los Angeles of 2019 
            and the self-sufficiency of these cities, filled with people of scientific temper, 
            will prevent tens of thousands of needless out-of-city daily travellers, or even a few hundred thousand. 
            It will then be very few people travelling beyond their cities on a daily basis 

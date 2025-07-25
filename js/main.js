@@ -689,7 +689,8 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Furthering the above, the system of education in space should not have exams and tax and we reason this below.
+           Furthering the above, the system of education in space should not have exams, tax and should not result in 
+           the providing or not providing of employment and simple daily survival and we reason these below.
            </p>
 
            <p>

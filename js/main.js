@@ -1240,7 +1240,7 @@ modalText.innerHTML = `
            </p>
            
            <p><span>&gt;&gt;</span> 
-           If you are a government space department which wants to look at our prototypes 
+           If you are a government space department wanting to look at our prototypes 
            and purchase license for our products.
            </p>
 
@@ -1364,7 +1364,11 @@ modalText.innerHTML = `
            through the far far future and that includes our co-workers being allowed to attain their fullest potential and this in a democratic way. 
            “Liberty, Equality, Fraternity” is after all one of our credos. So our company-internal organization of people 
            employs the democratic concept of Workers Cooperative which is described in the “Manifesto for the kosmos" chapter on this website 
-           in the section "Social organization in space travel and space living". Additionally in our company :
+           in the section "Social organization in space travel and space living".
+           </p>
+
+           <p>
+           Additionally in our company :
            </p>
 
            <p style="margin-bottom:10px;"> <span> >> </span> For the sake of current company formation rules the company equity is divided in three 

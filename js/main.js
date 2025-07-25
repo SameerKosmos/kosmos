@@ -704,28 +704,30 @@ modalText.innerHTML = `
            It is the middle class and the still lower class which must participate in these daily competitions. 
            This creates low-trust societies full of aggression, injustice, inequality, crime and chaos where gentleness, 
            honesty, selflessness, empathy, innovation and evolution are discouraged. When citizens 
-           daily keep competiting with each other, they neither have time to reflect, think and innovate, 
+           daily keep competing with each other, they neither have time to reflect, think and innovate, 
            nor will they have the inclination to collaborate with fellow citizens for any 
            thoughtful thing.
            </p>
 
            <p>
            Competition greatly shows itself in the education system in many societies in form of exams. 
-           A student's progress through the education system is decided by that student's ranking in exams. 
-           This system has been there for a long time but is contradictory to Nature. All that the high marks scored by a student 
-           shows is his or her ability to memorize the textbooks and reproduce those texts in the exam in 
-           a much better way than his or her student colleagues. Exam marks do not show some student's great intelligence 
-           or the lack of intelligence. A student may simply be bored of the competition-based, non-innovative 
-           and non-empathy-teaching education in the classroom but may be exceptionally talented in painting 
-           or technology creation or may be a budding philosopher whose gentle thoughts at the age of 13 are better 
-           than an 80-year-old "elder". He or she may have ideas far superior to the school textbooks.
+           A student's progress through the education system and then into employment is decided 
+           by that student's ranking in exams. This system has been there for a long time but is contradictory to Nature. 
+           All that the high marks scored by a student shows is his or her ability to memorize the textbooks 
+           and reproduce those texts in the exam in a much better way than his or her student colleagues. 
+           Exam marks do not show some student's great intelligence or the lack of intelligence. 
+           A student may simply be bored of the competition-based, non-innovative and non-empathy-teaching education 
+           in the classroom but may be exceptionally talented in painting or technology creation or may be a budding philosopher 
+           whose gentle thoughts at the age of 13 are better than an 80-year-old "elder". 
+           He or she may have ideas far superior to the school textbooks.
            </p>
            
            <p>
-           A high-marks student scoring 600 marks out of 600 may be mediocre in real intelligence 
-           but a student who has failed in some exam may go on to create great social and technological ideas and products and companies 
+           A high-marks student scoring 600 marks out of 600 and studying in a "prestigious school" 
+           may be mediocre in real intelligence but a student who has failed in some exam in the same school 
+           may go on to create great social and technological ideas and products and companies 
            and funnily his or her student colleague who scored 600 marks out of 600 and is proud of that fact 
-           and uses that fact in arrogance and insults low-marks students, and his or her family is also proud of that fact, 
+           and uses that fact in arrogance and insults low-marks students, and his or her family being also proud of that fact, 
            this high-marks student may approach in a humble way for employment in the company started 
            by his or her former student colleague who had failed in the same exam the approacher student had stood first in.
            </p>
@@ -736,8 +738,8 @@ modalText.innerHTML = `
            In that case why are the hundreds of millions of high-marks students now not making those realizations 
            2500 years after Buddha and they instead maintain a personality of cruelty and mediocre intelligence ? 
            We must ask, was it high exam marks in a college aerospace program which made the Frenchman Henri Giffard 
-           fly the first powered and steerable airship in 1852 ? If so why are the at least 100,000 aerospace students 
-           now having high exam marks not making innovation in aircraft science but 
+           fly the first powered and steerable airship in 1852 ? If so why are 99 percent of the at least 100,000 aerospace students 
+           in the world now having high exam marks not making innovation in aircraft science but 
            are very mediocre and their only noteworthy achievement is appearing in their 
            college's yearly new-students-inviting advertisement, showing them flying 
            a typical China-made quadcopter drone and the joy on their faces as if they are the 
@@ -752,12 +754,17 @@ modalText.innerHTML = `
            including his or her friend on the same bench, don't protest against the needless 
            fact of their friend's suicide and don't call for removal of the exams system 
            which caused the needless death of their friend. A system of competition doesn't create loyalty 
-           and fraternity. So we must ask, the societies have competition in their education system 
-           and caused so many students to suicide over the years and pushed constant social survival pressure 
-           on living students because they failed to obtain the socially compulsory high exam marks, 
-           what have they achieved socially and technologically ? Especially if they continue to 
-           only use the techno systems created by people other in societies where high exam marks 
-           are not compulsory and indeed the techno creators were school dropouts ?
+           and fraternity.
+           </p>
+           
+           <p>
+           So we must ask, the societies which have competition in their education system 
+           and caused so many students to suicide over the years and pushed constant daily survival pressure 
+           on the living low-marks students because they failed to obtain the socially compulsory high exam marks, 
+           what have these societies achieved socially and technologically ? Especially if they continue to 
+           only use the techno systems created by people in other societies where high exam marks 
+           are not compulsory and indeed the techno creators were school dropouts 
+           or like Michael Faraday not even completing ten years of schooling ?
            </p>
 
            <p>
@@ -765,9 +772,9 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           In the modern world, other than paper literature, there have been three big examples of untaxed 
-           and for-all education and collaboration systems : one the Open Source Computing movement, 
-           second the Wikipedia and third the Khan Academy. These examples should be continued in the exploration and settlement of 
+           In the modern world, other than paper literature, there have been four big examples of untaxed 
+           and for-all education and collaboration systems : one the internet itself, second the Open Source Computing movement, 
+           third the Wikipedia and fourth the Khan Academy. These examples should be continued in the exploration and settlement of 
            space.
            </p>
            
@@ -2132,8 +2139,9 @@ modalText.innerHTML = `
            This we are considering for use in our Faradn electricity generator.
            </p>
 
-           <p><span>&gt;&gt;</span> The YouTube channel "Mech Marvels" for the idea about using mutually pushing magnets 
-           to generate current. The vid is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ]. 
+           <p><span>&gt;&gt;</span> The YouTube channel "Mech Marvels" for the idea about using mutually repelling magnets 
+           to generate current. This vid called "Magnets - the key to endless power ?" 
+           is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ]. 
            This we are considering for use in our Faradn electricity generator.
            </p>
 

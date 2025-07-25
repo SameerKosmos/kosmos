@@ -694,23 +694,24 @@ modalText.innerHTML = `
 
            <p>
            Competition is an enemy of harmonious society and removes dignity from a human, 
-           reducing that human to a dog who must constantly fight with other human-dogs for survival. 
-           Resources which should be naturally available for all equally without money and tax, 
-           these resources are artificially made scarce in many societies and most citizens must compete with each other daily to have a 
-           little part of the resources. Many readers will be angered at being equated to dogs 
-           but that is the real situation. This dog-eat-dog competition situation continues for generations. 
-           However, those who have established themselves as feudals, they do not participate in these 
-           daily competitions as the resources are available to them very easily, in any quantity they want. 
-           It is the middle class and the still lower class which must participate in these daily competitions. 
-           This creates low-trust societies full of aggression, injustice, inequality, crime and chaos where gentleness, 
-           honesty, selflessness, empathy, innovation and evolution are discouraged. When citizens 
-           daily keep competing with each other, they neither have time to reflect, think and innovate, 
-           nor will they have the inclination to collaborate with fellow citizens for any 
-           thoughtful thing.
+           reducing that human to very less of his or her potential, who must constantly fight 
+           with other made-sub-humans for survival. Resources which should be naturally available for all equally without tax, 
+           these resources are artificially made scarce in most societies and most citizens there 
+           must compete with each other daily to have a little part of the resources. This situation 
+           can only be called a "rat race" or "dog-eat-dog" and continues for generations. 
+           However, in these societies those who have established themselves as feudals, 
+           they do not participate in these daily competitions as the resources are available to them very easily, 
+           in any quantity they want. It is the middle class and the still lower class 
+           which must participate in these daily competitions. This creates low-trust societies full of aggression, 
+           injustice, inequality, crime and chaos where gentleness, honesty, selflessness, empathy, innovation 
+           and evolution are discouraged. When citizens daily keep competing with each other, 
+           they neither have time to reflect, think and innovate, nor will they have the inclination 
+           to collaborate with fellow citizens for any thoughtful thing. The societies become dystopia 
+           instead of utopia.
            </p>
 
            <p>
-           Competition greatly shows itself in the education system in many societies in form of exams. 
+           Competition greatly shows itself in the education system in most societies in form of exams. 
            A student's progress through the education system and then into employment is decided 
            by that student's ranking in exams. This system has been there for a long time but is contradictory to Nature. 
            All that the high marks scored by a student shows is his or her ability to memorize the textbooks 
@@ -719,7 +720,19 @@ modalText.innerHTML = `
            A student may simply be bored of the competition-based, non-innovative and non-empathy-teaching education 
            in the classroom but may be exceptionally talented in painting or technology creation or may be a budding philosopher 
            whose gentle thoughts at the age of 13 are better than an 80-year-old "elder". 
-           He or she may have ideas far superior to the school textbooks.
+           He or she may have ideas far superior to the school textbooks and to the teachers 
+           who have for 30 years been teaching those textbooks.
+           </p>
+           
+           <p>
+           The few humanist social ideas presented in the textbooks and the few simple science principles 
+           presented in the textbooks are made by the mediocre teachers to be declared "boring" by the students 
+           and no true intellectual discussions happen in the classrooms so neither the teacher becomes 
+           a true teacher nor the student comes out of the schooling system to create good ideas 
+           and technologies and forward the good ideas of the past, for example even a society's brilliant constitution 
+           created in the past by humanist philosophers and social reformers who spoke for 
+           "Liberty, Equality, Fraternity", will remain unadopted by the modern students of the classrooms 
+           who engage daily in competition and will adopt neither of those three requirements for a fulfilled human.
            </p>
            
            <p>

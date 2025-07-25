@@ -695,14 +695,14 @@ modalText.innerHTML = `
            <p>
            Competition is an enemy of harmonious society and removes dignity from a human, 
            reducing that human to very less of his or her potential, who must constantly fight 
-           with other made-sub-humans for survival. Resources which should be naturally available for all equally without tax, 
+           with other forcibly-made sub-humans for survival. Resources which should be naturally available for all equally without tax, 
            these resources are artificially made scarce in most societies and most citizens there 
            must compete with each other daily to have a little part of the resources. This situation 
            can only be called a "rat race" or "dog-eat-dog" and continues for generations. 
            However, in these societies those who have established themselves as feudals, 
            they do not participate in these daily competitions as the resources are available to them very easily, 
            in any quantity they want. It is the middle class and the still lower class 
-           which must participate in these daily competitions. This creates low-trust societies full of aggression, 
+           who must participate in these daily competitions. This creates low-trust societies full of aggression, 
            injustice, inequality, crime and chaos where gentleness, honesty, selflessness, empathy, innovation 
            and evolution are discouraged. When citizens daily keep competing with each other, 
            they neither have time to reflect, think and innovate, nor will they have the inclination 

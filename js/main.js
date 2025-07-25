@@ -1186,7 +1186,7 @@ modalText.innerHTML = `
      `;
 modal.style.display = 'flex';
 
-// 07. Why contact us
+// 07. Why you can contact us
 } else if (chapter === 'whycontactus') {
 modalText.innerHTML = `
        <div style="position:relative;padding:2em 2em 1em 2em;background:#fff;border-radius:8px;max-width:600px;margin:40px auto;max-height:400px;overflow:auto;scrollbar-width:thin;scrollbar-color:#fff #222;">
@@ -1232,34 +1232,36 @@ modalText.innerHTML = `
 
          </style>
          
-         <h2>Why you can contact us</h2>
+         <h2>Why you can contact us - Table of contents</h2>
          <div style="color:#FFFFc5;font-size:1.1em;">
            
            <p><span>&gt;&gt;</span> 
-           If you want to invest funding in us.
+           If you want to invest funds in us.
            </p>
            
            <p><span>&gt;&gt;</span> 
            If you are a government space department which wants to look at our prototypes 
-           and purchase license for our products. But we are not yet ready for licensing out 
-           as we are just starting out as a formal company and still designing most of our our products 
-           in detail. Presently we are engaging with a manufacturer to have our 
-           Faradn electricity generator prototyped.
+           and purchase license for our products.
            </p>
 
            <p><span>&gt;&gt;</span> 
-           If you are an organization which wants to collaborate with us, whether for 
-           technological collaboration or to become our equipment supplier.
+           If you are an organization which wants to collaborate with us.
            </p>
-
+           
+           <p><span>&gt;&gt;</span> 
+           If you are a journalist curious about our simplified and radical approach to take 
+           potentially any human to space, through space and enable their safe and fulfilling life in space, 
+           all this in a cheap and democratic way. And also our systems contributing to evolution 
+           of human societies on Earth including reversal of Climate Change.
+           </p>
+           
            <p><span>&gt;&gt;</span> 
            If you want to become our co-worker.
            </p>
            
-           <p><span>&gt;&gt;</span> 
-           If you are a journalist.
-           </p>
-<h2>Info for investors</h2> 
+           <h2>Info below in detail</h2>
+           
+           <h2>Info for investors</h2> 
            
            <p>
            You can be a government or private investor, investing money in us 
@@ -1292,12 +1294,12 @@ modalText.innerHTML = `
            <p>
            In the coming five to six years we will be able to license out to you the package 
            of an entire human space program with all its associated systems at a reasonably cheap 
-           license fee. You can contact us to watch the demonstrations of our prototypes. The license fee 
-           includes product designs, engineering details, training, continued on-site and telecom help 
+           license fee. You can at that point contact us to watch the demonstrations of our prototypes. 
+           The license fee includes product designs, engineering details, training, permanent on-site and telecom help 
            by our company co-workers and continued development by us to improve our products. 
            We will provide you the means to create a cheap and simple human space program 
            so that potentially every citizen of yours can go to space and live in space 
-           and you can charge them a minimal fee or ideally no fees.
+           and you can charge them minimal fees or ideally no fees.
            </p>
            
            <p>
@@ -1311,15 +1313,23 @@ modalText.innerHTML = `
            Presently we are engaging with a manufacturer to have our Faradn self-sustaining compact electricity 
            generator prototyped.
            </p>
-           
+
            <h2>Info for organizational collaborators</h2>
+           
+           <p>
+           Collaborate with us, whether for technological collaboration or to become our equipment supplier. 
+           Have a read of our other pages and inform us how you can help us or what you can supply to us.
+           </p>
+           
+           <h2>Info for journalists</h2>
 
            <p>
-           You collaborate with us both for technological collaboration and 
-           to become our equipment supplier. Have a read of our other pages and inform us 
-           how you can help us or what you can supply to us.
+           Contact us if you are a journalist curious about our simplified and radical approach to take 
+           potentially any human to space, through space and enable their safe and fulfilling life in space, 
+           all this in a cheap and democratic way. And also our systems contributing to evolution 
+           of human societies on Earth including reversal of Climate Change.
            </p>
-
+           
            <h2>You as our co-worker</h2> 
 
            <p style="margin-bottom:10px;"> This collaboration will be on the basis of natural social equality and natural intelligence. We 

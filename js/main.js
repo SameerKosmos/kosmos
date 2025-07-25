@@ -1292,25 +1292,29 @@ modalText.innerHTML = `
            <h2>Info for government space departments</h2>
 
            <p>
-           In the coming five to six years we will be able to license out to you the package 
-           of an entire human space program with all its associated systems at a reasonably cheap 
-           license fee. You can at that point contact us to watch the demonstrations of our prototypes. 
-           The license fee includes product designs, engineering details, training, permanent on-site and telecom help 
-           by our company co-workers and continued development by us to improve our products. 
-           We will provide you the means to create a cheap and simple human space program 
+           We are just starting out formally but in the coming five to six years we will be able to 
+           license out to you the package of an entire human space program with all its associated systems 
+           at a reasonably cheap license fee. We will provide you the means to create a cheap and simple human space program 
            so that potentially every citizen of yours can go to space and live in space 
-           and you can charge them minimal fees or ideally no fees.
+           and you can charge them minimal fees or ideally no fees. You can in five to six year 
+           contact us to watch the demonstrations of our prototypes.
+           </p>
+           
+           <p>
+           Our license fee includes product designs, engineering details, training, permanent on-site and telecom help 
+           by our company co-workers and continued development by us to improve our products. 
            </p>
            
            <p>
            Because space technology involves sciences of all kinds, our systems will also help 
            evolve your Earthen nation to become a highly advanced society not only technologically 
-           but socially a cleaner, harmonious, serene, equal, just and collectively prosperous society.
+           but socially a cleaner, harmonious, serene, equal, just and collectively prosperous society 
+           which contributes to collective human evolution.
            </p>
            
            <p>
-           We are just starting out as a formal company and still designing most of our our products in detail. 
-           Presently we are engaging with a manufacturer to have our Faradn self-sustaining compact electricity 
+           Presently we are still designing most of our our products in detail. We are engaging 
+           with a manufacturer to have our Faradn self-sustaining compact electricity 
            generator prototyped.
            </p>
 
@@ -1383,8 +1387,8 @@ modalText.innerHTML = `
            salary as long as the system of money remains. </p>
 
            <p style="margin-bottom:10px;"> <span> >> </span> The organization will be headed by a General Coordinator ( GC ) who for some years to 
-           come will be Sameer who is described just below. The General Coordinator will be 
-           approachable to every worker, will be the interface within the organization and externally, 
+           come will be Sameer who is described on this website in the "Our founders" chapter. The General Coordinator 
+           will be approachable to every worker, will be the interface within the organization and externally, 
            and every worker if necessary can arrange to call a discussion circle with a notification sent 
            to the GC. Further, each of our branches in other countries or regions ( those not India ) will 
            have a Regional Coordinator. </p>

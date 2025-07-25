@@ -689,63 +689,83 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           The system of education in space should not have exams system and we reason this 
-           below.
+           The system of education in space should not have exams and we reason this below.
            </p>
 
            <p>
            Competition is an enemy of harmonious society and removes dignity from a human, 
            reducing that human to a dog who must constantly fight with other human-dogs for survival. 
-           Resources which should be naturally available for all equally, these are artificially made 
-           scarce in many societies and most citizens must compete with each other daily to have a 
-           little part of the resources. This dog-eat-dog competition situation continues for generations. 
+           Resources which should be naturally available for all equally without money and tax, 
+           these resources are artificially made scarce in many societies and most citizens must compete with each other daily to have a 
+           little part of the resources. Many readers will be angered at being equated to dogs 
+           but that is the real situation. This dog-eat-dog competition situation continues for generations. 
            However, those who have established themselves as feudals, they do not participate in these 
-           daily competitions as the resources are available to them very easily, in any quanity they want. 
+           daily competitions as the resources are available to them very easily, in any quantity they want. 
            It is the middle class and the still lower class which must participate in these daily competitions. 
            This creates low-trust societies full of aggression, injustice, inequality, crime and chaos where gentleness, 
-           honesty, selflessness, innovation and evolution are discouraged. This is also true of the education system 
-           where competition greatly shows itself in the form of exams.
+           honesty, selflessness, empathy, innovation and evolution are discouraged. When citizens 
+           daily keep competiting with each other, they neither have time to reflect, think and innovate, 
+           nor will they have the inclination to collaborate with fellow citizens for any 
+           thoughtful thing.
            </p>
-           
+
            <p>
-           In most societies now, a student's progress through the education system is decided by that student's ranking in exams. 
+           Competition greatly shows itself in the education system in many societies in form of exams. 
+           A student's progress through the education system is decided by that student's ranking in exams. 
            This system has been there for a long time but is contradictory to Nature. All that the high marks scored by a student 
            shows is his or her ability to memorize the textbooks and reproduce those texts in the exam in 
            a much better way than his or her student colleagues. Exam marks do not show some student's great intelligence 
-           or the lack of intelligence. A student may simply be bored of the competition-based non-innovative 
-           education in the classroom but may be exceptionally talented in painting or technology creation. 
-           A high-marks student scoring 600 marks out of 600 may be mediocre in real intelligence but a student who has failed in some exam 
-           may go on to create great social and technological ideas and products and companies 
-           and funnily his or her student colleague who scored 600 marks out of 600 and was proud of that fact 
-           and used that fact in arrogance and insulted low-marks students, and his or her family was also proud of that fact, 
+           or the lack of intelligence. A student may simply be bored of the competition-based, non-innovative 
+           and non-empathy-teaching education in the classroom but may be exceptionally talented in painting 
+           or technology creation or may be a budding philosopher whose gentle thoughts at the age of 13 are better 
+           than an 80-year-old "elder". He or she may have ideas far superior to the school textbooks.
+           </p>
+           
+           <p>
+           A high-marks student scoring 600 marks out of 600 may be mediocre in real intelligence 
+           but a student who has failed in some exam may go on to create great social and technological ideas and products and companies 
+           and funnily his or her student colleague who scored 600 marks out of 600 and is proud of that fact 
+           and uses that fact in arrogance and insults low-marks students, and his or her family is also proud of that fact, 
            this high-marks student may approach in a humble way for employment in the company started 
            by his or her former student colleague who had failed in the same exam the approacher student had stood first in.
            </p>
 
            <p>
-           We must ask, was Buddha a high-marks student because of which he made his humanist realizations ?
-           In that case why are the hundreds of millions of high-marks students not making those realizations now 
-           2500 years after Buddha and they maintain a personality of cruelty and mediocre intelligence ? 
-           We must ask, was it high exam marks which made the Frenchman Henri Giffard fly the first powered and steerable airship in 1852 ? 
-           If so why are the hundreds of millions of high-marks students now not making innovation in aircraft science but 
-           are very mediocre ?
+           We must ask, was Buddha a high-marks student in a social work program in some 
+           "prestigious management college" because of which he made his humanist realizations ?
+           In that case why are the hundreds of millions of high-marks students now not making those realizations 
+           2500 years after Buddha and they instead maintain a personality of cruelty and mediocre intelligence ? 
+           We must ask, was it high exam marks in a college aerospace program which made the Frenchman Henri Giffard 
+           fly the first powered and steerable airship in 1852 ? If so why are the at least 100,000 aerospace students 
+           now having high exam marks not making innovation in aircraft science but 
+           are very mediocre and their only noteworthy achievement is appearing in their 
+           college's yearly new-students-inviting advertisement, showing them flying 
+           a typical China-made quadcopter drone and the joy on their faces as if they are the 
+           first humans to land on the planet Pluto ?
            </p>
            
-           <p> Three students sitting on the same classroom bench may declare themselves to be friends but every day they compete 
+           <p>
+           Three students sitting on the same classroom bench may declare themselves to be friends but every day they compete 
            with each other so that in the exams they can have more exam marks than the other. 
            Their friendship then is not true friendship and this fact becomes more apparent when 
            some student suicides because he or she wasn't allowed to write an exam but that student's classmates 
            including his or her friend on the same bench, don't protest against the needless 
            fact of their friend's suicide and don't call for removal of the exams system 
            which caused the needless death of their friend. A system of competition doesn't create loyalty 
-           and fraternity.
+           and fraternity. So we must ask, the societies have competition in their education system 
+           and caused so many students to suicide over the years and pushed constant social survival pressure 
+           on living students because they failed to obtain the socially compulsory high exam marks, 
+           what have they achieved socially and technologically ? Especially if they continue to 
+           only use the techno systems created by people other in societies where high exam marks 
+           are not compulsory and indeed the techno creators were school dropouts ?
            </p>
 
            <p>
            [ To be done ]
            </p>
            
-           <p> In the modern world, other than paper literature, there have been three big examples of untaxed 
+           <p>
+           In the modern world, other than paper literature, there have been three big examples of untaxed 
            and for-all education and collaboration systems : one the Open Source Computing movement, 
            second the Wikipedia and third the Khan Academy. These examples should be continued in the exploration and settlement of 
            space.
@@ -764,12 +784,16 @@ modalText.innerHTML = `
            very large delays because of the in-space location of the blog producers and their duties 
            and other activities. The one-way communication time itself may be from about a second ( 
            the Moon ) to 13 minutes ( Red One ) to many many hours, and these delays just within the 
-           Solar System. </p>
+           Solar System.
+           </p>
            
-           <p> Then comes the continued education of younger humans in space who have arrived from 
-           Earth or those younger humans born in space, and humans in general because education is life-long learning.
-           The medium of education must be English but also considered with regards to the birth language of that younger human. But a lot of 
-           this aspect has to be developed not now but once space settlement starts in full flow. </p>
+           <p>
+           Education in space can be about the continued education of people 
+           who have arrived from Earth or those younger humans born in space. For both 
+           is true the idea that education is life-long learning.
+           </p>
+
+           [ To be done ]
            
            <h2>Basis of satellite design</h2>
            
@@ -2278,20 +2302,38 @@ modalText.innerHTML = `
            where the individual user freely owns the electricity generation mechanism and its 
            produced electricity.</p>
            
-           <p>Faradn generator system will be such a generator which is very non-nuclear and will 
-           power all our non-micro-sized products by sitting within them or just outside them Once 
-           this generator has been supplied with a “start heat” it will use thermo-mechanical 
-           method to generate electricity and will include a “sand battery” to store heat to 
-           enable a self-sustaining energy loop It will produce 24 volts DC which is neither 
-           too low a current nor dangerously high and can be amplified by external systems 
-           like a motor-generator for larger or high-voltage applications Most systems will 
-           work with DC.</p>
+           <p>
+           Faradn generator system will be such a generator which is very non-nuclear and will 
+           power all our non-micro-sized products by sitting within them or just outside them 
+           and it will produce 24 volts DC which is enough for most purposes, neither too low a current 
+           nor dangerously high. For high voltage requirements we can externally connect 
+           the generator to further amplifying systems like a motor-generator. Within the generator itself 
+           there are two very simple approaches we are considering in generating the initial low-voltage current 
+           before we amplify that current, clean it and provide it as the 24 volts DC output. The two approaches are :
+           </p>
+           
+           <p>
+           (a). A thermo-mechanical mechanism is supplied with a “start heat” by being in contact with heated sand 
+           which forms the "sand battery" and the thermo-mechanical mechanism will start to operate 
+           and turn a dynamo to produce a low-voltage current of maybe 4 volts or 6 volts or higher. This low current 
+           is amplified and part of it sent to electrical resistance wiring within the sand battery 
+           to keep it heated to high temperature which in turn will keep the thermo-mechanical mechanism running. 
+           This forms a self-sustaining energy loop.
+           </p>
+
+           <p>
+           (b). A magnet-push mechanism where there are two sets of two permanent magnets, 
+           two of those magnets fixed and two of them connected to one shaft each where each shaft 
+           is connected to a wheel such that when the wheel is given an initial push by hand 
+           pushing each other to very near distances and connected to shafts which spin a wheel which in turn pushes 
+           </p>
            
            <p>The name of this system, Faradn, refers to two things : an acknowledgement to Michael
             Faraday and a nod to the Dune story which has the character Farad’n.</p>
            
-           <p>Please check the “Credits” chapter to see where we derive some of our ideas for the 
-           generator.</p>
+           <p>Please check the “Credits” chapter to see where we derive most of our ideas for the 
+           generator.
+           </p>
            
            <p>There can be a rechargeable battery included within this system or outside this 
            system to provide short-duration backup and enable generator switchover when one 

@@ -795,12 +795,14 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           Education in space can be about the continued education of people 
+           Education in space can also be about the continued education of people 
            who have arrived from Earth or those younger humans born in space. For both 
            is true the idea that education is life-long learning.
            </p>
 
+           <p>
            [ To be done ]
+           </p>
            
            <h2>Basis of satellite design</h2>
            

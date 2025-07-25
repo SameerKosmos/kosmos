@@ -1247,10 +1247,8 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/blade-runner-spinner-pic-1.jpg?q=50&fit=crop&w=825&dpr=1.5" target="_blank" style="color:#0000FF;">Photo 3</a> from
-           <a href="" target="_blank" style="color:#0000FF;"Photo 3</a> from 
-           <a href="" target="_blank" style="color:#0000FF;">this article</a>.
-           <a href="[ https://screenrant.com/blade-runner-movie-mistakes-goofs/" target="_blank" style="color:#0000FF;"this article</a>.
+           <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/blade-runner-spinner-pic-1.jpg?q=50&fit=crop&w=825&dpr=1.5" target="_blank" style="color:#0000FF;"Photo 3</a> from 
+           <a href="https://screenrant.com/blade-runner-movie-mistakes-goofs/" target="_blank" style="color:#0000FF;">this article</a>.
            </p>
 
            <p>

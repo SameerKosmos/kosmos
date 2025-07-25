@@ -1049,26 +1049,32 @@ modalText.innerHTML = `
            About Climate Change, there are regular COP summits of world leaders to supposedly discuss 
            Climate Change but these are mainly wine and dine events with vague promises of reduction of Climate Change 
            instead of discussion about immediate beginning of reversal of Climate Change. 
-           The activist Greta Thunberg noted about that COP26 conference in Glasgow in 2021 
+           The activist Greta Thunberg noted about the COP26 conference in Glasgow in 2021 
            that it was a failure and a "Greenwash" and that many of the participating leaders 
            profit from the destruction of Earth's ecosystem. The simple realization is that the biggest culprit 
            which caused Climate Change is the personal motor vehicles industry but the COP conferences don't address this.
            </p>
 
            <p>
-           Building flyovers has only made the unthinking public to purchase even more personal vehicles 
-           to the extent that many families have at least two vehicles for no other reason than to display their middle class new-pseudo-rich wealth 
-           with the result being that in some cities there are now at least five million personal motor vehicles. 
-           Putting metro lines has also not caused the public to sell their vehicles and put the sale 
-           money into starting a business or touring other countries and before all that taking personal responsibility 
-           to contribute to serenity, cleanliness, much reduced pollution and removing social inequality.
+           Building flyovers in cities has only made the unthinking public to purchase even more personal vehicles 
+           to the extent that many families have at least two vehicles for no other reason than to display their 
+           middle class new-pseudo-rich wealth with the result being that in some cities there are now at least 
+           five million personal motor vehicles. Putting metro lines has also not caused the public to 
+           stop using their personal vehicles and take personal responsibility to contribute to serenity, cleanliness, 
+           much reduced pollution and removing social inequality in their cities. Additionally, the metro lines have only 
+           led to narrowed roads leading to funnel effect on the roads and chaos and of course contributing 
+           to more pollution because of the production of cement, iron and other materials needed in the 
+           construction of the metro infrastructure, added with the petro fuel pollution because of the 
+           vehicles involved in the construction of the metro infrastructure. Thousands of personal vehicles 
+           continue to be purchased every day in the cities with metro lines. Flyovers and metro lines 
+           are problems which add to the existing problem caused by personal vehicles.
            </p>
 
            <p>
            City corporations installing expensive “artificial intelligence” systems to control traffic lights will also never solve the problem 
            because the AI traffic lights will not make the millions of traffic-causing personal vehicles vanish. These AI traffic control systems 
            will only help the profiteering corporations who have convinced the city corporations 
-           to purchase their needless systems.
+           to purchase their useless systems.
            </p>
 
            <p>               
@@ -1092,18 +1098,18 @@ modalText.innerHTML = `
            A great problem is many people, especially misguided males, purchasing big and noisy personal vehicles including 
            both cars and motorcycles. There are some motorcycles which make very loud and 
            heart-piercing thumping sounds as they pass by people, terrorizing those people and possibly causing 
-           health problems to those people. The motorized two-wheeler including the motorcycle 
-           has been one of humanity's most idiotic inventions, like the lithium-ion battery, 
-           with its danger to the riders and to those it passes by. It is easy to understand that 
-           such motorcycle owners want to intimidate those they pass by, especially with the modern fashion 
-           of such riders adopting an aggressive look. This situation is unacceptable in any society 
-           which desires serenity and harmony. In many cases these riders want to appear "tough and manly" 
-           because in their real life they will be wage slaves in some feudal corporation, 
-           not daring to talk back to their oppressive bosses much less willing to help their co-worker 
-           in the next workstation who is being oppressed by the company management. 
-           In other cases such motorcycle riders are socially powerful in the local context and 
-           their big and loud motorcycle, sometimes ridden with dark glasses, is meant to instill 
-           artificial respect in the masses being passed by.
+           health problems to those people. The motorcycle has been one of humanity's most idiotic inventions, 
+           like the lithium-ion battery and of course money. The motorcycle is a danger to the riders and to those it passes by. 
+           It is easy to understand that such loud-thump motorcycle owners want to intimidate those they pass by, 
+           especially with the modern fashion of such riders adopting an aggressive look. 
+           This situation is unacceptable in any society which desires serenity and harmony. 
+           In many cases these riders want to appear "tough and manly" because in their real life 
+           they will be wage slaves in some feudal corporation, not daring to talk back to their oppressive bosses 
+           much less willing to help their co-worker in the next workstation who is being oppressed 
+           by the company management. In other cases such motorcycle riders are socially powerful 
+           in the local context and their big and loud motorcycle, sometimes ridden with dark glasses, 
+           is meant to instill artificial respect in the masses being passed by. Some other men who ride 
+           these loud-thumpers are decent people but just caught up by the propaganda surrounding such vehicles.
            </p>
 
            <p>
@@ -1111,19 +1117,19 @@ modalText.innerHTML = `
            like the SUVs and driving out in convoys with the youth hanging out of the windows and 
            shouting and making themselves a nuisance. Many times these convoys create danger of 
            mishaps for themselves and for the others on the road. These youth should realize 
-           that they are being anti-social.
+           that they are being anti-social and so cringey.
            </p>
 
            <p>
-           Then is the modern fashion of the new-pseudo-rich middle class in 
-           some societies going on long motorcycle trips including to serene and pristine 
-           nature spots and creating disharmony and pollution there. Sometimes there is an entire 
-           gang of such motorcycle trippers. An unfortunate effect is some women riding these heavy 
-           long-trip motorcycles where in their misguided understanding they have achieved 
-           gender emancipation by riding these heavy motorcycles on long trips because only men used to 
-           do this earlier. However, not only should men not ride these cringey and dangerous heavy motorcycles 
-           but when these women return from their heavy-motorcycle riding trips they return to societies which 
-           remain unchanged for them as women. Additionally, these women lose their feminineness by riding 
+           Then is the modern fashion of the new-pseudo-rich middle class in some societies 
+           going on long motorcycle trips including to serene and pristine nature spots and 
+           creating disharmony and pollution there. Sometimes there is an entire gang of such 
+           motorcycle trippers. An unfortunate effect is some women riding these heavy long-trip motorcycles 
+           where in their misguided understanding they have achieved gender emancipation by riding 
+           these heavy motorcycles on long trips because only men used to do this earlier. 
+           However, not only should men not ride these cringey and dangerous heavy motorcycles 
+           but when these women return from their heavy-motorcycle riding trips they return to societies 
+           which remain unchanged for them as women. Additionally, these women lose their feminineness by riding 
            these heavy motorcycles.
            </p>
 
@@ -2190,18 +2196,17 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span> Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>
            
            <p><span>&gt;&gt;</span> The YouTube channel “The Action Lab” for the idea about using heat to run a self-sustained piston engine. 
-           This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ]. 
-           This we are considering for use in our Faradn electricity generator but we must of course 
-           first experiment on this and we are presently engaging with a manufacturer to develop 
-           our generator's prototype.
+           This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ].
            </p>
 
            <p><span>&gt;&gt;</span> The YouTube channel "Mech Marvels" for the idea about using mutually repelling magnets 
            to form a self-sustained sustained motor. This vid called "Magnets - the key to endless power ?" 
-           is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ]. 
-           This we are considering for use in our Faradn electricity generator but we must of course 
-           first experiment on this and we are presently engaging with a manufacturer to develop 
-           our generator's prototype.
+           is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ].
+           </p>
+
+           <p><span>&gt;&gt;</span> The above two mechanisms we have considered for use in our Faradn electricity generator. 
+           We will use one of them and to select we must experiment on them and we are presently engaging 
+           with a manufacturer to experiment on them in the road to develop our generator's prototype.
            </p>
 
            <p><span>&gt;&gt;</span> Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology (
@@ -2355,27 +2360,31 @@ modalText.innerHTML = `
                    
            <h2>Faradn electricity generator</h2>
            
-           <p>Advancement in electricity generation is not to make the generators huge, 
+           <p>
+           Advancement in electricity generation is not to make the generators huge, 
            centralized, complicated, unsafe, polluting and needless like nuclear, hydropower dams,
-            on-sea wind turbines etc along with their complicated and huge system controls, power 
-            controls and power delivery mechanisms and all these stretched hundreds of kilometers 
-            or even millions of kilometers like the idiotic concept Dyson Swarm There’s even an 
-            unspoken nefarious element here like promotion of Space-based Solar Power where huge 
-            photovoltaic panels will sit in Earth orbit and convert the abundant sunlight there 
-            to electricity, convert the electricity to high-power microwaves and send down the 
-            microwaves to certain large-focus spots on Earth where on those spots on the ground 
-            the microwaves are converted back to electricity by rectennas to be supplied to the 
-            grid The nefarious element here is the potential of this system to be used to zap 
-            humans and other things using the high-power microwaves by moving these power 
-            satellites over targets.</p>
-           
-           <p>Advancement then in electricity generation is to make generators simple, compact, 
+           huge on-sea wind turbines, huge under-sea wave machines etc along with their complicated 
+           and huge system controls, power controls and power delivery mechanisms and 
+           all these stretched hundreds of kilometers or even millions of kilometers like 
+           the idiotic concept Dyson Swarm. There’s even an unspoken nefarious element here like 
+           promotion of Space-based Solar Power where huge photovoltaic panels will sit in Earth orbit and 
+           convert the abundant sunlight there to electricity, convert the electricity to 
+           high-power microwaves and send down the microwaves to certain large-focus spots on Earth 
+           where on those spots on the ground the microwaves are converted back to electricity by rectennas 
+           to be supplied to the grid. The nefarious element here is the potential of this system to be used to zap 
+           humans and other things using the high-power microwaves by moving these power 
+           satellites over targets.
+           </p>          
+
+           <p>
+           Advancement then in electricity generation is to make generators simple, compact, 
            safe and decentralized, where the generator sits within the small and large machines 
            needing electricity or just outside them. Making generators compact will also enable 
            redundancy, easy replacement and easy placement in any place which needs electricity 
            instead of centralized single points of failure. This also contributes to democracy 
            where the individual user freely owns the electricity generation mechanism and its 
-           produced electricity.</p>
+           produced electricity.
+           </p>
            
            <p>
            Faradn generator system will be such a generator which is very non-nuclear and will 
@@ -2388,26 +2397,11 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           (a). A thermo-mechanical mechanism is supplied with a “start heat” by being in contact with a container 
-           of heated sand which forms the "sand battery" and the thermo-mechanical mechanism will start to operate 
-           and turn a dynamo to produce a low-voltage current of maybe 4 volts or 6 volts or higher. This low current 
-           is amplified and part of it sent to electrical resistance wiring within the sand battery 
-           to keep it heated to high temperature which in turn will keep the thermo-mechanical mechanism running. 
-           This forms a self-sustaining energy loop.
+           (a). A thermo-mechanical piston mechanism which includes a "sand battery".
            </p>
 
            <p>
-           (b). A simple magnet-repulsion mechanism where there are two sets of two permanent magnets, 
-           two of those magnets fixed side by side and the other two magnets placed a short distance 
-           from the fixed magnets and kept held there by being connected to two jointed rods which 
-           on the other ends are connected to a heavy wheel in an asymmetric way on the wheel.  
-           When the wheel is given an initial push by hand one of the jointed rods pushes 
-           its magnet which goes towards the fixed magnet in front of it and gets repelled 
-           and this pushes its joined rod to turn the wheel which in turn pushes its other 
-           jointed rod which pushes its magnet which gets pushed towards the magnet in front of it 
-           which repels the pushed rod-connected magnet and that in turn turns the wheel which then 
-           pushes the other jointed rod and the cycle continues. Maybe there can be more sets of 
-           mutually-pushing magnets here.
+           (b). A simple magnet-repulsion motor mechanism with at least two magnet sets.
            </p>
 
            <p>
@@ -2420,10 +2414,14 @@ modalText.innerHTML = `
            Faraday and a nod to the Dune story which has the character Farad’n.
            </p>                    
            
-           <p>There can be a rechargeable battery included within this system or outside this 
+           <p>
+           There can be a rechargeable battery included within this system or outside this 
            system to provide short-duration backup and enable generator switchover when one 
-           generator fails But this battery will have to be eco-friendly and socially harmonious 
-           in terms of its electricity storage materials, electrodes and packaging.</p>
+           generator fails But this battery will have to be safe, eco-friendly and socially harmonious 
+           in terms of its electricity storage materials, electrodes and packaging. Very much not 
+           the lithium-ion battery which has been one of humanity's most idiotic inventions 
+           alongisde the motorcycle and of course money.
+           </p>
            
            <h2>The Alef-A airship-spaceship</h2>
            

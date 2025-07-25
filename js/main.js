@@ -1242,17 +1242,13 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           2. Photo [ https://ichef.bbci.co.uk/news/800/cpsprodpb/12E7E/production/_109483477_c1045498-a109-42a8-b6fd-6ccb2e959d37.png.webp ]. 
-           </p>
-           <p>
-           Article [ https://www.bbc.com/news/technology-50247479 ].
+           <a href="https://ichef.bbci.co.uk/news/800/cpsprodpb/12E7E/production/_109483477_c1045498-a109-42a8-b6fd-6ccb2e959d37.png.webp" target="_blank" style="color:#0000FF;"Photo 2</a> from 
+           <a href="https://www.bbc.com/news/technology-50247479" target="_blank" style="color:#0000FF;"this article</a>.
            </p>
 
            <p>
-           3. Photo [ https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/blade-runner-spinner-pic-1.jpg?q=50&fit=crop&w=825&dpr=1.5 ]. 
-           </p>
-           <p>
-           Article [ https://screenrant.com/blade-runner-movie-mistakes-goofs/ ].
+           <a href="https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/blade-runner-spinner-pic-1.jpg?q=50&fit=crop&w=825&dpr=1.5" target="_blank" style="color:#0000FF;"Photo 3</a> from 
+           <a href="[ https://screenrant.com/blade-runner-movie-mistakes-goofs/" target="_blank" style="color:#0000FF;"this article</a>.
            </p>
 
            <p>

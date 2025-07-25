@@ -1008,7 +1008,7 @@ modalText.innerHTML = `
            when every nation can agree on a pan-humanist and collectively beneficial manifesto for the kosmos 
            which non-profit organizations like us present.
            </p>
-                       
+
            <h2> City design and city reconfiguration on Earth</h2>
            
            <p>The space experiences including the Mirkeen-01 base and our Space machines will provide 
@@ -1093,14 +1093,14 @@ modalText.innerHTML = `
            both cars and motorcycles. There are some motorcycles which make very loud and 
            heart-piercing thumping sounds as they pass by people, terrorizing those people and possibly causing 
            health problems to those people. The motorized two-wheeler including the motorcycle 
-           has been one of humanity's most idiotic inventions with its danger to the riders and 
-           to those it passes by, and the loudly thumping motorcycle increases this vehicles idiocy. 
-           It is easy to understand that such motorcycle owners want to intimidate those they pass by, 
-           especially with the modern fashion of such riders adopting an aggressive look. 
-           This situation is unacceptable in any society which desires serenity and harmony. 
-           In many cases these riders want to appear "tough and manly" because in their real life 
-           they will be wage slaves in some feudal corporation, not daring to talk back to their 
-           oppressive bosses much less willing to help their co-worker in the next workstation. 
+           has been one of humanity's most idiotic inventions, like the lithium-ion battery, 
+           with its danger to the riders and to those it passes by. It is easy to understand that 
+           such motorcycle owners want to intimidate those they pass by, especially with the modern fashion 
+           of such riders adopting an aggressive look. This situation is unacceptable in any society 
+           which desires serenity and harmony. In many cases these riders want to appear "tough and manly" 
+           because in their real life they will be wage slaves in some feudal corporation, 
+           not daring to talk back to their oppressive bosses much less willing to help their co-worker 
+           in the next workstation who is being oppressed by the company management. 
            In other cases such motorcycle riders are socially powerful in the local context and 
            their big and loud motorcycle, sometimes ridden with dark glasses, is meant to instill 
            artificial respect in the masses being passed by.
@@ -1111,67 +1111,79 @@ modalText.innerHTML = `
            like the SUVs and driving out in convoys with the youth hanging out of the windows and 
            shouting and making themselves a nuisance. Many times these convoys create danger of 
            mishaps for themselves and for the others on the road. These youth should realize 
-           that they are being anti-social too.
+           that they are being anti-social.
            </p>
 
            <p>
-           Then is the case of the modern fashion of the new-pseudo-rich middle class in 
+           Then is the modern fashion of the new-pseudo-rich middle class in 
            some societies going on long motorcycle trips including to serene and pristine 
            nature spots and creating disharmony and pollution there. Sometimes there is an entire 
            gang of such motorcycle trippers. An unfortunate effect is some women riding these heavy 
-           long-distance trip motorcycles where in their misguided understanding they have achieved 
+           long-trip motorcycles where in their misguided understanding they have achieved 
            gender emancipation by riding these heavy motorcycles on long trips because only men used to 
-           do this earlier. However, not only should men not ride these cringey heavy motorcycles but when 
-           these women return from their heavy-motorcycle-riding trips they return to societies which 
+           do this earlier. However, not only should men not ride these cringey and dangerous heavy motorcycles 
+           but when these women return from their heavy-motorcycle riding trips they return to societies which 
            remain unchanged for them as women. Additionally, these women lose their feminineness by riding 
            these heavy motorcycles.
            </p>
 
            <p>
-           There is also the sad situation of the middle class and the rich enclosing themselves
+           There is also the sad situation of the middle class and the rich enclosing themselves 
            in air-conditioned cars and daily going to their feudal workplaces, ignoring the homeless and 
-           the hungry people so clearly sitting on the footpaths, have to live in the open under the elements 
-           and the pollution and the chaos, the car people never think of parking their cars to get out 
-           and give a hundred dollars so that that homeless person can eat good food at least 
-           for the next two days. And when a child of five, living in poverty, comes up to these car-enclosed people to sell pens or flowers,
-           the car people may have extra money which they can freely give to the seller child to help him 
-           but many times the car people roll up their window and essentially cruelly abandon that child.
+           the hungry people so clearly sitting on the footpaths, under bridges and in abandoned bus stops, 
+           having to live in the open under the elements, the pollution and the chaos. The car people 
+           never think of parking their cars to get out and give a hundred dollars so that that homeless person 
+           can eat good food at least for the next two days. And when a child of five, living in poverty, 
+           comes up to these car-enclosed people to sell pens or flowers, the car people may have extra money 
+           which they can freely give to the seller child to help him but most times the car people roll up their 
+           window and cruelly abandon that child.
            </p>
 
            <p>
            Another sad modern phenomenon is of delivery boys and delivery girls for e-shops where 
            these delivery people are forced by poverty to ride two-wheelers to deliver the packages 
            through sun, rain, cold, pollution and dangerous traffic many times a day, many times without helmet, 
-           many times without protective clothing against the weather, many times earning a pittance, 
-           some times delivering to rude or arrogant customers, some times falling prey to armed robbery, 
-           some times having to break their legs because of jumping a building storey to escape a customer's attacking dog, 
-           some times begging the customers for five-star ratings because these e-shops provide the meagre incentive based on those ratings.
-           While this whole system has to be changed, it must be noted that the billion-dollar "unicorn" e-shop 
-           startup companies do not even consider providing a safer and covered company four-wheelers to their own delivery people 
-           and the poor delivery people have to resort to using the dangerous two-wheelers. This is social injustice 
-           delivered by forced use of two-wheelers.
+           many times without protective clothing against the weather and not at all meagre protective clothing 
+           for two-wheelers, many times they earn a pittance, some times deliver to rude or arrogant customers, 
+           some times fall prey to armed robbery, some times have to break their legs because of jumping a building storey 
+           to escape a customer's attacking dog, some times beg the customers for five-star ratings because 
+           these e-shops provide the meagre incentive based on those ratings. While this whole system has to be changed, 
+           it must be noted that the billion-dollar "unicorn" e-shop startup companies do not even consider providing 
+           safer and covered company four-wheelers to their own delivery people 
+           and the poor delivery people have to resort to using the dangerous personal two-wheelers.
            </p>
 
            <p>
            Also must be noted that in the cities especially in the recent 20 years the thousands of students and the millions of workers 
-           get transported to their schools, colleges and offices by personal vehicles, whether self-driven or 
+           get transported daily to and from their schools, colleges and offices by personal vehicles, whether self-driven or 
            driven by parents or colleagues. This adds to millions of personal vehicles on the roads at least 
            twice a day and the times these vehicles clog the roads are known as "peak traffic hours". This situation happens 
            because the public transporation system is very inadequate in numbers and and frequency. There is no rational reason 
            the students and workers should not take public transport, yet they take personal vehicles but not only because of 
            inadequate public transport system but also because of the misguided idea that a person owning at least one 
            personal vehicle is someone respectworthy who is superior to the poor person having to pedal a 
-           bicycle or even walk long distances. Such misguided thinking is especially within the middle class who not only largely 
-           refuses to agitate for the rights of their money-poor co-citizens but also work all their life 
-           to hold up the feudals in power. But the middle class does not realize that they holding the poor people in contempt 
-           does not prevent the rich class from holding the middle class in contempt. Personal vehicles play a big role 
-           in maintaing this needless dynamic.
+           bicycle or even walk long distances.
+           </p>
+           
+           <p>
+           Such misguided classist thinking is especially within the middle class 
+           who not only largely refuse to agitate for the rights of their money-poor co-citizens 
+           but also work all their life to hold up the feudals in power. But the middle class 
+           does not realize that they holding the poor people in contempt does not prevent 
+           the rich class from holding the middle class in contempt. Personal vehicles play a big role 
+           in maintaing this needless class dynamic. And it is often found that this middle class 
+           who are most uncaring of their poorer co-citizens and will feed dogs 20 feet away 
+           from a hungry human, they are the first to be ultranationalists who vent needless hate and war sentiment 
+           against the citizens of other countries even 5000 kilometers away and living a serene life 
+           in their progressive societies. It can be said that a lot of this uncaring, apathetic, cruel  
+           and ultranationalist middle class is less a society and more a mob. And this mob 
+           is so unaware about the harm their personal vehicles bring to their society and to Earth.
            </p>
 
            <p>
-           All these chaotic and unjust experiences caused by personal vehicles directly and indirectly, 
-           rendering the society full of chaos, crime, mishaps, injustice, inequality, mishealth, disharmony, competition, 
-           pollution, dirtiness, unsightliness and the society's unproductiveness and non-progress for decades... 
+           All these experiences caused by personal vehicles directly and indirectly, 
+           render the society full of chaos, apathy, cruelty, crime, mishaps, injustice, inequality, mishealth, disharmony, 
+           competition, pollution, dirtiness, unsightliness and the society's unproductiveness and non-progress for decades... 
            in other words, dystopia.
            </p>
           
@@ -1181,48 +1193,76 @@ modalText.innerHTML = `
            Sometimes the problems are social so the solutions must be social but also must be supplemented with 
            technological solutions. The act of abolishing personal vehicles is social and our organization 
            will provide the technological solution to supplement this social act. So the few billion personal vehicles 
-           that are abolished must be replaced with a few hundred thousand public mass transport vehicles which are not only 
-           cheaper to build, not only provide a universal solution, not only are aesthetic but also are 
+           across Earth that are abolished must be replaced with a few hundred thousand public mass transport vehicles 
+           which are not only cheaper to build, not only provide a universal solution, not only are aesthetic but also are 
            electric in an eco-friendly way to enable a sustainable and social-equality-bringing public transportation mechanism 
            all over Earth.
            </p>
            
            <p>
-           Our solution is our Ra-E bus which is a hybrid vehicle of 
-           hovercraft-wheelcraft-aircraft type, deriving from our used-in-space Ra-H vehicle,
-           and each Ra-E will carry 15 passengers and a few hundred thousand of our Ra-E buses combined all over Earth 
-           will resolve all those above listed transportation-related direct problems and indirect 
-           problems.
+           Our solution is our Ra-E bus which is a hybrid vehicle of hovercraft-wheelcraft-aircraft type, 
+           deriving from our used-in-space Ra-H vehicle, and each Ra-E will carry 15 passengers and a few hundred thousand 
+           of our Ra-E buses combined all over Earth will resolve all those above listed transportation-related direct problems 
+           and indirect problems.
            </p>
 
            <p>
            In regular intra-city travel the Ra-E buses will use hovercraft mode to travel 
            on the current roads but switching to wheelcraft mode on hilly roads. For inter-city travel 
            the Ra-E buses will turn on aircraft mode and follow the current highways or 
-           travel across open land. All this travel of the Ra-E buses will be guided by 
+           travel above open land. All this travel of the Ra-E buses will be guided by 
            control centers and vehicle-to-vehicle communications ( v2v ) between the Ra-Es.
            </p>
-                     
+
            <p> Another advantage of Ra-E buses will be preventing the need to build a large number of 
            bridges across rivers in cities because with just the presence of a small ramp on the 
            riverside these public-carrying Ra-E craft in hovercraft mode can smoothly transit from land 
            to river and the reverse, not needing most bridges which mainly carry wheeled vehicles. A 
            further advantage in using hovercraft mode is enabling smooth public transport in 
            badly-designed cities which face yearly flooding. And when needed these Ra-E vehicles can 
-           turn aircraft mode on and travel short distances by air.
+           turn aircraft mode on and travel short distances by air within cities but not so much that they 
+           become an eyesore, noisy nuisances and privacy destroyers by traveling over houses and other
+           places.
            </p>
 
            <p>
            The Ra-E bus platform can also be made into other kinds of vehicles like ambulance, public 
-           security vehicle, garbage collection vehicle, packages delivery vehicle, etc.
-           </p>          
+           security vehicle, garbage collection vehicle, packages delivery vehicle, etc. Bigger versions of 
+           the "Spinner" flying police cars in the beautiful 1982 film Blade Runner where these cars fly 
+           through Los Angeles city of 2032. And these cars can descend vertically, drive on the ground 
+           and ascend vertically. We must of course negate the dystopia of that future Los Angeles with its tall buildings, 
+           biologically-enhanced slave humans, industrial towers sending fires into the night sky, congested markets 
+           and perpetual rain probably because of pollution-induced localized Climate Change. Below are links to 
+           screenshots from Blade Runner with the Spinner flying cars :
+           </p>
+
+           <p>
+           1. Photo link : [ https://scpr.brightspotcdn.com/dims4/default/adf950e/2147483647/strip/true/crop/730x489+0+0/resize/1760x1178!/format/webp/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2Flegacy%2Fi%2F65fa0fe81e1bee7f3ed280338d8ce9f2%2F5dc09412c92b3500089d2e61-eight.jpg ]. 
+           Article link : [ https://laist.com/news/entertainment/blade-runners-2019-los-angeles-then-now-future-past ].
+           </p>
+
+           <p>
+           2. Photo link : [ https://ichef.bbci.co.uk/news/800/cpsprodpb/12E7E/production/_109483477_c1045498-a109-42a8-b6fd-6ccb2e959d37.png.webp ]. 
+           Article link : [ https://www.bbc.com/news/technology-50247479 ].
+           </p>
+
+           <p>
+           3. Photo link : [ https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/blade-runner-spinner-pic-1.jpg?q=50&fit=crop&w=825&dpr=1.5 ]. 
+           Article link : [ https://screenrant.com/blade-runner-movie-mistakes-goofs/ ].
+           </p>
+
+           <p>
+           One memorable line in that so-nice film is in the end, said by the dying villain-hero 
+           Roy Batty - "Memories lost in time, like tears in rain".
+           </p>
            
            <p>
-           There is also the thing that self-sufficient cities filled with people of scientific temper 
-           will prevent tens of thousands of out-of-city daily travellers, or even a few million. It will then be very few 
-           people travelling beyond their cities on a daily basis and these people will be easily able to travel 
-           in our Ra-E buses which will put on their aircraft mode. This lesser daily out-of-city travel 
-           will also contribute to serene Earthen societies.
+           We of Kosmos Society will help build better Earthen cities than that dystopian Los Angeles of 2032 
+           and the self-sufficiency of these cities, filled with people of scientific temper, 
+           will prevent tens of thousands of needless out-of-city daily travellers, or even a few hundred thousand. 
+           It will then be very few people travelling beyond their cities on a daily basis 
+           and these few people will be easily able to travel in our Ra-E buses in aircraft mode. 
+           This lesser daily out-of-city travel will also contribute to serene Earthen societies.
            </p>
            
            <p>[ To be done ] </p> 

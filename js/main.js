@@ -689,7 +689,7 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Furthering the above, the system of education in space should not have exams and we reason this below.
+           Furthering the above, the system of education in space should not have exams and tax and we reason this below.
            </p>
 
            <p>
@@ -723,8 +723,11 @@ modalText.innerHTML = `
            who score high marks in exams, are "gold medalists" in exams and prepare for exams 
            religiously by memorizing the text books through many nights in addition to days. 
            But how many of these "soda glass" students have been known to create novel technologies 
-           for humanity and propose simple, scientific and natural social ideas ? Exam marks do not show 
-           some student's great intelligence or the lack of intelligence. A student may simply be bored of 
+           for humanity and propose simple, scientific and natural social ideas ?
+           </p>
+           
+           <p>
+           Exam marks do not show some student's great intelligence or the lack of intelligence. A student may simply be bored of 
            the competition-based, non-innovative and non-empathy-teaching education 
            in the classroom but may be exceptionally talented in painting or technology creation or
            may be a budding philosopher whose gentle thoughts at the age of 13 are better than an 80-year-old "elder". 
@@ -739,8 +742,10 @@ modalText.innerHTML = `
            a true teacher nor the student comes out of the schooling system to create good ideas 
            and technologies and forward the good ideas of the past, for example even a society's brilliant constitution 
            created in the past by humanist philosophers and social reformers who spoke for 
-           "Liberty, Equality, Fraternity", will remain unadopted by the modern students of the classrooms 
-           who engage daily in competition and will adopt neither of those three requirements for a fulfilled human.
+           "Liberty, Equality, Fraternity", will remain unadopted by the daily competing students of the classrooms 
+           and they will adopt neither of those three requirements for a fulfilled human 
+           and will not participate in creating an ideal humanity as a race. So these highly competitive 
+           students unfortunately become non-productive members of local society and of humanity.
            </p>
            
            <p>
@@ -757,7 +762,10 @@ modalText.innerHTML = `
            We must ask, was Buddha a high-marks student in a social work program in some 
            "prestigious management college" because of which he made his humanist realizations ?
            In that case why are the hundreds of millions of high-marks students now not making those realizations 
-           2500 years after Buddha and they instead maintain a personality of cruelty and mediocre intelligence ? 
+           2500 years after Buddha and they instead maintain a personality of cruelty and mediocre intelligence ?
+           </p>
+
+           <p>
            We must ask, was it high exam marks in a college aerospace program which made the Frenchman Henri Giffard 
            fly the first powered and steerable airship in 1852 ? If so why are 99 percent of the at least 100,000 aerospace students 
            in the world now having high exam marks not making innovation in aircraft science but 
@@ -784,15 +792,40 @@ modalText.innerHTML = `
            what have these societies achieved socially and technologically with the sacrifice of all 
            these youth ? Especially if these societies continue to only use the techno systems created by people 
            in other societies where high exam marks are not compulsory and indeed the techno creators were school dropouts 
-           or like Michael Faraday not even completing ten years of schooling ? All that these exams-based 
-           education systems have created is adding to existing caste systems where high-exam-marks 
-           students are made socially superior and the low-marks students are made inferior, 
-           disregarding the anti-human, anti-Nature and senseless basis of this... disregarding 
-           the large lack of innovation from the "soda glass" high-exam-marks people... disregarding 
-           the large contribution of the low-exam-marks people... disregarding that so many techno and 
-           social philosophies and developments happened hundreds of years or thousands of years 
-           before the modern assembly-line education systems and by people who were engineers and 
-           philosophers in a self-taught and self-realizing manner.
+           or like Michael Faraday not even completing ten years of schooling ?
+           </p>
+           
+           <p> All that these exams-based education systems have created is adding to existing caste systems where high-exam-marks 
+           students are made socially superior and the low-marks students are made inferior, disregarding the anti-human, anti-Nature and 
+           senseless basis of this... disregarding the large lack of innovation from the "soda glass" high-exam-marks people... 
+           disregarding the large contribution of the low-exam-marks people... disregarding that so many techno and social philosophies and 
+           developments happened hundreds of years or thousands of years before the modern assembly-line education systems and 
+           by people who were engineers and philosophers in a self-taught and self-realizing manner.
+           </p>
+
+           <p>
+           Then there is the system of "scholarships" where first the education system is taxed 
+           heavily instead of being free and then there is created an artificial scarcity 
+           of colleges and thus within them a limited number of students for a class per year, 
+           and these limited positions in a class are called "seats". Most students are forced to pay 
+           these heavy education taxes and largely fill up those limited "seats" and those who still 
+           cannot pay because of grave poverty, they are told to fulfill some criteria to be able to obtain 
+           that scarce "seat" in a college, either free or for a lesser fee. This criteria is called "scholarship" 
+           and many times involves writing a special exam to be achieve the highest possible marks 
+           and win that lottery "scholarship". In many societies there is a surplus of youth and they are forced 
+           through the competitive-education grind and these many youth become in a race to win the 
+           coveted "scholarship" lottery. So there is an exam to get into a program where every few months 
+           there are more exams and then at the end of three years or four years there is a final exam 
+           which ultimately decides a student's social position and his or her wage employment prospects.
+           </p>
+
+           <p>
+           The simple question about "scholarships" is : Why can't the education system have 
+           lot more colleges so that there is no desperate push-and-pull of the students every year 
+           trying to get into a few colleges ? The scarcity of the colleges is artificial, there is no 
+           reason the society cannot build more colleges. There are many societies with so many prayer houses, 
+           so why can't there be as many colleges ? Surely the concrete and the iron doesn't miraculously vanish 
+           when more colleges are decided to be built.
            </p>
 
            <p>

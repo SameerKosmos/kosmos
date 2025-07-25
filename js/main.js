@@ -2192,14 +2192,16 @@ modalText.innerHTML = `
            <p><span>&gt;&gt;</span> The YouTube channel “The Action Lab” for the idea about using heat to run a self-sustained piston engine. 
            This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ]. 
            This we are considering for use in our Faradn electricity generator but we must of course 
-           first experiment on this.
+           first experiment on this and we are presently engaging with a manufacturer to develop 
+           our generator's prototype.
            </p>
 
            <p><span>&gt;&gt;</span> The YouTube channel "Mech Marvels" for the idea about using mutually repelling magnets 
            to form a self-sustained sustained motor. This vid called "Magnets - the key to endless power ?" 
            is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ]. 
            This we are considering for use in our Faradn electricity generator but we must of course 
-           first experiment on this.
+           first experiment on this and we are presently engaging with a manufacturer to develop 
+           our generator's prototype.
            </p>
 
            <p><span>&gt;&gt;</span> Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology (

@@ -1282,12 +1282,12 @@ modalText.innerHTML = `
 
            <p>
            The Ra-E bus platform can also be made into other kinds of vehicles like ambulance, public 
-           security vehicle, garbage collection vehicle, packages delivery vehicle, etc. Better and bigger 
-           versions of the "Spinner" flying police cars in the beautiful 1982 film Blade Runner where these cars fly 
-           through future Los Angeles city of 2019. These cars can do VTOL and drive on the ground too. 
+           security vehicle, garbage collection vehicle, packages delivery vehicle, etc. Better, bigger 
+           and universal-use versions of the "Spinner" flying police cars in the beautiful 1982 film Blade Runner 
+           where these cars fly through future Los Angeles city of 2019. These cars can do VTOL and drive on the ground too. 
            We must of course negate the dystopia of that future Los Angeles with its tall buildings, 
-           biologically-enhanced slave humans, industrial towers sending huge fires into the night sky, congested markets 
-           and perpetual rain probably because of pollution-induced localized Climate Change. Below are links to 
+           synthetically-grown biologically-enhanced slave humans, industrial towers sending huge fires into the night sky, 
+           congested markets and perpetual rain probably because of pollution-induced localized Climate Change. Below are links to 
            screenshots from Blade Runner with the Spinner flying cars :
            </p>
 
@@ -1906,7 +1906,7 @@ modalText.innerHTML = `
            <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> As much as possible, use of structural materials 
            and fuels that are available cheaply and available in many place or can be produced anywhere so that the manufacturers 
            can produce our products cheaply and make them available to the masses cheaply. Examples, water, air, wood, biocoal 
-           and electricity that is produced by a simple compact self-sustaining generator.
+           and electricity that is produced by a simple, compact, self-sustaining generator.
            </p>
 
             <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Bio-mimicry and Engineered Biology wherever applicable.</p>

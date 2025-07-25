@@ -681,15 +681,15 @@ modalText.innerHTML = `
            the washing machine or the cell phone. And he studied only till middle school 
            in terms of the modern assembly-line degree-based education system. 
            He was not at all a college graduate, let alone one with three post-graduate diplomas 
-           and subsequent 50 years of professional experience. This means that those societies 
-           which place great multi-generational emphasis on college degrees and 
+           including from a "management" course and subsequent years of experience in the corporate world. 
+           This means that those societies which place great multi-generational emphasis on college degrees and 
            disrespect anyone not achieving those, must stop using electrical machinery 
            because this field was forwarded by the “unschooled” Michael Faraday. 
            Stopping thus will be a principled stand. But will they ?
            </p>
 
            <p>
-           The system of education in space should not have exams and we reason this below.
+           Furthering the above, the system of education in space should not have exams and we reason this below.
            </p>
 
            <p>
@@ -697,8 +697,11 @@ modalText.innerHTML = `
            reducing that human to very less of his or her potential, who must constantly fight 
            with other forcibly-made sub-humans for survival. Resources which should be naturally available for all equally without tax, 
            these resources are artificially made scarce in most societies and most citizens there 
-           must compete with each other daily to have a little part of the resources. This situation 
-           can only be called a "rat race" or "dog-eat-dog" and continues for generations. 
+           must compete with each other daily to have a little part of the resources.
+           </p>
+           
+           <p>
+           This situation can only be called a "rat race" or "dog-eat-dog" and continues for generations. 
            However, in these societies those who have established themselves as feudals, 
            they do not participate in these daily competitions as the resources are available to them very easily, 
            in any quantity they want. It is the middle class and the still lower class 
@@ -706,20 +709,25 @@ modalText.innerHTML = `
            injustice, inequality, crime and chaos where gentleness, honesty, selflessness, empathy, innovation 
            and evolution are discouraged. When citizens daily keep competing with each other, 
            they neither have time to reflect, think and innovate, nor will they have the inclination 
-           to collaborate with fellow citizens for any thoughtful thing. The societies become dystopia 
-           instead of utopia.
+           to collaborate with fellow citizens for any thoughtful thing. These societies become dystopia instead of utopia.
            </p>
 
            <p>
            Competition greatly shows itself in the education system in most societies in form of exams. 
-           A student's progress through the education system and then into employment is decided 
+           A student's progress through the education system and then into competition-based wage employment is decided 
            by that student's ranking in exams. This system has been there for a long time but is contradictory to Nature. 
            All that the high marks scored by a student shows is his or her ability to memorize the textbooks 
            and reproduce those texts in the exam in a much better way than his or her student colleagues. 
-           Exam marks do not show some student's great intelligence or the lack of intelligence. 
-           A student may simply be bored of the competition-based, non-innovative and non-empathy-teaching education 
-           in the classroom but may be exceptionally talented in painting or technology creation or may be a budding philosopher 
-           whose gentle thoughts at the age of 13 are better than an 80-year-old "elder". 
+           In the context of India there is the archetype of the "soda glass" wearing male student. 
+           "Soda glass" is the Indian name given to high-power spectacles mostly worn by male students 
+           who score high marks in exams, are "gold medalists" in exams and prepare for exams 
+           religiously by memorizing the text books through many nights in addition to days. 
+           But how many of these "soda glass" students have been known to create novel technologies 
+           for humanity and propose simple, scientific and natural social ideas ? Exam marks do not show 
+           some student's great intelligence or the lack of intelligence. A student may simply be bored of 
+           the competition-based, non-innovative and non-empathy-teaching education 
+           in the classroom but may be exceptionally talented in painting or technology creation or
+           may be a budding philosopher whose gentle thoughts at the age of 13 are better than an 80-year-old "elder". 
            He or she may have ideas far superior to the school textbooks and to the teachers 
            who have for 30 years been teaching those textbooks.
            </p>
@@ -755,7 +763,7 @@ modalText.innerHTML = `
            in the world now having high exam marks not making innovation in aircraft science but 
            are very mediocre and their only noteworthy achievement is appearing in their 
            college's yearly new-students-inviting advertisement, showing them flying 
-           a typical China-made quadcopter drone and the joy on their faces as if they are the 
+           a purchased commercial quadcopter drone and the joy on their faces as if they are the 
            first humans to land on the planet Pluto ?
            </p>
            
@@ -765,19 +773,26 @@ modalText.innerHTML = `
            Their friendship then is not true friendship and this fact becomes more apparent when 
            some student suicides because he or she wasn't allowed to write an exam but that student's classmates 
            including his or her friend on the same bench, don't protest against the needless 
-           fact of their friend's suicide and don't call for removal of the exams system 
-           which caused the needless death of their friend. A system of competition doesn't create loyalty 
-           and fraternity.
+           suicide of their friend and don't call for removal of the exams system. 
+           A system of competition doesn't create loyalty and fraternity.
            </p>
            
            <p>
            So we must ask, the societies which have competition in their education system 
            and caused so many students to suicide over the years and pushed constant daily survival pressure 
            on the living low-marks students because they failed to obtain the socially compulsory high exam marks, 
-           what have these societies achieved socially and technologically ? Especially if they continue to 
-           only use the techno systems created by people in other societies where high exam marks 
-           are not compulsory and indeed the techno creators were school dropouts 
-           or like Michael Faraday not even completing ten years of schooling ?
+           what have these societies achieved socially and technologically with the sacrifice of all 
+           these youth ? Especially if these societies continue to only use the techno systems created by people 
+           in other societies where high exam marks are not compulsory and indeed the techno creators were school dropouts 
+           or like Michael Faraday not even completing ten years of schooling ? All that these exams-based 
+           education systems have created is adding to existing caste systems where high-exam-marks 
+           students are made socially superior and the low-marks students are made inferior, 
+           disregarding the anti-human, anti-Nature and senseless basis of this... disregarding 
+           the large lack of innovation from the "soda glass" high-exam-marks people... disregarding 
+           the large contribution of the low-exam-marks people... disregarding that so many techno and 
+           social philosophies and developments happened hundreds of years or thousands of years 
+           before the modern assembly-line education systems and by people who were engineers and 
+           philosophers in a self-taught and self-realizing manner.
            </p>
 
            <p>

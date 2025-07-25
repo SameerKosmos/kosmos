@@ -2009,7 +2009,7 @@ modalText.innerHTML = `
            </a>
            </p> 
 
-         <h2>Reasoning for our name and logo</h2>
+         <h2>Our name and logo</h2>
          
           <p>
           We call ourselves as Kosmos Society because we want to be the vanguard techno-social organization 

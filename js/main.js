@@ -1249,10 +1249,7 @@ modalText.innerHTML = `
            </p>
            
            <p><span>&gt;&gt;</span> 
-           If you are a journalist curious about our simplified and radical approach to take 
-           potentially any human to space, through space and enable their safe and fulfilling life in space, 
-           all this in a cheap and democratic way. And also our systems contributing to evolution 
-           of human societies on Earth including reversal of Climate Change.
+           If you are a journalist.
            </p>
            
            <p><span>&gt;&gt;</span> 
@@ -1764,7 +1761,7 @@ modalText.innerHTML = `
            <p style='margin-left:2em;margin-bottom:10px;'><span>(c).</span> As much as possible, use of structural materials 
            and fuels that are available cheaply and available in many place or can be produced anywhere so that the manufacturers 
            can produce our products cheaply and make them available to the masses cheaply. Examples, water, air, wood, biocoal 
-           and electricity that is produced by a compact self-sustaining generator.
+           and electricity that is produced by a simple compact self-sustaining generator.
            </p>
 
             <p style='margin-left:2em;margin-bottom:10px;'><span>(d).</span> Bio-mimicry and Engineered Biology wherever applicable.</p>

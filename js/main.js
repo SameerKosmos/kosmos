@@ -2189,15 +2189,17 @@ modalText.innerHTML = `
                        
            <p><span>&gt;&gt;</span> Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>
            
-           <p><span>&gt;&gt;</span> The YouTube channel “The Action Lab” for the idea about using heat to run a piston engine. 
+           <p><span>&gt;&gt;</span> The YouTube channel “The Action Lab” for the idea about using heat to run a self-sustained piston engine. 
            This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ]. 
-           This we are considering for use in our Faradn electricity generator.
+           This we are considering for use in our Faradn electricity generator but we must of course 
+           first experiment on this.
            </p>
 
            <p><span>&gt;&gt;</span> The YouTube channel "Mech Marvels" for the idea about using mutually repelling magnets 
-           to generate current. This vid called "Magnets - the key to endless power ?" 
+           to form a self-sustained sustained motor. This vid called "Magnets - the key to endless power ?" 
            is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ]. 
-           This we are considering for use in our Faradn electricity generator.
+           This we are considering for use in our Faradn electricity generator but we must of course 
+           first experiment on this.
            </p>
 
            <p><span>&gt;&gt;</span> Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology (

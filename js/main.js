@@ -1237,18 +1237,24 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           1. Photo link [ https://scpr.brightspotcdn.com/dims4/default/adf950e/2147483647/strip/true/crop/730x489+0+0/resize/1760x1178!/format/webp/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2Flegacy%2Fi%2F65fa0fe81e1bee7f3ed280338d8ce9f2%2F5dc09412c92b3500089d2e61-eight.jpg ]. 
-           Article link [ https://laist.com/news/entertainment/blade-runners-2019-los-angeles-then-now-future-past ].
+           1. Photo [ <a href="https://scpr.brightspotcdn.com/dims4/default/adf950e/2147483647/strip/true/crop/730x489+0+0/resize/1760x1178!/format/webp/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2Flegacy%2Fi%2F65fa0fe81e1bee7f3ed280338d8ce9f2%2F5dc09412c92b3500089d2e61-eight.jpg" target="_blank" style="color:#0000FF;">https://scpr.brightspotcdn.com/dims4/default/adf950e/2147483647/strip/true/crop/730x489+0+0/resize/1760x1178!/format/webp/quality/90/?url=http%3A%2F%2Fscpr-brightspot.s3.us-west-2.amazonaws.com%2Flegacy%2Fi%2F65fa0fe81e1bee7f3ed280338d8ce9f2%2F5dc09412c92b3500089d2e61-eight.jpg</a> ].
+           </p>
+           <p>
+           Article [ <a href="https://laist.com/news/entertainment/blade-runners-2019-los-angeles-then-now-future-past" target="_blank" style="color:#0000FF;">https://laist.com/news/entertainment/blade-runners-2019-los-angeles-then-now-future-past</a> ].
            </p>
 
            <p>
-           2. Photo link [ https://ichef.bbci.co.uk/news/800/cpsprodpb/12E7E/production/_109483477_c1045498-a109-42a8-b6fd-6ccb2e959d37.png.webp ]. 
-           Article link [ https://www.bbc.com/news/technology-50247479 ].
+           2. Photo [ https://ichef.bbci.co.uk/news/800/cpsprodpb/12E7E/production/_109483477_c1045498-a109-42a8-b6fd-6ccb2e959d37.png.webp ]. 
+           </p>
+           <p>
+           Article [ https://www.bbc.com/news/technology-50247479 ].
            </p>
 
            <p>
-           3. Photo link [ https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/blade-runner-spinner-pic-1.jpg?q=50&fit=crop&w=825&dpr=1.5 ]. 
-           Article link [ https://screenrant.com/blade-runner-movie-mistakes-goofs/ ].
+           3. Photo [ https://static1.srcdn.com/wordpress/wp-content/uploads/2023/05/blade-runner-spinner-pic-1.jpg?q=50&fit=crop&w=825&dpr=1.5 ]. 
+           </p>
+           <p>
+           Article [ https://screenrant.com/blade-runner-movie-mistakes-goofs/ ].
            </p>
 
            <p>

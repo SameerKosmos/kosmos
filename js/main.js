@@ -2127,7 +2127,15 @@ modalText.innerHTML = `
                        
            <p><span>&gt;&gt;</span> Robert Murray-Smith on YouTube for the idea about using a simple electro-mechanical vibrator for amplification of electricity, made using an electro-magnetic relay. This vid called “1026 The easiest inverter you will ever make” is on this page [ <a href="https://www.youtube.com/watch?v=L-vC9SvU2Lo" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=L-vC9SvU2Lo</a> ]. This we use in our design of the Faradn generator.</p>
            
-           <p><span>&gt;&gt;</span> The YouTube channel “The Action Lab” for the idea about using heat to run a piston engine. This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ]. This we use in our design of the Faradn generator.</p>
+           <p><span>&gt;&gt;</span> The YouTube channel “The Action Lab” for the idea about using heat to run a piston engine. 
+           This vid called “This engine runs on sound waves” is on this page [ <a href="https://www.youtube.com/watch?v=xCnxsoXtlmY" target="_blank" style="color:#0000FF;">https://www.youtube.com/watch?v=xCnxsoXtlmY</a> ]. 
+           This we are considering for use in our Faradn electricity generator.
+           </p>
+
+           <p><span>&gt;&gt;</span> The YouTube channel "Mech Marvels" for the idea about using mutually pushing magnets 
+           to generate current. The vid is on this page [ <a href="https://www.youtube.com/shorts/yTHXh-5uxRM" target="_blank" style="color:#0000FF;">https://www.youtube.com/shorts/yTHXh-5uxRM</a> ]. 
+           This we are considering for use in our Faradn electricity generator.
+           </p>
 
            <p><span>&gt;&gt;</span> Farzad Zangeneh-Nejad and Romain Fleury at the Federal Institute of Technology (
              EPFL ) in Lausanne, Switzerland, for the idea of using sound to do analog computing.</p>
@@ -2313,8 +2321,8 @@ modalText.innerHTML = `
            </p>
            
            <p>
-           (a). A thermo-mechanical mechanism is supplied with a “start heat” by being in contact with heated sand 
-           which forms the "sand battery" and the thermo-mechanical mechanism will start to operate 
+           (a). A thermo-mechanical mechanism is supplied with a “start heat” by being in contact with a container 
+           of heated sand which forms the "sand battery" and the thermo-mechanical mechanism will start to operate 
            and turn a dynamo to produce a low-voltage current of maybe 4 volts or 6 volts or higher. This low current 
            is amplified and part of it sent to electrical resistance wiring within the sand battery 
            to keep it heated to high temperature which in turn will keep the thermo-mechanical mechanism running. 
@@ -2322,18 +2330,28 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           (b). A magnet-push mechanism where there are two sets of two permanent magnets, 
-           two of those magnets fixed and two of them connected to one shaft each where each shaft 
-           is connected to a wheel such that when the wheel is given an initial push by hand 
-           pushing each other to very near distances and connected to shafts which spin a wheel which in turn pushes 
+           (b). A simple magnet-repulsion mechanism where there are two sets of two permanent magnets, 
+           two of those magnets fixed side by side and the other two magnets placed a short distance 
+           from the fixed magnets and kept held there by being connected to two jointed rods which 
+           on the other ends are connected to a heavy wheel in an asymmetric way on the wheel.  
+           When the wheel is given an initial push by hand one of the jointed rods pushes 
+           its magnet which goes towards the fixed magnet in front of it and gets repelled 
+           and this pushes its joined rod to turn the wheel which in turn pushes its other 
+           jointed rod which pushes its magnet which gets pushed towards the magnet in front of it 
+           which repels the pushed rod-connected magnet and that in turn turns the wheel which then 
+           pushes the other jointed rod and the cycle continues. Maybe there can be more sets of 
+           mutually-pushing magnets here.
            </p>
-           
-           <p>The name of this system, Faradn, refers to two things : an acknowledgement to Michael
-            Faraday and a nod to the Dune story which has the character Farad’n.</p>
-           
-           <p>Please check the “Credits” chapter to see where we derive most of our ideas for the 
+
+           <p>
+           Please check the “Credits” chapter to see where we derive most of our ideas for the 
            generator.
            </p>
+           
+           <p>
+           The name of this system, Faradn, refers to two things : an acknowledgement to Michael
+           Faraday and a nod to the Dune story which has the character Farad’n.
+           </p>                    
            
            <p>There can be a rechargeable battery included within this system or outside this 
            system to provide short-duration backup and enable generator switchover when one 

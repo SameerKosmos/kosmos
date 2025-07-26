@@ -689,13 +689,24 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Furthering the above, the system of education in space should not have exams and tax which presently in 
-           most societies place citizens in various artificial social classes and their resulting inequality. The first 
-           educational institution to grant degrees was the University of Qarawiyyin in Morocco, 
-           established in 859 AD and this degree-granting act is the only mistake in the Islamic Golden Age 
-           and billions of people now suffer as a result. The woman who started this university, 
-           Fatima al-Fihri, was certainly not a thinker else she would have recognized that exacompetition in 
-           education
+           Furthering the above, the system of education in space should not be taxed and should not have exams and 
+           the result of the exams which is either a degree or the person being declared a failure even if 
+           he or she is naturally brilliant. In most societies the presence of a college degree or 
+           its lack or low marks on the degree, place the citizens in various artificial social classes not different 
+           from the classes in earlier feudal societies. A degree holder is allowed into the next series 
+           of social competition which is interviews for wage slave employment. A lack of college degree 
+           or less marks on the degree place that person in more difficult situations than the person 
+           with degree, but such societies are ruthlessly competitive for most citizen, with or without degree.
+           </p>
+
+           <p>
+           The concept of college degree goes back more than 1100 years. The first educational institution to grant degrees 
+           was the University of Qayrawan in present Morocco, established in 859 AD by Fatima al-Fihri 
+           and this degree-granting act is the only mistake in the hundreds of years of the Islamic Golden Age which otherwise 
+           was the reason for Europe to later have the Renaissance and the Industrial Revolution. However, that unthoughtfulness by 
+           Fatima in her university in Africa / Ifriqiyya in 859 AD, of starting the concept of degree, has resulted in billions of people now 
+           having to suffer because of the needless competition, money-greed, hurry-burry, student suicides and ignored dreams the degree system enabled.
+           Fatima certainly was certainly not a thinker.
            </p>
 
            <p>

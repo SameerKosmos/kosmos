@@ -689,8 +689,13 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Furthering the above, the system of education in space should not have exams, tax and should not result in 
-           the providing or not providing of employment and simple daily survival and we reason these below.
+           Furthering the above, the system of education in space should not have exams and tax which presently in 
+           most societies place citizens in various artificial social classes and their resulting inequality. The first 
+           educational institution to grant degrees was the University of Qarawiyyin in Morocco, 
+           established in 859 AD and this degree-granting act is the only mistake in the Islamic Golden Age 
+           and billions of people now suffer as a result. The woman who started this university, 
+           Fatima al-Fihri, was certainly not a thinker else she would have recognized that exacompetition in 
+           education
            </p>
 
            <p>
@@ -724,7 +729,7 @@ modalText.innerHTML = `
            who score high marks in exams, are "gold medalists" in exams and prepare for exams 
            religiously by memorizing the text books through many nights in addition to days. 
            But how many of these "soda glass" students have been known to create novel technologies 
-           for humanity and propose simple, scientific and natural social ideas ?
+           for humanity and proposed simple, scientific and natural social ideas ?
            </p>
            
            <p>
@@ -796,7 +801,7 @@ modalText.innerHTML = `
            or like Michael Faraday not even completing ten years of schooling ?
            </p>
            
-           <p> All that these exams-based education systems have created is adding to existing caste systems where high-exam-marks 
+           <p> All that these exams-based education systems have created is adding to existing class systems where high-exam-marks 
            students are made socially superior and the low-marks students are made inferior, disregarding the anti-human, anti-Nature and 
            senseless basis of this... disregarding the large lack of innovation from the "soda glass" high-exam-marks people... 
            disregarding the large contribution of the low-exam-marks people... disregarding that so many techno and social philosophies and 
@@ -2161,9 +2166,10 @@ modalText.innerHTML = `
           We call ourselves as Kosmos Society because we want to be the vanguard techno-social organization 
           taking human society into the kosmos... the universe... so that humans become gentle, observant 
           and aware travelers and settlers of the universe, melding into the universe naturally 
-          and respecting and adopting Nature's laws, including those reasonable laws and understandings 
-          which were part of human society for millennia, preached by the older philosophers and social reformers 
-          and those from true modern philosophers and those from us.
+          and becoming the "Kosmos Society", respecting and adopting Nature's laws, 
+          including those reasonable laws and understandings which were part of human society for millennia, 
+          preached by the older philosophers and social reformers and those from true modern philosophers 
+          and those ideas from us.
           </p>
 
           <p>

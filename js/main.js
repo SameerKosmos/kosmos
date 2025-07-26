@@ -604,8 +604,8 @@ modalText.innerHTML = `
            very proud of his culture. The Kosmos / Universe / Space does not care for these arrogant human 
            affiliations. </p>
 
-           <p> This above should be our approach to learnings of space and the resulting bettering of 
-           humanity.</p>
+           <p> The above learnings should be our approach to space and the resulting bettering of 
+           the individual and the bettering of humanity.</p>
 
            <p> Decades of in-person human presence in space has been in a very limited way, with most of 
            it in Low Earth Orbit and a little on the Moon. Cosmonauts have reported their in-person 
@@ -614,7 +614,7 @@ modalText.innerHTML = `
            experiences were not proposed by academics who usually pretend to be experts of the 
            Universe despite never having stepped into the Universe even once.
            </p>
-           
+
            <p>
            The Big Bang Theory confidently declares the birth of the Kosmos / Universe / Space to be 13.8 billion years ago but this is a 
            theory mainly forwarded by academia, proposed solely on the basis of mathematical equations on paper and origining 98 years ago. 
@@ -689,8 +689,8 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Furthering the above, the system of education in space should not be taxed and should not have exams and 
-           the result of the exams which is either a degree or the person being declared a failure even if 
+           Furthering the above, the system of education in space should not have exams and the consequent result 
+           of exams which is either a degree or the person being declared a failure even if 
            he or she is naturally brilliant. In most societies the presence of a college degree or 
            its lack or low marks on the degree, place the citizens in various artificial social classes not different 
            from the classes in earlier feudal societies. A degree holder is allowed into the next series 
@@ -701,24 +701,51 @@ modalText.innerHTML = `
 
            <p>
            The concept of college degree goes back more than 1100 years. The first educational institution to grant degrees 
-           was the University of Qayrawan in present Morocco, established in 859 AD by Fatima al-Fihri 
-           and this degree-granting act is the only mistake in the hundreds of years of the Islamic Golden Age which otherwise 
-           was the reason for Europe to later have the Renaissance and the Industrial Revolution. However, that unthoughtfulness by 
-           Fatima in her university in Africa / Ifriqiyya in 859 AD, of starting the concept of degree, has resulted in billions of people now 
-           having to suffer because of the needless competition, money-greed, hurry-burry, student suicides and ignored dreams the degree system enabled.
-           Fatima certainly was certainly not a thinker.
+           was the university in Qayrawan in present-day Morocco, established in 859 AD by Fatima al-Fihri 
+           and this degree-granting act is the only mistake in nearly a thousand years of the Islamic Golden Age which otherwise 
+           was a glorious period and the main contribution for Europe to have the Renaissance and the Industrial Revolution. 
+           However, that unthoughtfulness by Fatima in her university in Ifriqiyya / Africa in 859 AD, of starting the concept of college degree, 
+           has resulted in billions of people now having to suffer because of the needless competition, money-greed, feudalism, hurry-burry, 
+           student suicides and dashed dreams the degree system brought. Fatima was a thinker certainly but 
+           she should have thought more and discussed.
            </p>
 
            <p>
-           Competition is an enemy of harmonious society and removes dignity from a human, 
+           Competition is the enemy of harmonious society and removes dignity from a human, 
            reducing that human to very less of his or her potential, who must constantly fight 
            with other forcibly-made sub-humans for survival. Resources which should be naturally available for all equally without tax, 
            these resources are artificially made scarce in most societies and most citizens there 
-           must compete with each other daily to have a little part of the resources.
+           must compete with each other daily to have a little part of the resources. This competition involves 
+           apathy, cruelty and mob-thinking where in a few societies, parents are ready to murder 
+           their own children for fake pride and money greed and prevent their own socio-economic boycott 
+           or at least prevent social mockery which happens because the children do something which goes against 
+           the popular continued anti-human beliefs of that society including the children just wanting to 
+           joyously appear in a music video or dropping out of the so-called education system or wanting to start 
+           an intellectual company truly useful to humanity or just love a person of the opposite gender.
            </p>
-           
+
            <p>
-           This situation can only be called a "rat race" or "dog-eat-dog" and continues for generations. 
+           The above high crimes against humanity are called "honor killings" and happen despite those societies 
+           sometimes having progressive and humanist founders decades ago who wrote gentle and rights-giving constitutions 
+           which declared the responsibility upon the citizen to have a rational, humanist, scientific temper and 
+           inculcate pan-human fraternity. The "honor killings" happen now in 2025 because the parents of 
+           these murderer parents did not join their contemporary progressives in changing their society 
+           to the declared global and local calls for "Liberty, Equality, Fraternity" but instead robotically obeyed their own 
+           non-sensible parents and joined competition-based so-called education system and then joined competition-based wage employments 
+           and wasted their human potential and contributed every bit to the needless social disharmony and injustice which 
+           their present-day generations are having the needlessly endure. In these societies a dog may have 
+           more respect than a human because the nature of the dog is cruelty, chaos-making, mob-joining and 
+           mindlessness and not gentleness, empathy, intellectuality and far-sightedness. And in societies 
+           filled with daily competition, the competiting mobs have no place for gentleness and empathy. 
+           Techno progresses that happen worldwide will find usage also in these competition-filled 
+           anti-intellectual societies but only because they created use of it in competions, 
+           like "edtech" and "fintech" companies, but these are the only creations some in these socities 
+           will do, and only leads to the unreasonable acceptance of one citizen trying to find 
+           a little progress by stepping on the head of another citizen.
+           </p>
+
+           <p>
+           This daily situation can only be called a "rat race" or "dog-eat-dog" and continues for generations. 
            However, in these societies those who have established themselves as feudals, 
            they do not participate in these daily competitions as the resources are available to them very easily, 
            in any quantity they want. It is the middle class and the still lower class 
@@ -730,9 +757,9 @@ modalText.innerHTML = `
            </p>
 
            <p>
-           Competition greatly shows itself in the education system in most societies in form of exams. 
-           A student's progress through the education system and then into competition-based wage employment is decided 
-           by that student's ranking in exams. This system has been there for a long time but is contradictory to Nature. 
+           In such a situation a student's progress through the assembly-line education system and 
+           then into competition-based wage employment is decided by that student's ranking in exams. 
+           This system has been there for a long time but is contradictory to Nature. 
            All that the high marks scored by a student shows is his or her ability to memorize the textbooks 
            and reproduce those texts in the exam in a much better way than his or her student colleagues. 
            In the context of India there is the archetype of the "soda glass" wearing male student. 

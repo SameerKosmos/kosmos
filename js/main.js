@@ -875,7 +875,11 @@ modalText.innerHTML = `
            <p>
            Therefore the education system in the Kosmos and on Earth should not be taxed and 
            should abolish exams and the associated "scholarships" system. Surely these is no civilization from the planet Pluto 
-           holding these things to our head. Surely these abolitions are very simple.
+           holding these things to our head. Surely these abolitions are very simple. Every society 
+           on Earth has so much potential and thus the combined potential of humanity to be a gentle, observant 
+           and extremely intelligent culture in the exploration and settlement of the kosmos in the now 
+           and in the far far future. Let use not lose this glorious future by involving in unpleasant 
+           and self-defeating things.
            </p>
 
            <p>

@@ -703,11 +703,11 @@ modalText.innerHTML = `
            The concept of college degree goes back more than 1100 years. The first educational institution to grant degrees 
            was the university in Qayrawan in present-day Morocco, established in 859 AD by Fatima al-Fihri 
            and this degree-granting act is the only mistake in nearly a thousand years of the Islamic Golden Age which otherwise 
-           was a glorious period and the main contribution for Europe to have the Renaissance and the Industrial Revolution. 
-           However, that unthoughtfulness by Fatima in her university in Ifriqiyya / Africa in 859 AD, of starting the concept of college degree, 
-           has resulted in billions of people now having to suffer because of the needless competition, money-greed, feudalism, hurry-burry, 
-           student suicides and dashed dreams the degree system brought. Fatima was a thinker certainly but 
-           she should have thought more and discussed.
+           was a glorious period and the main contribution for Europe to have the Renaissance, the Enlightenment and 
+           the Industrial Revolution. However, that unthoughtfulness by Fatima in her university in Ifriqiyya / Africa in 859 AD, 
+           of starting the concept of college degree, has resulted in billions of people now having to suffer because of 
+           the needless competition, money-greed, feudalism, hurry-burry, student suicides and dashed dreams 
+           the degree system brought. Fatima was a thinker certainly but she should have thought more and discussed.
            </p>
 
            <p>
@@ -720,7 +720,7 @@ modalText.innerHTML = `
            their own children for fake pride and money greed and prevent their own socio-economic boycott 
            or at least prevent social mockery which happens because the children do something which goes against 
            the popular continued anti-human beliefs of that society including the children just wanting to 
-           joyously appear in a music video or dropping out of the so-called education system or wanting to start 
+           joyously appear in a music video or drop out of the so-called education system or wanting to start 
            an intellectual company truly useful to humanity or just love a person of the opposite gender.
            </p>
 
@@ -769,7 +769,7 @@ modalText.innerHTML = `
            But how many of these "soda glass" students have been known to create novel technologies 
            for humanity and proposed simple, scientific and natural social ideas ?
            </p>
-           
+
            <p>
            Exam marks do not show some student's great intelligence or the lack of intelligence. A student may simply be bored of 
            the competition-based, non-innovative and non-empathy-teaching education 
@@ -778,7 +778,7 @@ modalText.innerHTML = `
            He or she may have ideas far superior to the school textbooks and to the teachers 
            who have for 30 years been teaching those textbooks.
            </p>
-           
+
            <p>
            The few humanist social ideas presented in the textbooks and the few simple science principles 
            presented in the textbooks are made by the mediocre teachers to be declared "boring" by the students 
@@ -791,7 +791,7 @@ modalText.innerHTML = `
            and will not participate in creating an ideal humanity as a race. So these highly competitive 
            students unfortunately become non-productive members of local society and of humanity.
            </p>
-           
+
            <p>
            A high-marks student scoring 600 marks out of 600 and studying in a "prestigious school" 
            may be mediocre in real intelligence but a student who has failed in some exam in the same school 
@@ -838,7 +838,7 @@ modalText.innerHTML = `
            in other societies where high exam marks are not compulsory and indeed the techno creators were school dropouts 
            or like Michael Faraday not even completing ten years of schooling ?
            </p>
-           
+
            <p> All that these exams-based education systems have created is adding to existing class systems where high-exam-marks 
            students are made socially superior and the low-marks students are made inferior, disregarding the anti-human, anti-Nature and 
            senseless basis of this... disregarding the large lack of innovation from the "soda glass" high-exam-marks people... 
@@ -870,6 +870,12 @@ modalText.innerHTML = `
            reason the society cannot build more colleges. There are many societies with so many prayer houses, 
            so why can't there be as many colleges ? Surely the concrete and the iron doesn't miraculously vanish 
            when more colleges are decided to be built.
+           </p>
+
+           <p>
+           Therefore the education system in the Kosmos and on Earth should not be taxed and 
+           should abolish exams and the associated "scholarships" system. Surely these is no civilization from the planet Pluto 
+           holding these things to our head. Surely these abolitions are very simple.
            </p>
 
            <p>
